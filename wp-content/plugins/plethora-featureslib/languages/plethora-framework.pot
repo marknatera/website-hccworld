@@ -1,0 +1,5132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plethora Framework\n"
+"POT-Creation-Date: 2016-04-01 18:13+0200\n"
+"PO-Revision-Date: 2016-04-01 18:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: Plethora Themes <plethorathemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../libs\n"
+
+#: ../controllers/plethora-dashboard.php:75
+msgid ""
+"This is the default dashboard content! You can override this content using "
+"the <strong>content</strong> method of your dashboard class"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:286
+#: ../controllers/plethora-posttype.php:287
+#: ../controllers/plethora-posttype.php:400
+msgid "Add New"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:288
+msgid "Edit "
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:289
+#: ../controllers/plethora-posttype.php:401
+msgid "New"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:290
+#: ../controllers/plethora-posttype.php:398
+msgid "View"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:291
+#: ../controllers/plethora-posttype.php:404
+msgid "Search"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:292
+#: ../controllers/plethora-posttype.php:293
+#: ../controllers/plethora-posttype.php:409
+#: ../controllers/plethora-posttype.php:712
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:114
+#: ../features/shortcode/button/shortcode-button.php:146
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:115
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:217
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:71
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:134
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:195
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:207
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:283
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:117
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:137
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:146
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:276
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:107
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:144
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:93
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:112
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:122
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:132
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:142
+#: ../features/widget/multibox/widget-multibox.php:147
+msgid "No"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:292
+#: ../controllers/plethora-posttype.php:409
+msgid "found"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:293
+msgid "found in Trash"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:294
+#: ../controllers/plethora-posttype.php:402
+#: ../controllers/plethora-posttype.php:403
+#: ../features/module/woocommerce/module-woocommerce.php:1170
+msgid "Parent"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:312
+msgid "ENTER TITLE"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:341
+#: ../features/posttype/testimonial/posttype-testimonial.php:66
+#: ../features/posttype/testimonial/posttype-testimonial.php:118
+#: ../features/posttype/testimonial/posttype-testimonial.php:119
+#: ../features/posttype/testimonial/posttype-testimonial.php:120
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:46
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:47
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:50
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:50
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:51
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:54
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:42
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:43
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:46
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:46
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:47
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:50
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:45
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:46
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:49
+#: ../features/widget/aboutus/widget-aboutus.php:132
+#: ../features/widget/aboutus/widget-aboutus.php:149
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:396
+msgid "All"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:397
+msgid "Edit"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:399
+msgid "Update"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:401
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:586
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:97
+msgid "Name"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:405
+msgid "Popular"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:406
+msgid "Seperate"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:406
+msgid "with commas"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:407
+msgid "Add or remove"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:408
+msgid "Choose from most used "
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:580
+#: ../features/module/woocommerce/module-woocommerce.php:931
+#: ../features/posttype/profile/posttype-profile.php:273
+#: ../features/posttype/profile/posttype-profile.php:391
+#: ../features/posttype/slider/posttype-slider.php:119
+#: ../features/posttype/slider/posttype-slider.php:176
+#: ../features/posttype/slider/posttype-slider.php:184
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:275
+#: ../features/widget/flickr/widget-flickr.php:104
+#: ../features/widget/multibox/widget-multibox.php:59
+msgid "Title"
+msgstr ""
+
+#: ../controllers/plethora-posttype.php:600
+#: ../features/module/woocommerce/module-woocommerce.php:930
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:133
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:272
+msgid "Date"
+msgstr ""
+
+#: ../controllers/plethora-shortcode.php:150
+#: ../features/shortcode/button/shortcode-button.php:186
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:292
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:145
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:223
+msgid "CSS box"
+msgstr ""
+
+#: ../controllers/plethora-shortcode.php:153
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:632
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:633
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:110
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:111
+msgid "Design Options"
+msgstr ""
+
+#: ../controllers/plethora-shortcode.php:201
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file. Leave "
+"\"prettyphoto\" class for popup functionality, if you want link to larger "
+"image."
+msgstr ""
+
+#: ../controllers/plethora-shortcode.php:206
+msgid "If checked, image will be linked to a popup displaying a larger version"
+msgstr ""
+
+#: ../controllers/plethora-widget.php:188
+msgid "No icon selected"
+msgstr ""
+
+#: ../controllers/plethora-widget.php:214
+#: ../features/widget/aboutus/widget-aboutus.php:144
+#: ../features/widget/infobox/widget-infobox.php:151
+#: ../features/widget/timetable/widget-timetable.php:160
+msgid "Upload Image"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:105
+#: ../features/module/demoimporter/module-demoimporter.php:106
+#: ../features/module/demoimporter/module-demoimporter.php:1425
+msgid "Demo Importer"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:211
+msgid ""
+"Import failed due to server unavailabilty...process stopped, you should try "
+"again after a while"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:215
+msgid "Prepare Users"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:217
+msgid " users in queue"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:218
+msgid "Preparing users..."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:219
+msgid "Users are ready...let's start!"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:226
+msgid "Categories"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:228
+msgid " categories in queue"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:229
+#: ../features/module/demoimporter/module-demoimporter.php:249
+msgid "Importing taxonomy terms..."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:230
+msgid "All categories imported!"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:236
+msgid "Tags"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:238
+msgid " tags in queue"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:239
+msgid "Importing tags..."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:240
+msgid "All tags imported!"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:246
+msgid "Custom taxonomy terms"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:248
+msgid " terms in queue"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:250
+msgid "All taxonomy terms imported!"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:267
+msgid " items in queue"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:268
+msgid "Importing attachment"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:269
+msgid " and related data imported!"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:277
+msgid "Widgets"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:279
+msgid " widgets in queue"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:280
+msgid "Importing widgets..."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:281
+msgid "All widgets imported!"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:286
+msgid "Theme Options"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:287
+#: ../features/module/demoimporter/module-demoimporter.php:295
+msgid "In queue"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:288
+msgid "Updating theme options..."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:289
+msgid "Theme options updated!"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:294
+msgid "Finish Import"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:296
+msgid "Wrapping up..."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:297
+msgid "Everything is good...enjoy your demo!"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:331
+msgid "No...you can't do this, please go play something else!"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:375
+msgid "Demo data could not be retrieved. Import not possible"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:542
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:595
+msgid "Failed to import category: "
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:634
+#: ../features/module/demoimporter/module-demoimporter.php:680
+msgid "Failed to import post tag: "
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:710
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:732
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:805
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:837
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:936
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:949
+msgid "Invalid file type"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:995
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1002
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1094
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1100
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1107
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1112
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1158
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1182
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1201
+msgid "Widget already exists"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1250
+msgid "Imported"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1253
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1258
+msgid "No Title"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1426
+msgid ""
+"Preview and select a demo to import. We always recommend importing only one "
+"demo at a single installation. Before trying to import the demo of your "
+"choice, make sure that you have installed / activated all required "
+"plugins .  "
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1438
+msgid "Untitled"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1440
+#: ../features/module/demoimporter/module-demoimporter.php:1497
+msgid "Preview this demo online"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1444
+msgid "Go To Import Panel"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1445
+msgid "Please install all required plugins first"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1501
+msgid "Demo"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1502
+msgid "Online Version"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1558
+msgid "Assign Authors"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1559
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1565
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1580
+msgid "Import author:"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1587
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1589
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../features/module/demoimporter/module-demoimporter.php:1590
+msgid "- Select -"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:90
+msgid "Development Mode"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:91
+#: ../features/module/developertools/module-developertools.php:104
+#: ../features/module/developertools/module-developertools.php:117
+#: ../features/module/developertools/module-developertools.php:128
+msgid "Enable"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:91
+#: ../features/module/developertools/module-developertools.php:105
+#: ../features/module/developertools/module-developertools.php:118
+#: ../features/module/developertools/module-developertools.php:129
+msgid "Disable"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:92
+msgid ""
+"<strong style=\"color:red\">NOTICE: Don't forget to switch back to "
+"Production mode after the final launch of the website!</span>"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:100
+msgid "HTML Comments // Options"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:101
+msgid ""
+"Enable options information comments. This will help you understand how "
+"options applied and how affect several components display."
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:113
+msgid "HTML Comments // Template Parts Files"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:114
+msgid ""
+"Enable template part loading information. This will help you understand how "
+"the template system works."
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:124
+msgid "HTML Comments // Layout Checkpoints"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:125
+msgid ""
+"Enable start/end layout checkpoints information. This will help you separate "
+"easily the most important parts of the page on the html source view!"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:139
+msgid "Those tools will help the developer to:"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:141
+msgid "Produce unminified JS & CSS output when developer mode is enabled"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:142
+msgid ""
+"Understand faster how options and template parts work on this theme by "
+"enabling related comments inside HTML output of each page"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:144
+msgid ""
+"Note that for security reasons, developer comments will be output only to "
+"logged users with options editing capabilities"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:149
+msgid "Developer Tools"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:151
+msgid "DEVELOPER TOOLS"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:160
+msgid ""
+"Deliver a light installation website by safely disabling several "
+"functionality that you will not actually use."
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:161
+msgid "Please note the following"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:163
+msgid ""
+"Deactivating a post type doesn't mean that its posts will be deleted from "
+"the database too. When you activate the post type again, your posts will be "
+"present!"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:164
+msgid ""
+"The Post Types manager will display custom post types created from third "
+"party plugins ( i.e. the \"Custom Post Type UI\" plugin). Deactivating third "
+"party CPTs will just remove the related archive/single view configuration "
+"tabs on THEME OPTIONS > CONTENT . In simple words, it will just remove any "
+"frontend display configuration, not the post type itself."
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:165
+msgid ""
+"Deactivating a shortcode doesn't mean that all of its instances will be "
+"removed too. Unfortunately you will have to remove manualy those shortcodes "
+"on each page they are displayed."
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:166
+msgid ""
+"Deactivating some features might cause the deactivation of other features "
+"affected by it. In example, deactivating the 'Profile Post Type' will force "
+"the deactivation of the 'Profiles Grid' shortcode too."
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:171
+msgid "Features Library"
+msgstr ""
+
+#: ../features/module/developertools/module-developertools.php:173
+msgid "PLETHORA FEATURES LIBRARY ACTIVATION / DEACTIVATION"
+msgstr ""
+
+#: ../features/module/mailchimp/module-mailchimp.php:116
+msgid "MailChimp API"
+msgstr ""
+
+#: ../features/module/mailchimp/module-mailchimp.php:117
+msgid "MAILCHIMP API OPTIONS"
+msgstr ""
+
+#: ../features/module/mailchimp/module-mailchimp.php:118
+msgid ""
+"Fill in the following fields to connect with your Mailchimp account. On the "
+"Mailchimp website, go to 'Mailchimp Dashboard > Account > Extras > API keys' "
+"to obtain an existing or create a new API Key"
+msgstr ""
+
+#: ../features/module/mailchimp/module-mailchimp.php:126
+msgid "MailChimp API Key"
+msgstr ""
+
+#: ../features/module/mailchimp/module-mailchimp.php:133
+msgid "MailChimp List ID"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:158
+msgid "Color"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:163
+msgid "Featured Image"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:164
+#: ../features/module/mediapanel/module-mediapanel.php:742
+msgid "Other Image"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:169
+#: ../features/posttype/slider/posttype-slider.php:56
+msgid "Slider"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:174
+msgid "Map"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:179
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:184
+msgid "Video"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:484
+msgid "Media Panel // Image Background Configuration"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:490
+msgid "Media Panel Height / Image (large devices)"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:491
+msgid "Panel height (in pixels) when a featured or other image is displayed"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:492
+msgid "default: 380px"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:502
+msgid "Media Panel Height / Image (small devices)"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:503
+msgid ""
+"Panel height (in pixels) for small devices when a featured or other image is "
+"displayed"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:504
+#: ../features/module/mediapanel/module-mediapanel.php:551
+msgid "default: 280px"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:514
+msgid "Media Panel Height / Image (extra small devices)"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:515
+msgid ""
+"Panel height (in pixels) for extra small devices when a featured or other "
+"image is displayed"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:516
+#: ../features/module/mediapanel/module-mediapanel.php:563
+msgid "default: 180px"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:531
+msgid "Media Panel // Map Background Configuration"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:537
+msgid "Media Panel Height / Map (large devices)"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:538
+msgid "Panel height (in pixels) when a map is displayed"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:539
+msgid "default: 480px"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:549
+msgid "Media Panel Height / Map (small devices)"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:550
+msgid "Panel height (in pixels) for small devices when a map is displayed"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:561
+msgid "Media Panel Height / Map (extra small devices)"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:562
+msgid ""
+"Panel height (in pixels) for extra small devices when a map is displayed"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:585
+#: ../features/module/mediapanel/module-mediapanel.php:586
+msgid "Media Panel"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:595
+msgid "Display Media Panel"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:604
+msgid "BACKGROUND SECTION"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:610
+msgid "Background Type"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:629
+msgid "HEADINGS SECTION"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:639
+msgid "Title / Subtitle Behaviour"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:659
+msgid "Custom Title"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:671
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:83
+msgid "Custom Subtitle"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:689
+msgid "STYLING OPTIONS"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:690
+msgid ""
+"Notice: styling options ( and their default values ) may be different "
+"according to the selected background media."
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:721
+msgid "Image Size"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:722
+msgid ""
+"For optimum page speed, we suggest that the original image file size should "
+"not exceed 500KBs"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:743
+msgid ""
+"Upload an image other than your featured image. Note that media panel will "
+"display by default the original image size. For optimum page speed, we "
+"suggest that the original image file size should not exceed 500KB"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:757
+msgid "Map Latitude"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:758
+#: ../features/module/mediapanel/module-mediapanel.php:765
+msgid "Example:"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:764
+msgid "Map Longtitude"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:772
+msgid "Map Type"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:787
+msgid "Map Zoom"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:797
+msgid "Map Marker"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:798
+msgid "Show a mark over the given location"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:808
+msgid "Marker Type"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:824
+msgid "Map Marker Image (custom)"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:825
+msgid "Use a custom image marker. Upload a PNG/GIF transparent image."
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:837
+msgid "Map Marker Hover Title"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:838
+msgid "We are right here!"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:849
+msgid "Map Marker Click Window"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:850
+msgid "Edit infromation window that appears on marker click ( HTML )"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:857
+msgid "Map Type Control"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:858
+msgid "Display map type selection control"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:865
+msgid "Map Type Control Position"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:882
+msgid "Map Type Control Style"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:893
+msgid "Map Pan Control"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:894
+msgid "Display pan control"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:901
+msgid "Map Pan Control Position"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:918
+msgid "Map Zoom Control"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:919
+msgid "Display zoom control"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:926
+msgid "Map Zoom Control Position"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:943
+msgid "Map Zoom Control Style"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:954
+msgid "Map Scrolling Wheel"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:955
+msgid "Disable the default scrolling wheel zooming functionality"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:964
+msgid "Snazzy Map Styling"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:965
+msgid "Enable Snazzy map styling plugin. Check Snazzy maps:"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:972
+msgid "Snazzy Map Style Array"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:973
+msgid "You can create your own Snazzy map style array here:"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:989
+#: ../features/module/mediapanel/module-mediapanel.php:1008
+msgid "Select Slider"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:990
+#: ../features/module/mediapanel/module-mediapanel.php:1009
+msgid ""
+"Select a slider to be displayed. You should create one first! Slider "
+"settings will be applied here too!"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1032
+msgid "Headings Layout"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1046
+msgid "Title Color Set"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1058
+msgid "Title Background Type"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1071
+msgid "Subtitle Color Set"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1083
+msgid "Subtitle Background Type"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1091
+msgid "Title/Subtitle Text Align"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1113
+msgid "Parallax Effect"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1126
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:136
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:117
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:128
+msgid "Image Vertical Align"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1143
+#: ../features/module/mediapanel/module-mediapanel.php:1159
+msgid "Full Height"
+msgstr ""
+
+#: ../features/module/mediapanel/module-mediapanel.php:1144
+#: ../features/module/mediapanel/module-mediapanel.php:1160
+msgid "This will produce an impressive full height display for the media panel"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:69
+msgid "Plethora Customer Support"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:70
+msgid "PLETHORA CUSTOMER SUPPORT"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:76
+msgid "KNOWLEDGEBASE"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:81
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:104
+#: ../features/module/plethorasupport/module-plethorasupport.php:106
+#: ../features/module/plethorasupport/module-plethorasupport.php:107
+#: ../features/module/plethorasupport/module-plethorasupport.php:108
+#: ../features/module/woocommerce/module-woocommerce.php:295
+#: ../features/module/woocommerce/module-woocommerce.php:1065
+msgid "Products"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:105
+msgid "Product"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:109
+#: ../features/module/plethorasupport/module-plethorasupport.php:110
+msgid "Add New Product"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:111
+msgid "Edit Product"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:112
+msgid "New Product"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:113
+msgid "View Product"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:114
+msgid "Search Products"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:115
+msgid "No Products Found"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:116
+msgid "No Products Found In Trash"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:124
+msgid "Create product presentations"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:179
+#: ../features/module/plethorasupport/module-plethorasupport.php:180
+#: ../features/module/plethorasupport/module-plethorasupport.php:181
+msgid "Knowledgebase"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:182
+msgid "KB Article"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:183
+msgid "KB Articles"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:184
+#: ../features/module/plethorasupport/module-plethorasupport.php:185
+msgid "Add New Article"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:186
+msgid "Edit Article"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:187
+msgid "New Article"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:188
+msgid "View Article"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:189
+msgid "Search Articles"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:190
+msgid "No Article Found In Knowledgebase"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:191
+msgid "No Article Found In Trash"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:199
+msgid "Build a Knowledge Base on your customer support"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:254
+#: ../features/module/plethorasupport/module-plethorasupport.php:255
+#: ../features/module/plethorasupport/module-plethorasupport.php:256
+msgid "Documentation"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:257
+msgid "Doc Page"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:258
+msgid "Doc Pages"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:259
+#: ../features/module/plethorasupport/module-plethorasupport.php:260
+msgid "Add New Doc Page"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:261
+msgid "Edit Doc Page"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:262
+msgid "New Doc Page"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:263
+msgid "View Doc Page"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:264
+msgid "Search Doc Pages"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:265
+msgid "No Page Found In Documentation"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:266
+msgid "No Page Found In Trash"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:274
+msgid "Build documentation pages for your products"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:332
+#: ../features/module/plethorasupport/module-plethorasupport.php:334
+#: ../features/posttype/terminology/posttype-terminology.php:109
+#: ../features/posttype/terminology/posttype-terminology.php:111
+msgid "Topics"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:333
+#: ../features/posttype/terminology/posttype-terminology.php:110
+msgid "Topic"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:335
+#: ../features/posttype/terminology/posttype-terminology.php:112
+msgid "All Topics"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:336
+#: ../features/posttype/terminology/posttype-terminology.php:113
+msgid "Edit Topic"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:337
+#: ../features/posttype/terminology/posttype-terminology.php:114
+msgid "View Topic"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:338
+#: ../features/posttype/terminology/posttype-terminology.php:115
+msgid "Update Topic"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:339
+#: ../features/posttype/terminology/posttype-terminology.php:116
+msgid "Add New Topic"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:340
+#: ../features/posttype/terminology/posttype-terminology.php:117
+msgid "New Topic Name"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:341
+#: ../features/posttype/terminology/posttype-terminology.php:118
+msgid "Parent Topic"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:342
+#: ../features/posttype/terminology/posttype-terminology.php:119
+msgid "Parent Topic:"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:343
+#: ../features/posttype/terminology/posttype-terminology.php:120
+msgid "Search Topics"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:344
+#: ../features/posttype/terminology/posttype-terminology.php:121
+msgid "Popular Topics"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:345
+msgid "Separate Topics with commas"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:346
+#: ../features/posttype/terminology/posttype-terminology.php:123
+msgid "Add or remove Topics"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:347
+#: ../features/posttype/terminology/posttype-terminology.php:124
+msgid "Choose from most used Topics"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:348
+#: ../features/posttype/terminology/posttype-terminology.php:125
+msgid "No Topics found"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:387
+#: ../features/module/plethorasupport/module-plethorasupport.php:389
+msgid "Doc Chapters"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:388
+msgid "Doc Chapter"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:390
+msgid "All Doc Chapters"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:391
+msgid "Edit Doc Chapter"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:392
+msgid "View Doc Chapter"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:393
+msgid "Update Doc Chapter"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:394
+msgid "Add New Doc Chapter"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:395
+msgid "New Doc Chapter Name"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:396
+msgid "Parent Doc Chapter"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:397
+msgid "Parent Doc Chapter:"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:398
+msgid "Search Doc Chapters"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:399
+msgid "Popular Doc Chapters"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:400
+msgid "Separate Doc Chapters with commas"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:401
+msgid "Add or remove Doc Chapters"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:402
+msgid "Choose from most used Doc Chapters"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:403
+msgid "No Doc Chapters found"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:440
+#: ../features/module/plethorasupport/module-plethorasupport.php:442
+msgid "Search Tags"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:441
+msgid "Search Tag"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:443
+msgid "All Search Tags"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:444
+msgid "Edit Search Tag"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:445
+msgid "View Search Tag"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:446
+msgid "Update Search Tag"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:447
+msgid "Add New Search Tag"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:448
+msgid "New Search Tag Name"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:449
+msgid "Parent Search Tag"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:450
+msgid "Parent Search Tag:"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:451
+msgid "Index Search Tags"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:452
+msgid "Popular Search Tags"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:453
+msgid "Separate Search Tags with commas"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:454
+msgid "Add or remove Search Tags"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:455
+msgid "Choose from most used Search Tags"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:456
+msgid "No Search Tags found"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:495
+#: ../features/module/plethorasupport/module-plethorasupport.php:497
+msgid "Product Types"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:496
+msgid "Product Type"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:498
+msgid "All Product Types"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:499
+msgid "Edit Product Type"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:500
+msgid "View Product Type"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:501
+msgid "Update Product Type"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:502
+msgid "Add New Product Type"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:503
+msgid "New Product Type Name"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:504
+msgid "Parent Product Type"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:505
+msgid "Parent Product Type:"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:506
+msgid "Index Product Types"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:507
+msgid "Popular Product Types"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:508
+msgid "Separate Product Types with commas"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:509
+msgid "Add or remove Product Types"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:510
+msgid "Choose from most used Product Types"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:511
+msgid "No Product Types found"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:552
+msgid "Related Product(s)"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:566
+msgid "Additional Data"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:573
+msgid "Preview Url"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:574
+#: ../features/module/plethorasupport/module-plethorasupport.php:582
+msgid "Give a short job description"
+msgstr ""
+
+#: ../features/module/plethorasupport/module-plethorasupport.php:581
+msgid "Job position"
+msgstr ""
+
+#: ../features/module/revslider/module-revslider.php:74
+msgid "No slider found...you should create some first!"
+msgstr ""
+
+#: ../features/module/revslider/module-revslider.php:79
+msgid "This is not a desired output, please contact Plethora Themes support"
+msgstr ""
+
+#: ../features/module/revslider/module-revslider.php:79
+msgid "Well..this method was not designed for frontend use!"
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:60
+msgid "System Info"
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:61
+msgid "SYSTEM INFORMATION"
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:162
+msgid "No issues detected"
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:168
+msgid ""
+"LESS compiling functionality usualy demands 40-80MBs of RAM. This might get "
+"even bigger, especially if you have installed several memory consuming "
+"plugins OR you have a PHP version earlier than 5.3 OR your website has a lot "
+"of traffic!"
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:170
+msgid "Your installation has "
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:173
+msgid ""
+"Memory is ok, nevertheless, raising this limit to a minimum 128MB would be "
+"safer*. "
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:174
+msgid ""
+"Memory is close to MAX threshold. You might need to raise this limit*, "
+"especially if you plan to use several memory consuming plugins ( such as "
+"WooCommerce ). "
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:175
+msgid ""
+"Memory is below the MAX threshold. You probably have to raise this limit*, "
+"especially if you plan to use several memory consuming plugins ( such as "
+"WooCommerce ). "
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:176
+msgid "Memory is below the MAX threshold. You <b>MUST raise this limit*</b>. "
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:177
+msgid ""
+"Memory is below the MIN threshold. Even WordPress itself might have "
+"performance issues. You <b>DEFINITELY MUST raise this limit*</b>. "
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:179
+msgid ""
+"Insufficient memory resources can cause a fatal error on the frontend during "
+"the custom stylesheet compiling. "
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:182
+msgid ""
+"* If you want to raise your memory limit, its always best to ask your "
+"hosting provider to do it for you. "
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:183
+msgid ""
+"If you have the technical skills to do it yourself, make sure that the "
+"memory limit value set is actualy available to your hosting package. "
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:184
+msgid ""
+"Raising memory from 128MB to 256MB is safe for an average website. Plethora "
+"Themes always suggests the latter."
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:195
+msgid "Uploads directory is writable"
+msgstr ""
+
+#: ../features/module/systeminfo/module-systeminfo.php:197
+msgid ""
+"Uploads directory is NOT writable. Several functionalities are not working "
+"as expected!"
+msgstr ""
+
+#: ../features/module/totop/module-totop.php:69
+msgid "Back to top "
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:124
+msgid "These options affect ONLY shop catalog display."
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:125
+msgid ""
+"These options affect ONLY shop catalog display...however it seems that you"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:127
+msgid "have not set a shop page yet!"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:129
+msgid "You can go for it under 'WooCommerce > Settings > Products > Display'."
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:131
+msgid ""
+"If you are using a speed optimization plugin, don't forget to <strong>clear "
+"cache</strong> after options update"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:134
+msgid "Shop"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:135
+msgid "SHOP OPTIONS"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:141
+msgid "Catalog Layout"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:156
+msgid "Catalog Sidebar"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:162
+msgid "Products Displayed Per Page"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:172
+msgid "Display Title On Content"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:173
+msgid "Will display title on content view"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:179
+msgid "Default Title"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:180
+msgid "Shop Title"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:186
+msgid "Default Subtitle"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:187
+#: ../features/module/woocommerce/module-woocommerce.php:514
+msgid ""
+"This is used ONLY as default subtitle for the headings section of the Media "
+"Panel"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:188
+msgid "Shop subtitle here"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:194
+msgid "Products Grid Columns"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:204
+msgid "Category Description"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:205
+msgid ""
+"By default, category description ( if exists ) is displayed right after shop "
+"title."
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:208
+#: ../features/module/woocommerce/module-woocommerce.php:218
+#: ../features/module/woocommerce/module-woocommerce.php:228
+#: ../features/module/woocommerce/module-woocommerce.php:238
+#: ../features/module/woocommerce/module-woocommerce.php:248
+#: ../features/module/woocommerce/module-woocommerce.php:258
+#: ../features/module/woocommerce/module-woocommerce.php:268
+#: ../features/module/woocommerce/module-woocommerce.php:278
+#: ../features/module/woocommerce/module-woocommerce.php:329
+#: ../features/module/woocommerce/module-woocommerce.php:339
+#: ../features/module/woocommerce/module-woocommerce.php:349
+#: ../features/module/woocommerce/module-woocommerce.php:359
+#: ../features/module/woocommerce/module-woocommerce.php:369
+#: ../features/module/woocommerce/module-woocommerce.php:379
+#: ../features/module/woocommerce/module-woocommerce.php:389
+#: ../features/module/woocommerce/module-woocommerce.php:399
+#: ../features/module/woocommerce/module-woocommerce.php:409
+#: ../features/module/woocommerce/module-woocommerce.php:420
+#: ../features/module/woocommerce/module-woocommerce.php:430
+#: ../features/module/woocommerce/module-woocommerce.php:440
+#: ../features/module/woocommerce/module-woocommerce.php:506
+#: ../features/module/woocommerce/module-woocommerce.php:523
+#: ../features/module/woocommerce/module-woocommerce.php:532
+#: ../features/module/woocommerce/module-woocommerce.php:541
+#: ../features/module/woocommerce/module-woocommerce.php:550
+#: ../features/module/woocommerce/module-woocommerce.php:559
+#: ../features/module/woocommerce/module-woocommerce.php:568
+#: ../features/module/woocommerce/module-woocommerce.php:577
+#: ../features/module/woocommerce/module-woocommerce.php:586
+#: ../features/module/woocommerce/module-woocommerce.php:596
+#: ../features/module/woocommerce/module-woocommerce.php:605
+#: ../features/module/woocommerce/module-woocommerce.php:614
+#: ../features/posttype/profile/posttype-profile.php:205
+#: ../features/posttype/profile/posttype-profile.php:215
+#: ../features/posttype/profile/posttype-profile.php:340
+#: ../features/posttype/profile/posttype-profile.php:349
+#: ../features/posttype/project/posttype-project.php:209
+#: ../features/posttype/project/posttype-project.php:219
+#: ../features/posttype/project/posttype-project.php:324
+#: ../features/posttype/project/posttype-project.php:333
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:140
+msgid "Display"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:209
+#: ../features/module/woocommerce/module-woocommerce.php:219
+#: ../features/module/woocommerce/module-woocommerce.php:229
+#: ../features/module/woocommerce/module-woocommerce.php:239
+#: ../features/module/woocommerce/module-woocommerce.php:249
+#: ../features/module/woocommerce/module-woocommerce.php:259
+#: ../features/module/woocommerce/module-woocommerce.php:269
+#: ../features/module/woocommerce/module-woocommerce.php:279
+#: ../features/module/woocommerce/module-woocommerce.php:330
+#: ../features/module/woocommerce/module-woocommerce.php:340
+#: ../features/module/woocommerce/module-woocommerce.php:350
+#: ../features/module/woocommerce/module-woocommerce.php:360
+#: ../features/module/woocommerce/module-woocommerce.php:370
+#: ../features/module/woocommerce/module-woocommerce.php:380
+#: ../features/module/woocommerce/module-woocommerce.php:390
+#: ../features/module/woocommerce/module-woocommerce.php:400
+#: ../features/module/woocommerce/module-woocommerce.php:410
+#: ../features/module/woocommerce/module-woocommerce.php:421
+#: ../features/module/woocommerce/module-woocommerce.php:431
+#: ../features/module/woocommerce/module-woocommerce.php:441
+#: ../features/module/woocommerce/module-woocommerce.php:507
+#: ../features/module/woocommerce/module-woocommerce.php:524
+#: ../features/module/woocommerce/module-woocommerce.php:533
+#: ../features/module/woocommerce/module-woocommerce.php:542
+#: ../features/module/woocommerce/module-woocommerce.php:551
+#: ../features/module/woocommerce/module-woocommerce.php:560
+#: ../features/module/woocommerce/module-woocommerce.php:569
+#: ../features/module/woocommerce/module-woocommerce.php:578
+#: ../features/module/woocommerce/module-woocommerce.php:587
+#: ../features/module/woocommerce/module-woocommerce.php:597
+#: ../features/module/woocommerce/module-woocommerce.php:606
+#: ../features/module/woocommerce/module-woocommerce.php:615
+#: ../features/posttype/profile/posttype-profile.php:206
+#: ../features/posttype/profile/posttype-profile.php:216
+#: ../features/posttype/profile/posttype-profile.php:341
+#: ../features/posttype/profile/posttype-profile.php:350
+#: ../features/posttype/project/posttype-project.php:210
+#: ../features/posttype/project/posttype-project.php:220
+#: ../features/posttype/project/posttype-project.php:325
+#: ../features/posttype/project/posttype-project.php:334
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:140
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:260
+msgid "Hide"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:215
+msgid "Breadcrumbs ( Catalog View )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:225
+msgid "Results Count Info"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:235
+msgid "Order Dropdown Field"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:245
+msgid "Ratings ( Catalog View )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:255
+msgid "Prices ( Catalog View )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:265
+msgid "\"Add To Cart\" Button ( Catalog View )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:275
+msgid "\"Sale!\" Icon ( Catalog View )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:291
+msgid ""
+"It seems that you <span style=\"color:red\">have not set a shop page yet!</"
+"span>. You can go for it under <strong>WooCommerce > Settings > Products > "
+"Display</strong>.<br>"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:293
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:160
+#: ../features/posttype/profile/posttype-profile.php:174
+#: ../features/posttype/terminology/posttype-terminology.php:159
+msgid ""
+"These will be the default values for a new post you create. You have the "
+"possibility to override most of these settings on each post separately."
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:293
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:160
+#: ../features/posttype/profile/posttype-profile.php:174
+#: ../features/posttype/project/posttype-project.php:170
+#: ../features/posttype/terminology/posttype-terminology.php:159
+msgid "Important: "
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:293
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:160
+#: ../features/posttype/profile/posttype-profile.php:174
+#: ../features/posttype/project/posttype-project.php:170
+#: ../features/posttype/terminology/posttype-terminology.php:159
+msgid ""
+"changing a default value here will not affect options that were customized "
+"per post. In example, if you change a previously default \"full width\" to "
+"\"right sidebar\" layout this will switch all full width posts to right "
+"sidebar ones. However it will not affect those that were customized, per "
+"post, to display a left sidebar."
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:296
+msgid "SINGLE PRODUCT POSTS OPTIONS"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:303
+#: ../features/module/woocommerce/module-woocommerce.php:483
+msgid "Product Post Layout"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:319
+#: ../features/module/woocommerce/module-woocommerce.php:498
+msgid "Product Post Sidebar"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:325
+#: ../features/module/woocommerce/module-woocommerce.php:503
+msgid "Display WooCommerce Title"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:326
+#: ../features/module/woocommerce/module-woocommerce.php:504
+msgid "Display the classic WooCommerce product title next to product image"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:336
+#: ../features/module/woocommerce/module-woocommerce.php:521
+msgid "Breadcrumbs ( Product Page )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:346
+#: ../features/module/woocommerce/module-woocommerce.php:530
+msgid "Ratings ( Product Page )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:356
+#: ../features/module/woocommerce/module-woocommerce.php:539
+msgid "Price  ( Product Page )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:366
+#: ../features/module/woocommerce/module-woocommerce.php:548
+msgid "\"Add To Cart\" Button ( Product Page )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:376
+#: ../features/module/woocommerce/module-woocommerce.php:557
+#: ../features/module/woocommerce/module-woocommerce.php:1152
+msgid "Product Categories"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:386
+#: ../features/module/woocommerce/module-woocommerce.php:566
+msgid "\"Sale\" Icon ( Product Page )"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:396
+#: ../features/module/woocommerce/module-woocommerce.php:575
+msgid "Description Tab"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:406
+#: ../features/module/woocommerce/module-woocommerce.php:584
+msgid "Reviews Tab"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:416
+#: ../features/module/woocommerce/module-woocommerce.php:593
+msgid "Additional Information Tab"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:417
+#: ../features/module/woocommerce/module-woocommerce.php:594
+msgid ""
+"Remember that this tab is NOT displayed by defaul if product has no "
+"attributes"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:427
+#: ../features/module/woocommerce/module-woocommerce.php:603
+#: ../features/module/woocommerce/module-woocommerce.php:1292
+msgid "Related Products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:437
+#: ../features/module/woocommerce/module-woocommerce.php:612
+msgid "Upsell Products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:448
+#: ../features/module/woocommerce/module-woocommerce.php:622
+msgid "Related/Upsell Products Max Results"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:459
+#: ../features/module/woocommerce/module-woocommerce.php:632
+msgid "Related/Upsell Products Columns"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:476
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:244
+#: ../features/posttype/profile/posttype-profile.php:311
+#: ../features/posttype/project/posttype-project.php:389
+#: ../features/posttype/terminology/posttype-terminology.php:243
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:43
+msgid "Content"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:477
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:245
+#: ../features/posttype/profile/posttype-profile.php:312
+#: ../features/posttype/project/posttype-project.php:390
+#: ../features/posttype/terminology/posttype-terminology.php:244
+msgid "CONTENT OPTIONS"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:513
+#: ../features/posttype/profile/posttype-profile.php:356
+#: ../features/posttype/project/posttype-project.php:340
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:80
+msgid "Subtitle"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:650
+msgid "Product Options"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:905
+#: ../features/module/woocommerce/module-woocommerce.php:1184
+msgid "Maximum results"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:907
+#: ../features/module/woocommerce/module-woocommerce.php:1186
+msgid ""
+"Set the maximum product results. Leave empty or set it to zero to display "
+"all results"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:917
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:114
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:84
+msgid "Grid columns"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:928
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:132
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:95
+msgid "Order by"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:932
+msgid "ID"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:933
+msgid "Sales"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:934
+msgid "Price"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:935
+msgid "Menu Order"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:936
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:133
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:97
+msgid "Random"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:947
+msgid "Order"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:948
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:295
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:605
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:108
+msgid "Descending"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:948
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:296
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:606
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:108
+msgid "Ascending"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:968
+msgid "Select a product"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:988
+msgid "Select an attribute"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1000
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:71
+msgid "Category"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1002
+msgid "Select Category"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1011
+msgid "Recent Products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1012
+msgid "Lists recent products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1030
+msgid "Featured Products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1031
+msgid "Lists featured products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1049
+msgid "Single Product"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1050
+msgid "Show a single product"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1066
+msgid "Show multiple products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1076
+msgid "Select products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1091
+msgid "Add To Cart Button"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1092
+msgid "Show the price/cart button of a single product"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1102
+msgid "Custom CSS"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1115
+msgid "Product Page"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1116
+msgid "Show a full single product page"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1130
+msgid "Product Category"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1131
+msgid "Show multiple products in a category"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1153
+msgid "Display product categories loop"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1163
+msgid "Hide empty"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1172
+msgid "Set the parent paramater to 0 to display only top level categories"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1177
+msgid "Display categories"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1179
+msgid "Add the IDs of the categories you want to display (comma separated)"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1201
+msgid "Sale Products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1202
+msgid "List all products on sale"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1222
+msgid "Best Selling Products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1223
+msgid "List best selling products on sale"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1241
+msgid "Top Rated Products"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1242
+msgid "List top rated products on sale"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1262
+msgid "Product Attribute"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1263
+msgid "List products with an attribute shortcode"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1273
+msgid "Add an attribute filter"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1274
+msgid "Add a filter for the attribute you've just selected above"
+msgstr ""
+
+#: ../features/module/woocommerce/module-woocommerce.php:1293
+msgid "List related products"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:51
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:158
+msgid "Knowledge Base"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:52
+msgid "KB Post"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:53
+msgid "KB Posts"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:54
+msgid "Add New KB Post"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:109
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:111
+msgid "KB Topics"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:110
+msgid "KB Topic"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:112
+msgid "All KB Topics"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:113
+msgid "Edit KB Topic"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:114
+msgid "View KB Topic"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:115
+msgid "Update KB Topic"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:116
+msgid "Add New KB Topic"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:117
+msgid "New KB Topic Name"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:118
+msgid "Parent KB Topic"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:119
+msgid "Parent KB Topic:"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:120
+msgid "Search KB Topics"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:121
+msgid "Popular KB Topics"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:122
+msgid "Seperate KB Topics with commas"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:123
+msgid "Add or remove KB Topics"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:124
+msgid "Choose from most used KB Topics"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:125
+msgid "No KB Topics found"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:159
+msgid "SINGLE KB POSTS OPTIONS"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:165
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:251
+#: ../features/posttype/project/posttype-project.php:175
+#: ../features/posttype/project/posttype-project.php:292
+#: ../features/posttype/terminology/posttype-terminology.php:164
+#: ../features/posttype/terminology/posttype-terminology.php:250
+msgid "Select Layout"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:181
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:265
+#: ../features/posttype/project/posttype-project.php:191
+#: ../features/posttype/project/posttype-project.php:307
+#: ../features/posttype/terminology/posttype-terminology.php:180
+#: ../features/posttype/terminology/posttype-terminology.php:264
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:186
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:270
+#: ../features/posttype/profile/posttype-profile.php:192
+#: ../features/posttype/profile/posttype-profile.php:328
+#: ../features/posttype/project/posttype-project.php:196
+#: ../features/posttype/project/posttype-project.php:313
+#: ../features/posttype/terminology/posttype-terminology.php:185
+#: ../features/posttype/terminology/posttype-terminology.php:269
+msgid "Content Section Color Set"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:187
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:271
+#: ../features/posttype/profile/posttype-profile.php:193
+#: ../features/posttype/profile/posttype-profile.php:329
+#: ../features/posttype/project/posttype-project.php:197
+#: ../features/posttype/project/posttype-project.php:314
+#: ../features/posttype/terminology/posttype-terminology.php:186
+#: ../features/posttype/terminology/posttype-terminology.php:270
+msgid ""
+"Will define text and background color on content section ( main column + "
+"sidebar ), according to selected color set configuration"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:190
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:274
+#: ../features/posttype/profile/posttype-profile.php:196
+#: ../features/posttype/profile/posttype-profile.php:332
+#: ../features/posttype/project/posttype-project.php:200
+#: ../features/posttype/project/posttype-project.php:317
+#: ../features/posttype/terminology/posttype-terminology.php:189
+#: ../features/posttype/terminology/posttype-terminology.php:273
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:96
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:685
+msgid "Default"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:196
+#: ../features/posttype/terminology/posttype-terminology.php:195
+msgid "Display title"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:202
+#: ../features/posttype/terminology/posttype-terminology.php:201
+msgid "Display subtitle"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:208
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:295
+#: ../features/posttype/terminology/posttype-terminology.php:207
+#: ../features/posttype/terminology/posttype-terminology.php:294
+msgid "Display Featured Image"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:214
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:300
+msgid "Display KB Topics Info"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:220
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:306
+#: ../features/posttype/terminology/posttype-terminology.php:219
+#: ../features/posttype/terminology/posttype-terminology.php:305
+msgid "Display Author Info"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:226
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:312
+#: ../features/posttype/terminology/posttype-terminology.php:225
+#: ../features/posttype/terminology/posttype-terminology.php:311
+msgid "Display Date Info"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:232
+#: ../features/posttype/profile/posttype-profile.php:294
+#: ../features/posttype/project/posttype-project.php:274
+#: ../features/posttype/terminology/posttype-terminology.php:231
+msgid "URL Rewrite"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:233
+msgid ""
+"Specify a custom permalink for knowledgebase posts ( i.e.: http://yoursite."
+"com/<b>knowledgebase</b>/sample-knowledgebase). <br><span style=\"color:red"
+"\">NOTICE: Updating this will probably result a 404 page error on every "
+"knowledgebase post. This can be easily fixed with a simple click on \"Save "
+"Changes\" button, on the <b>Settings > Permalinks</b> screen</span>"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:279
+#: ../features/posttype/profile/posttype-profile.php:202
+#: ../features/posttype/profile/posttype-profile.php:338
+#: ../features/posttype/project/posttype-project.php:206
+#: ../features/posttype/project/posttype-project.php:322
+#: ../features/posttype/terminology/posttype-terminology.php:278
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:385
+msgid "Display Title"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:284
+#: ../features/posttype/profile/posttype-profile.php:212
+#: ../features/posttype/profile/posttype-profile.php:347
+#: ../features/posttype/project/posttype-project.php:216
+#: ../features/posttype/project/posttype-project.php:331
+#: ../features/posttype/terminology/posttype-terminology.php:283
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:111
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:395
+msgid "Display Subtitle"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:289
+#: ../features/posttype/terminology/posttype-terminology.php:288
+msgid "Subtitle Text"
+msgstr ""
+
+#: ../features/posttype/knowledgebase/posttype-knowledgebase.php:329
+msgid "Knowledge Base Options"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:61
+#: ../features/posttype/profile/posttype-profile.php:63
+#: ../features/posttype/profile/posttype-profile.php:172
+msgid "Profiles"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:62
+msgid "Profile"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:123
+#: ../features/posttype/profile/posttype-profile.php:125
+msgid "Groups"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:124
+msgid "Group"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:126
+msgid "All Groups"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:127
+msgid "Edit Group"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:128
+msgid "View Group"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:129
+msgid "Update Group"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:130
+msgid "Add New Group"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:131
+msgid "New Group Name"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:132
+msgid "Parent Group"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:133
+msgid "Parent Group:"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:134
+msgid "Search Groups"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:135
+msgid "Popular Groups"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:136
+msgid "Separate Groups with commas"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:137
+msgid "Add or remove Groups"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:138
+msgid "Choose from most used Groups"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:139
+msgid "No Groups found"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:156
+msgid "group"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:173
+msgid "SINGLE PROFILE POSTS OPTIONS"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:180
+#: ../features/posttype/profile/posttype-profile.php:318
+msgid "Profile Content Layout"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:222
+#: ../features/posttype/profile/posttype-profile.php:363
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:122
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:217
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:105
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:198
+msgid "Media Display Ratio"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:226
+#: ../features/posttype/profile/posttype-profile.php:366
+msgid "Native Ratio"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:233
+#: ../features/posttype/profile/posttype-profile.php:421
+msgid "Author Posts"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:234
+msgid "Will enable author posts display on profile page"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:241
+#: ../features/posttype/profile/posttype-profile.php:428
+msgid "Author Posts Heading"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:242
+msgid "Latest Posts"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:249
+#: ../features/posttype/profile/posttype-profile.php:435
+msgid "Author Posts Results"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:250
+#: ../features/posttype/profile/posttype-profile.php:436
+msgid ""
+"How many author post to display on presentation. Leave 0 to display all."
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:261
+#: ../features/posttype/profile/posttype-profile.php:379
+msgid "Profiles Social Icons"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:262
+#: ../features/posttype/profile/posttype-profile.php:380
+msgid ""
+"Add default social icons for profiles. Those will be the social fields that "
+"have to be filled for each person presentation"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:274
+#: ../features/posttype/profile/posttype-profile.php:392
+msgid "Icon title"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:279
+#: ../features/posttype/profile/posttype-profile.php:397
+#: ../features/shortcode/button/shortcode-button.php:156
+#: ../features/shortcode/button/shortcode-button.php:170
+#: ../features/shortcode/entry/shortcode-entry.php:82
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:149
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:120
+msgid "Icon"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:285
+#: ../features/posttype/profile/posttype-profile.php:403
+msgid "URL"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:286
+#: ../features/posttype/profile/posttype-profile.php:404
+msgid "HTTP address or mailto/callto actions"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:295
+msgid ""
+"Specify a custom permalink for profile posts ( i.e.: http://yoursite.com/"
+"<b>profile</b>/sample-profile). <br><span style=\"color:red\">NOTICE: "
+"Updating this will probably result a 404 page error on every profile post. "
+"This can be easily fixed with a simple click on \"Save Changes\" button, on "
+"the <b>Settings > Permalinks</b> screen</span>"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:357
+msgid "Job title or any other role title"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:372
+msgid "Featured quote"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:413
+msgid "User Profile"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:414
+msgid ""
+"Pair this profile with a specific user ( subscribers not included ). This "
+"will allow you to display user generated content"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:416
+msgid "Select user to associate."
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:422
+msgid ""
+"Will enable author posts display on profile page. Works only if a user is "
+"selected on the previous option."
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:453
+msgid "Profile Options"
+msgstr ""
+
+#: ../features/posttype/profile/posttype-profile.php:525
+#: ../features/posttype/slider/posttype-slider.php:111
+#: ../features/shortcode/entry/shortcode-entry.php:81
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:68
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:80
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:79
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:119
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:145
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:68
+msgid "Image"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:59
+#: ../features/posttype/project/posttype-project.php:61
+#: ../features/posttype/project/posttype-project.php:168
+msgid "Projects"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:60
+msgid "Project"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:119
+#: ../features/posttype/project/posttype-project.php:121
+msgid "Project Categories"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:120
+msgid "Project Category"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:122
+msgid "All Project Categories"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:123
+msgid "Edit Project Category"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:124
+msgid "View Project Category"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:125
+msgid "Update Project Category"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:126
+msgid "Add New Project Category"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:127
+msgid "New Project Category Name"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:128
+msgid "Parent Project Category"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:129
+msgid "Parent Project Category:"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:130
+msgid "Search Project Categories"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:131
+msgid "Popular Project Categories"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:132
+msgid "Seperate Project Categories with commas"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:133
+msgid "Add or remove Project Categories"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:134
+msgid "Choose from most used Project Categories"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:135
+msgid "No Project Categories found"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:152
+msgid "project-cat"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:169
+msgid "SINGLE PROJECT POSTS OPTIONS"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:170
+msgid ""
+"These will be the default values for a new project post you create. You have "
+"the possibility to override most of these settings on each post separately."
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:265
+msgid "Link Button Text"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:266
+msgid "Visit Project"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:275
+msgid ""
+"Specify a custom permalink for project posts ( i.e.: http://yoursite.com/"
+"<b>portfolio</b>/sample-portfolio). <br><span style=\"color:red\">NOTICE: "
+"Updating this will probably result a 404 page error on every portfolio post. "
+"This can be easily fixed with a simple click on \"Save Changes\" button, on "
+"the <b>Settings > Permalinks</b> screen</span>"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:383
+msgid "Link Button URL"
+msgstr ""
+
+#: ../features/posttype/project/posttype-project.php:407
+msgid "Project Options"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:55
+#: ../features/posttype/slider/posttype-slider.php:57
+msgid "Sliders"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:91
+#: ../features/posttype/slider/posttype-slider.php:98
+msgid "Slides"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:99
+msgid ""
+"Add as many slides as you need. You should be careful though, as too many "
+"slides with large sized images may cause slow page loading times"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:112
+msgid "Slide will not be displayed, if left empty!"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:118
+msgid "Main Caption Title"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:124
+msgid "Main Caption Subtitle"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:125
+msgid "Subtitle ( main headings section )"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:130
+msgid "Additional Caption Title"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:135
+msgid "Additional Caption Text"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:140
+msgid "Slide Color Set"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:147
+msgid "Slide Background Transparency"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:154
+msgid "Caption Color Set"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:161
+msgid "Caption Background Transparency"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:168
+msgid "Caption Size"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:175
+msgid "Caption Container Align"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:183
+msgid "Caption Text Align"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:192
+msgid "Neutralize Links ( links to be displayed as normal text )"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:202
+msgid "Caption Text Style"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:214
+msgid "Caption Animation"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:226
+msgid "Button Link Text ( not visible if empty )"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:227
+msgid "Learn More"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:232
+msgid "Button Link URL ( not visible if empty or '#' )"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:239
+msgid "Button Style"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:255
+msgid "Button Size"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:266
+msgid "Button Link URL Open"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:278
+msgid "Settings"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:285
+msgid "Auto Play"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:292
+msgid "Autoplay Interval Timeout"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:293
+msgid "Display time of this slide"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:303
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:304
+msgid "Time to switch to the next slide"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:314
+msgid "Pause On Mouse Hover"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:320
+msgid "Show navigation buttons"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:326
+msgid "Show navigation bullets"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:332
+msgid "Slideshow Loop"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:338
+msgid "Mouse drag"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:344
+msgid "Touch drag"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:350
+msgid "Lazy Load Images"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:356
+msgid "Right To Left"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:357
+msgid "Change elements direction from Right to left"
+msgstr ""
+
+#: ../features/posttype/slider/posttype-slider.php:365
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:92
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:102
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:111
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:121
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:131
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:141
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:152
+msgid "Slider Options"
+msgstr ""
+
+#: ../features/posttype/terminology/posttype-terminology.php:51
+#: ../features/posttype/terminology/posttype-terminology.php:52
+#: ../features/posttype/terminology/posttype-terminology.php:157
+msgid "Terminology"
+msgstr ""
+
+#: ../features/posttype/terminology/posttype-terminology.php:53
+msgid "Terminologies"
+msgstr ""
+
+#: ../features/posttype/terminology/posttype-terminology.php:54
+msgid "Add New Term"
+msgstr ""
+
+#: ../features/posttype/terminology/posttype-terminology.php:122
+msgid "Seperate Topics with commas"
+msgstr ""
+
+#: ../features/posttype/terminology/posttype-terminology.php:158
+msgid "SINGLE TERMINOLOGY POSTS OPTIONS"
+msgstr ""
+
+#: ../features/posttype/terminology/posttype-terminology.php:213
+#: ../features/posttype/terminology/posttype-terminology.php:299
+msgid "Display Topics Info"
+msgstr ""
+
+#: ../features/posttype/terminology/posttype-terminology.php:232
+msgid ""
+"Specify a custom permalink for terminology posts ( i.e.: http://yoursite.com/"
+"<b>terminology</b>/sample-terminology). <br><span style=\"color:red"
+"\">NOTICE: Updating this will probably result a 404 page error on every "
+"terminology post. This can be easily fixed with a simple click on \"Save "
+"Changes\" button, on the <b>Settings > Permalinks</b> screen</span>"
+msgstr ""
+
+#: ../features/posttype/terminology/posttype-terminology.php:328
+msgid "Terminology Options"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:67
+#, php-format
+msgid "%s Item"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:68
+#, php-format
+msgid "%s Items"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:121
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:122
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:123
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:124
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:125
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:126
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:127
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:128
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:129
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:130
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:131
+#, php-format
+msgid "Seperate %s with commas"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:132
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:133
+#, php-format
+msgid "Choose from most used %s"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:134
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:180
+msgid "Person Name"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:181
+msgid "The name of the person who gave this testimonial"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:188
+msgid "Person Role"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:189
+msgid "The role of the person who gave this testimonial"
+msgstr ""
+
+#: ../features/posttype/testimonial/posttype-testimonial.php:198
+msgid "Testimonial Options"
+msgstr ""
+
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:39
+msgid "App Store Button"
+msgstr ""
+
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:40
+#: ../features/shortcode/button/shortcode-button.php:40
+msgid "with icon and styling settings"
+msgstr ""
+
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:70
+msgid "Which App Store?"
+msgstr ""
+
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:85
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:175
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:268
+msgid "Available Languages"
+msgstr ""
+
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:146
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:228
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:245
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:327
+msgid "Select Badge Type"
+msgstr ""
+
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:352
+msgid "Select the button height"
+msgstr ""
+
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:364
+#: ../features/shortcode/button/shortcode-button.php:78
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:230
+msgid "Button link"
+msgstr ""
+
+#: ../features/shortcode/appstorebutton/shortcode-appstorebutton.php:373
+#: ../features/shortcode/button/shortcode-button.php:101
+msgid "Button align"
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:86
+msgid "Enable Replies"
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:88
+msgid "Enable replies in the Twitter feed."
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:98
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:81
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:99
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:82
+msgid ""
+"Select Testimonial Category to choose specific testimonial posts or leave "
+"empty to get uncategorized testimonials."
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:111
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:266
+msgid "Enable Double Helix Effect"
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:113
+#: ../features/shortcode/button/shortcode-button.php:147
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:114
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:218
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:115
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:378
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:388
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:397
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:406
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:428
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:437
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:446
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:455
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:478
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:501
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:514
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:527
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:71
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:135
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:196
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:208
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:284
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:117
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:137
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:146
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:277
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:106
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:145
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:93
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:112
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:122
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:132
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:142
+msgid "Yes"
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:115
+msgid "Enable the Double Helix effect on hover."
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:126
+#: ../features/shortcode/button/shortcode-button.php:157
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:227
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:110
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:158
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:210
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:279
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:348
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:417
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:292
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:129
+msgid "Select icon"
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:144
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:120
+msgid "Custom Background Image"
+msgstr ""
+
+#: ../features/shortcode/boilerplate/shortcode-boilerplate.php:145
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:121
+msgid "This will override the post's featured image."
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:39
+msgid "PL Button"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:69
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:175
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:217
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:236
+msgid "Button text ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:87
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:184
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:243
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:197
+msgid "Button size"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:114
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:197
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:238
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:178
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:249
+msgid "Button styling"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:133
+msgid "Inline/Block placement"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:135
+msgid "Inline-Block"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:136
+msgid "Inline"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:137
+msgid "Block"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:143
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:215
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:281
+msgid "Button icon"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:171
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:242
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:305
+msgid "Button icon align"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:174
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:245
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:115
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:308
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:218
+#: ../features/widget/infobox/widget-infobox.php:136
+msgid "Right"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:175
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:246
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:113
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:309
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:217
+#: ../features/widget/infobox/widget-infobox.php:134
+msgid "Left"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:185
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:291
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:144
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:222
+msgid "Design options"
+msgstr ""
+
+#: ../features/shortcode/button/shortcode-button.php:204
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:176
+msgid "More"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:43
+msgid "Classic Post"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:44
+#: ../features/shortcode/entry/shortcode-entry.php:40
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:44
+msgid "Image/icon and content"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:47
+#: ../features/shortcode/entry/shortcode-entry.php:43
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:47
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:47
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:43
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:43
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:43
+msgid "Teasers & Info Boxes"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:70
+msgid "Layout Styling"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:80
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:139
+msgid "Post Category"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:82
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:141
+msgid "Select the Category from where to fetch the post."
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:88
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:147
+msgid "Post Offset"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:89
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:153
+msgid "Display most recent post, last post or use a custom offset."
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:91
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:149
+msgid "Most Recent"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:92
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:150
+msgid "Last"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:93
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:151
+msgid "Custom Offset"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:100
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:160
+msgid "Custom Post Offset"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:101
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:162
+msgid ""
+"Use inverse numbers to get last resulst: 2 will get the third post, -2 will "
+"get the third post from the end."
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:112
+msgid "Display Post Subtitle, if exists on selected post"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:123
+msgid "Force a specific display ratio for post image"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:137
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:133
+msgid "Select from Top, Center, Bottom vertical alignment for the photo."
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:147
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:173
+msgid "Show Post Meta"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:148
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:180
+msgid "Show Post meta such as Date, Author, etc.."
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:150
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:175
+msgid "Show Date and Author"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:151
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:176
+msgid "Show Date"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:152
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:177
+msgid "Show Author"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:153
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:195
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:84
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:178
+#: ../features/widget/multibox/widget-multibox.php:134
+#: ../features/widget/multibox/widget-multibox.php:161
+msgid "None"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:160
+msgid "Post Link Behavior"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:161
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:193
+msgid ""
+"Open Image Post in a new window, on the same page or without page reload via "
+"Ajax."
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:163
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:189
+msgid "Open in new Winow"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:164
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:190
+msgid "Open on same page"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:165
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:191
+msgid "Open on same page using Ajax"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:174
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:182
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:195
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:213
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:225
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:240
+msgid "Button"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:258
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:267
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:275
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:284
+msgid "Customize Elements"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:259
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:72
+msgid "Custom Title*"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:260
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:73
+msgid "* no HTML please. Overrides Post Title"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:268
+msgid "Custom Subtitle *"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:269
+msgid "* No HTML please. Overrides Post Subtitle."
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:276
+msgid "Custom Description *"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:277
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:111
+msgid "* Accepts HTML. Overrides Post Excerpt."
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:285
+msgid "Custom Image"
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:286
+msgid ""
+"Overrides Post featured image. Related image display options set on "
+"\"General Tab\" will be applied."
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:402
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:332
+msgid " By "
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:408
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:338
+msgid "By "
+msgstr ""
+
+#: ../features/shortcode/classicpost/shortcode-classicpost.php:439
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:365
+msgid "Post not found"
+msgstr ""
+
+#: ../features/shortcode/entry/shortcode-entry.php:39
+msgid "Entry"
+msgstr ""
+
+#: ../features/shortcode/entry/shortcode-entry.php:69
+msgid "Title ( accepts HTML )"
+msgstr ""
+
+#: ../features/shortcode/entry/shortcode-entry.php:79
+msgid "Select Media Type"
+msgstr ""
+
+#: ../features/shortcode/entry/shortcode-entry.php:92
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:130
+msgid "Select icon to display."
+msgstr ""
+
+#: ../features/shortcode/entry/shortcode-entry.php:120
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:87
+msgid "Link"
+msgstr ""
+
+#: ../features/shortcode/entry/shortcode-entry.php:128
+msgid "Media Display Ratio (for images)"
+msgstr ""
+
+#: ../features/shortcode/entry/shortcode-entry.php:140
+msgid "Media Vertical Align"
+msgstr ""
+
+#: ../features/shortcode/entry/shortcode-entry.php:155
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:174
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:144
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:210
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:124
+#: ../features/widget/multibox/widget-multibox.php:91
+msgid "Color Set"
+msgstr ""
+
+#: ../features/shortcode/entry/shortcode-entry.php:162
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:216
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:135
+msgid ""
+"Choose a color setup for this element. Remember: all colors in above options "
+"can be configured via the theme options panel"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:41
+msgid "Features Slider"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:71
+msgid "How many features to showcase?"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:86
+msgid "Is the feature slider being displayed right or left?"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:100
+msgid "Feature #1 Title ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:120
+msgid "Feature #1 Description ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:128
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:176
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:236
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:305
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:374
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:443
+msgid "Feature screenshot or image"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:137
+msgid "Feature #1 Link"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:148
+msgid "Feature #2 Title ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:168
+msgid "Feature #2 Description ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:185
+msgid "Feature #2 Link"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:196
+msgid "Feature #3 Title ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:224
+msgid "Feature #3 Description ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:249
+msgid "Feature #3 Link"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:264
+msgid "Feature #4 Title ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:293
+msgid "Feature #4 Description ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:318
+msgid "Feature #4 Link"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:333
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:402
+msgid "Feature #5 Title ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:362
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:431
+msgid "Feature #5 Description ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:387
+#: ../features/shortcode/featureslider/shortcode-featureslider.php:456
+msgid "Feature #5 Link"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:104
+msgid "Select Post Type"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:106
+msgid "Select the Post Type that will be displayed in the Grid."
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:116
+msgid "2"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:117
+msgid "3"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:118
+msgid "4"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:120
+msgid "Set the number of grid columns you need"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:125
+msgid "Maximum post results"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:127
+msgid ""
+"Set the maximum results in grid. Leave empty or set it to zero to display "
+"all results"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:134
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:98
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:109
+msgid "Select order"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:139
+msgid "Filter Menu"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:141
+msgid "Display the categories menu"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:146
+msgid "Listing style"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:148
+msgid "Image Card"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:149
+msgid "Classic Card"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:151
+msgid "Select the desired post grid layout"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:160
+msgid "Masonry layout style"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:162
+msgid "Blog Masonry"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:163
+msgid "Gallery Masonry"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:165
+msgid "Select the desired masonry layout style"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:181
+#: ../features/widget/multibox/widget-multibox.php:97
+msgid ""
+"Choose a color setup for this section. Remember: all colors in above options "
+"can be configured via the theme options panel"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:191
+msgid "Description Source"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:193
+msgid "Excerpt"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:194
+msgid "Content excerpt"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:197
+msgid "Select the desired content for the hover description"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:206
+msgid "Maximum characters"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:208
+msgid ""
+"This will truncate the content excerpt to the number of characters provided."
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:229
+msgid "Enable AJAX"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:231
+msgid "Enable content loading via AJAX"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:259
+msgid "Display SHOW ALL"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:260
+msgid "Show"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:261
+msgid "Display SHOW ALL Button"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:268
+msgid ""
+"Enable the Double Helix effect on hover. It does not work when Blog Masonry "
+"layout is selected."
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:277
+msgid "Exclude categories"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:279
+msgid "Check every category that you don't want to be included in results"
+msgstr ""
+
+#: ../features/shortcode/filterablegrid/shortcode-filterablegrid.php:507
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:620
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:909
+msgid "Show All"
+msgstr ""
+
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:39
+msgid "Fixed Ratio Media"
+msgstr ""
+
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:40
+msgid "Display responsive media with a fixed aspect ratio"
+msgstr ""
+
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:92
+msgid "Video link"
+msgstr ""
+
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:93
+msgid ""
+"Enter link to video (Note: read more about available formats at WordPress <a "
+"target=\"_blank\" href=\"http://codex.wordpress.org/"
+"Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\">Codex page</a>)."
+msgstr ""
+
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:111
+msgid "Your image/video will be displayed on the selected ratio."
+msgstr ""
+
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:132
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:222
+#: ../features/widget/multibox/widget-multibox.php:129
+msgid "Transparent Overlay"
+msgstr ""
+
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:138
+msgid "Set a transparent overlay for your media"
+msgstr ""
+
+#: ../features/shortcode/fixedmedia/shortcode-fixedmedia.php:150
+msgid "Choose a color set will affect the transparent overlay styling"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:70
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:71
+msgid "Heading Title"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:72
+msgid "Set the heading title. Accepts HTML."
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:81
+msgid "Heading Subtitle"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:83
+msgid "Set the heading subtitle"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:91
+msgid "Heading Type"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:97
+msgid "Fancy"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:98
+msgid "Elegant"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:99
+msgid "Extra Bold"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:100
+msgid "Thin"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:108
+msgid "Heading Subtitle Align"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:114
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:216
+msgid "Centered"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:123
+msgid "Subtitle Position"
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:128
+msgid ""
+"Choose whether you want the subtitle to be displayed above or below the "
+"title."
+msgstr ""
+
+#: ../features/shortcode/headinggroup/shortcode-headinggroup.php:137
+msgid "Add Extra CSS Class to this element"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:43
+msgid "Image Compare"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:44
+msgid "Highlight differences between two images"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:75
+msgid "Before Image"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:77
+msgid "Upload before-image"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:85
+msgid "After Image"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:87
+msgid "Upload after-image"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:95
+msgid "Image offset"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:97
+msgid "Set the default split offset"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:105
+msgid "Orientation"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:107
+msgid "Horizontal"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:108
+msgid "Vertical"
+msgstr ""
+
+#: ../features/shortcode/imagecompare/shortcode-imagecompare.php:110
+msgid "Set the orientation of the effect"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:43
+msgid "Image Post"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:82
+msgid "Post Subtitle"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:86
+msgid "Display or override Post Subtitle"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:94
+msgid "Custom Subtitle*"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:95
+msgid "* no HTML please"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:110
+msgid "Custom Description*"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:187
+msgid "Select option for opening Post "
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:224
+msgid "No Transparent Overlay"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:225
+msgid "Transparent Overlay: Full"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:226
+msgid "Transparent Overlay: Gradient To Top"
+msgstr ""
+
+#: ../features/shortcode/imagepost/shortcode-imagepost.php:227
+msgid "Transparent Overlay: Gradient To Bottom"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:63
+msgid "SUCCESS"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:64
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:348
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:356
+msgid "ERROR"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:65
+msgid "This field is required."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:66
+msgid "Please fix this field."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:67
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:68
+msgid "Please enter a valid date."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:69
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:70
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:71
+msgid "Please enter only digits."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:72
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:73
+msgid "Please enter the same value again."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:74
+msgid "Please specify your name"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:76
+msgid "We need your email address to contact you"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:77
+msgid "Your email address must be in the format of name@domain.com"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:99
+msgid "Email field placeholder"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:100
+msgid "Email Address"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:101
+msgid "Text that appears in the email field placeholder"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:110
+msgid "Subscribe button text"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:111
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:112
+msgid "Text that appears in the Subscribe button (accepts html)"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:121
+msgid "Alignment"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:136
+msgid "Add icon next to the submit button?"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:150
+msgid "Select the icon that will be displayed in the submit button"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:151
+msgid "Select an icon to display."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:167
+msgid "Use SVG Newsletter Template"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:169
+msgid ""
+"Displays alternative Newsletter design based on SVG. NOTE: Only one is "
+"allowed per page."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:177
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:193
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:208
+msgid "SVG options"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:178
+msgid "SVG Newsletter Title"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:180
+msgid "Title that appears in the SVG Newsletter left section"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:194
+msgid "SVG Newsletter Subtitle"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:196
+msgid "Subtitle that appears in the SVG Newsletter left section"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:210
+msgid "Background Image*"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:211
+msgid "*NOTE: Please use a 600x180 image."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:314
+msgid "Invalid email"
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:349
+msgid "Error connecting to the MailChimp API endpoint."
+msgstr ""
+
+#: ../features/shortcode/newsletterform/shortcode-newsletterform.php:363
+msgid "Successful request"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:61
+msgid "Posts Grid"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:62
+msgid "Grid/Masonry/List for any post type"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:65
+msgid "Plethora Shortcodes"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:91
+msgid "Data Source"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:92
+msgid ""
+"Select post type for the displayed items. Check \"Data\" tab for more "
+"options."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:101
+msgid "Items Display Style"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:102
+msgid "Check \"Items\" tab for more options"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:104
+msgid "Grid View"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:105
+msgid "Masonry View"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:106
+msgid "List View"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:113
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:547
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:560
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:581
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:600
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:617
+msgid "Filter Bar"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:114
+msgid ""
+"Enabled bar for filtering displayed items. Check \"Filter\" tab for more "
+"options."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:145
+#: ../features/shortcode/shortcodegroup/shortcode-shortcodegroup.php:87
+msgid "Extra Class"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:146
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:153
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:174
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:195
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:217
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:239
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:253
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:267
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:290
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:303
+msgid "Data"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:154
+msgid "Filter Results By Term"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:155
+msgid ""
+"Filter results by specific categories, tags or any custom taxonomy term. "
+"Leave empty to show all."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:175
+msgid "Exclude Results By Term"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:176
+msgid ""
+"Exclude results by specific categories, tags or any custom taxonomy term."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:196
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:653
+msgid "Posts Selection"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:197
+msgid "Add posts, pages or custom posts by title"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:218
+msgid "Exclude Posts"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:219
+msgid "Exclude posts, pages or custom posts by title"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:241
+msgid "Items Limit"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:242
+msgid "Set max limit for displayed items or enter -1 to display all."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:255
+msgid "Offset"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:256
+msgid ""
+"Number of items to displace or pass over ( ignored if there is no items "
+"limit )."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:269
+msgid "Order By"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:270
+msgid ""
+"Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then "
+"meta key is required."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:273
+msgid "Post ID"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:274
+msgid "Author"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:276
+msgid "Last Modified Date"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:277
+msgid "Post/Page Parent ID"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:278
+msgid "Comments Number"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:279
+msgid "Menu/Page Order"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:280
+msgid "Meta Value"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:281
+msgid "Meta Value (Number)"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:282
+msgid "Random Order"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:283
+msgid "Posts Selection Order ( only for custom posts selection )"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:292
+msgid "Sort Order"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:293
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:603
+msgid "Select descending/ascending order"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:304
+msgid "Order By: Meta Key"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:305
+msgid "Input meta key for items ordering."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:318
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:330
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:342
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:354
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:373
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:383
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:393
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:402
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:411
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:424
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:433
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:442
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:451
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:460
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:474
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:483
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:497
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:510
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:523
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:536
+msgid "Items Styling"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:319
+msgid "Grid Items Template"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:320
+msgid "Select grid template to be applied"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:331
+msgid "Masonry View Template"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:332
+msgid "Select masonry template to be applied"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:343
+msgid "List View Template"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:344
+msgid "Select list template to be applied"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:355
+msgid "Items Per Row"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:356
+msgid "Select number of single items ( columns ) per row."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:359
+msgid "6 items"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:360
+msgid "4 items"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:361
+msgid "3 items"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:362
+msgid "2 items"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:363
+msgid "1 items"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:375
+msgid "Display Featured Image/Media"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:376
+msgid ""
+"Will display featured image or any other Plethora featured media set for "
+"each post"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:386
+msgid "Will display post title"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:396
+msgid "Will display post subtitle, if supported"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:404
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:405
+msgid "Will display post excerpt, if supported"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:413
+msgid "Trim Excerpt"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:414
+msgid ""
+"Trims excerpt text to a certain number of words ( default is 55, even if "
+"left empty or 0 ) "
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:426
+msgid "Display Date"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:427
+msgid "Will display post creation date, if supported"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:435
+msgid "Display Author"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:436
+msgid "Will display post author, if supported"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:444
+msgid "Display Comments Count"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:445
+msgid "Will display post comments number, if supported"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:453
+msgid "Display Primary Taxonomy Terms"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:454
+msgid ""
+"Will display primary taxonomy terms. Enable this to set primary taxonomy."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:462
+msgid "Primary Taxonomy"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:463
+msgid "Select primary taxonomy to be displayed"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:476
+msgid "Display Secondary Taxonomy Terms"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:477
+msgid ""
+"Will display secondary taxonomy terms. Enable this to set secondary taxonomy."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:485
+msgid "Secondary Taxonomy"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:486
+msgid "Select secondary taxonomy to be displayed"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:499
+msgid "Display Price ( Woo Only )"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:500
+msgid "Will display price, only for WooCommerce product posts"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:512
+msgid "Display Cart Button ( Woo Only )"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:513
+msgid "Will display \"Add To Cart\" button, only for WooCommerce product posts"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:525
+msgid "Display Sale Icon ( Woo Only )"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:526
+msgid "Will display sale icon, only for WooCommerce product posts"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:538
+msgid "Item Extra Class"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:539
+msgid "Add an special item class name and refer to it in custom CSS."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:548
+msgid "Term Filters By Taxonomy"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:549
+msgid ""
+"Select category, tags or custom taxonomy. The selected taxonomy terms will "
+"be displayed as selections in the filters bar. Note that the terms should be "
+"associating with the displayed post type data source."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:561
+msgid "Exclude Terms From Filters"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:562
+msgid "Exclude specific categories, tags or custom terms from filter bar."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:583
+msgid "Order Filters By"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:584
+msgid "Select filter order type."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:587
+msgid "Description"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:588
+msgid "Count ( how many posts include this term )"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:589
+msgid "Term ID"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:602
+msgid "Sort Filters Order"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:618
+msgid "Reset Button Title"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:619
+msgid "Set title for the reset button. If empty, button will not be displayed."
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:1108
+msgid "Sale!"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:1141
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:1142
+msgid "Prev"
+msgstr ""
+
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:1173
+#: ../features/shortcode/postsgrid/shortcode-postsgrid.php:1174
+msgid "Next"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:39
+msgid "Pricing Plan"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:40
+msgid "Prices & features"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:70
+msgid "Display image on top"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:90
+msgid "Image display ratio"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:105
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:69
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:97
+msgid "Title ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:114
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:78
+msgid "Subtitle ( no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:121
+msgid "Title section color set"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:132
+msgid "Title section vector background pattern"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:144
+msgid "Price amount ( larger font size text / no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:153
+msgid "Price cycle ( smaller font size text / no HTML please )"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:160
+msgid "Price section color set"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:173
+msgid ""
+"Features ( add each feature on different line, may use some styling html "
+"tags )"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:180
+msgid "Features section color set"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:193
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:227
+msgid "Display button on bottom"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:205
+msgid "Add beating heart icon"
+msgstr ""
+
+#: ../features/shortcode/pricingplan/shortcode-pricingplan.php:260
+msgid "Button style"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:44
+msgid "Profiles Grid"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:45
+msgid "Build a grid with person profiles"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:48
+msgid "Posts Grids"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:75
+msgid "Select Profiles"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:76
+msgid ""
+"Check the profiles you want to be displayed in grid. Use 'Ctrl + click' to "
+"select multiple profiless"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:87
+msgid "Select how many profiles to display per row"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:97
+msgid "Profile order"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:106
+msgid "Ascending/Descending Order"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:116
+msgid "Show Featured Image"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:118
+msgid ""
+"Show photo set on each profile post ( if yes, please make sure that you have "
+"set an image for all profiles selected )"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:130
+msgid "Choose a color setup for this section."
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:136
+msgid "Show Excerpt "
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:138
+msgid "Show excerpt text set on each profile post"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:145
+msgid "Show Social Icons "
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:147
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:163
+msgid "Show social icons set on each profile post"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:155
+msgid "Link To"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:158
+msgid "Profile Page ( ajax )"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:159
+msgid "Profile Page ( normal )"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:160
+msgid "Blog Articles"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:161
+msgid "No Link"
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:169
+msgid "Set the Link button text."
+msgstr ""
+
+#: ../features/shortcode/profilegrid/shortcode-profilegrid.php:171
+msgid ""
+"This is the text that will be displayed on the Button that links to the "
+"profile page."
+msgstr ""
+
+#: ../features/shortcode/shortcodegroup/shortcode-shortcodegroup.php:47
+msgid "Shortcode Group"
+msgstr ""
+
+#: ../features/shortcode/shortcodegroup/shortcode-shortcodegroup.php:48
+msgid "Container for multiple shortcodes"
+msgstr ""
+
+#: ../features/shortcode/shortcodegroup/shortcode-shortcodegroup.php:81
+msgid "Group Heading"
+msgstr ""
+
+#: ../features/shortcode/shortcodegroup/shortcode-shortcodegroup.php:83
+msgid "Heading will be displayed at the top of items"
+msgstr ""
+
+#: ../features/shortcode/shortcodegroup/shortcode-shortcodegroup.php:89
+msgid ""
+"Extra classes (separated by space) that will be added to the Group container"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:39
+msgid "Teaser Box"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:40
+msgid "Image/icon, title, subtitle & content"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:87
+msgid "Paragraph ( may use basic HTML elements )"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:96
+msgid "Teaser Link"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:103
+msgid "Boxed styling"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:105
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:205
+msgid "No boxed styling"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:106
+msgid "Normal boxed"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:107
+msgid "Special boxed"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:109
+msgid ""
+"Depending on the selection, it affects padding and or border lines of the "
+"whole box"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:114
+msgid "Select media type"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:156
+msgid "Enable Image Hover Effect"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:161
+msgid ""
+"Enable a subtle opacity change and vertical movement effect when hovered"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:167
+msgid "Media section color set"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:172
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:195
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:133
+msgid "Transparent"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:174
+msgid ""
+"Choose a color setup ONLY for the icon section. Remember: all color sets "
+"above can be configured via the theme options panel"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:180
+msgid "Media display ratio"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:184
+msgid "Do not apply"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:190
+msgid "Text section color set"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:197
+msgid ""
+"Choose a color setup for this element. Remember: all color sets above can be "
+"configured via the theme options panel"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:203
+msgid "Text section boxed styling"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:206
+msgid "Boxed"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:207
+msgid "Boxed Special"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:209
+msgid ""
+"Depending on the selection, it affects inner padding of the text section of "
+"the box"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:214
+msgid "Contents align"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:219
+#: ../features/widget/multibox/widget-multibox.php:84
+msgid "Inherit"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:271
+msgid "Same Height"
+msgstr ""
+
+#: ../features/shortcode/teaserbox/shortcode-teaserbox.php:279
+msgid ""
+"Turn this to Yes if you want this box to be of equal height to any other box "
+"in its row that has this also turned to Yes."
+msgstr ""
+
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:39
+msgid "Teaser Image"
+msgstr ""
+
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:40
+msgid "Image with floating title"
+msgstr ""
+
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:75
+msgid "Image Display Ratio"
+msgstr ""
+
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:104
+msgid "Add title icon"
+msgstr ""
+
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:116
+msgid "Select Icon"
+msgstr ""
+
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:129
+msgid "Title color set ( applied to background strip )"
+msgstr ""
+
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:142
+msgid "Title transparency  ( applied to background strip )"
+msgstr ""
+
+#: ../features/shortcode/teaserimage/shortcode-teaserimage.php:147
+#: ../features/widget/multibox/widget-multibox.php:136
+msgid "The transparency percentage can be configured on theme options panel"
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:42
+msgid "Terms Index"
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:43
+msgid "Build a terms index alphabetically or by topic"
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:69
+msgid "Terms Topic Filter"
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:70
+msgid "Select a terms topic"
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:77
+msgid "Term Posts Link Behavior"
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:80
+msgid "Link to term post page"
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:81
+msgid "Do not link terms"
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:87
+msgid "Open in new window?"
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:89
+msgid "Open term post in new window."
+msgstr ""
+
+#: ../features/shortcode/termsindex/shortcode-termsindex.php:103
+msgid "Extra class name"
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:67
+msgid "All Testimonials"
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:90
+msgid "Autoplay"
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:100
+msgid "Slide Change Timeout"
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:101
+msgid "In milliseconds, in example 5000 defines 5 seconds timeout."
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:109
+msgid "Slider Loop"
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:119
+msgid "Pause On Hover"
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:129
+msgid "Dots Navigation"
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:139
+msgid "Right To Left Placement"
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:150
+msgid "Slider ID"
+msgstr ""
+
+#: ../features/shortcode/testimonials/shortcode-testimonials.php:151
+msgid ""
+"Leave the default value, or create a unique one for this element. Leaving "
+"this empty, will cause problems on testimonial slider functionality."
+msgstr ""
+
+#: ../features/widget/aboutus/widget-aboutus.php:115
+msgid ""
+"Premium HTML Template mainly Medical Oriented but so flexible that it can "
+"fit any Business Site!"
+msgstr ""
+
+#: ../features/widget/aboutus/widget-aboutus.php:116
+msgid "79 Folsom Ave, San Francisco, CA 94107"
+msgstr ""
+
+#: ../features/widget/aboutus/widget-aboutus.php:141
+#: ../features/widget/infobox/widget-infobox.php:148
+#: ../features/widget/timetable/widget-timetable.php:152
+#: ../features/widget/timetable/widget-timetable.php:157
+#, php-format
+msgid "%s:"
+msgstr ""
+
+#: ../features/widget/contactforms/widget-contactforms.php:109
+msgid "Quick Contact"
+msgstr ""
+
+#: ../features/widget/contactforms/widget-contactforms.php:110
+msgid "Appointment Form"
+msgstr ""
+
+#: ../features/widget/contactforms/widget-contactforms.php:117
+#: ../features/widget/infobox/widget-infobox.php:126
+#: ../features/widget/latestnews/widget-latestnews.php:115
+#: ../features/widget/latestportfolio/widget-latestportfolio.php:147
+msgid "Title:"
+msgstr ""
+
+#: ../features/widget/contactforms/widget-contactforms.php:122
+msgid "Contact Form ID:"
+msgstr ""
+
+#: ../features/widget/flickr/widget-flickr.php:100
+msgid "Photos from Flickr"
+msgstr ""
+
+#: ../features/widget/flickr/widget-flickr.php:109
+msgid "How many photos to display (default:8)"
+msgstr ""
+
+#: ../features/widget/flickr/widget-flickr.php:114
+msgid "Flickr ID"
+msgstr ""
+
+#: ../features/widget/flickr/widget-flickr.php:114
+msgid "( Find with"
+msgstr ""
+
+#: ../features/widget/infobox/widget-infobox.php:132
+msgid "Title Align:"
+msgstr ""
+
+#: ../features/widget/infobox/widget-infobox.php:135
+msgid "Center"
+msgstr ""
+
+#: ../features/widget/infobox/widget-infobox.php:143
+msgid "Textarea:"
+msgstr ""
+
+#: ../features/widget/infobox/widget-infobox.php:157
+#: ../features/widget/timetable/widget-timetable.php:166
+msgid "Button Text (leave empty to remain hidden):"
+msgstr ""
+
+#: ../features/widget/infobox/widget-infobox.php:162
+#: ../features/widget/timetable/widget-timetable.php:171
+msgid "Button Link:"
+msgstr ""
+
+#: ../features/widget/infobox/widget-infobox.php:167
+#: ../features/widget/timetable/widget-timetable.php:182
+msgid "Button Icon (FontAwesome):"
+msgstr ""
+
+#: ../features/widget/infobox/widget-infobox.php:174
+msgid "Wow Animation Type:"
+msgstr ""
+
+#: ../features/widget/latestnews/widget-latestnews.php:120
+msgid "Category:"
+msgstr ""
+
+#: ../features/widget/latestnews/widget-latestnews.php:133
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../features/widget/latestportfolio/widget-latestportfolio.php:152
+msgid "Project Type:"
+msgstr ""
+
+#: ../features/widget/latestportfolio/widget-latestportfolio.php:166
+msgid "Number of portfolio items to show:"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:42
+msgid "Styled box with text or HTML"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:65
+msgid "Title Align"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:74
+msgid "Content ( simple text, HTML and shortocodes )"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:79
+msgid "Content Align"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:102
+msgid "Background Image ( if active )"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:104
+msgid "Upload/select a background image for this section"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:113
+msgid "Bacground Image Vertical Align ( if active )"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:142
+msgid "Boxed Design"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:149
+msgid ""
+"Boxed design will add an inner padding and some additional styling according "
+"to selected color set"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:155
+msgid "Animation"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:167
+msgid "Extra class(es)"
+msgstr ""
+
+#: ../features/widget/multibox/widget-multibox.php:168
+msgid "Separate classes ONLY with space"
+msgstr ""
+
+#: ../features/widget/timetable/widget-timetable.php:176
+msgid "Button Align: left, center, right (Default: center)"
+msgstr ""
+
+#: ../features/widget/timetable/widget-timetable.php:192
+msgid "Add Row"
+msgstr ""
+
+#: ../features/widget/timetable/widget-timetable.php:200
+msgid "REMOVE"
+msgstr ""
