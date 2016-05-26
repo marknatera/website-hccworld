@@ -1,0 +1,156 @@
+body {
+  -webkit-font-smoothing : antialiased;  
+  background-color       : @body-bg;
+  color                  : @text-color;
+  font-family            : @font-family-sans-serif;
+  font-size: @font-size-base;
+  line-height: @line-height-base;
+  overflow-x             : hidden;
+}
+
+body.sticky_header:not(.transparent_header) {
+  margin-top: @header-height; // This header height will be corrected by js
+}
+
+.overflow_wrapper {overflow: hidden;position:relative;}
+
+// body.sticky_header {
+//   margin-top: (@menu-vertical-margin * 2) + @menu-font-size + 30;
+// }
+
+a { color: @link-color; }
+a:hover, a:active, a:focus {  text-decoration: none; color: @link-hover-color; }
+a:focus {  outline: none;  }
+
+ul,ol,dl{padding-left:1em;}
+
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
+  font-family: @headings-font-family;
+  font-weight: @headings-font-weight;
+  line-height: @headings-line-height;
+  text-transform: @headings-text-transform;
+  margin-top: @line-height-computed;
+  margin-bottom: (@line-height-computed / 2);
+}
+
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
+  color: inherit;
+}
+
+h1, .h1 { font-size: @font-size-h1; }
+h2, .h2 { font-size: @font-size-h2; }
+h3, .h3 { font-size: @font-size-h3; }
+h4, .h4 { font-size: @font-size-h4; }
+h5, .h5 { font-size: @font-size-h5; }
+h6, .h6 { font-size: @font-size-h6; }
+
+/* =Responsive: Small devices (SM) Tablets (Mobile Menu) 
+-------------------------------------------------------------- */
+@media only screen and (max-width: @screen-sm-max) {
+//------------------------------------------------------------
+
+h1, .h1 { font-size: ceil((@font-size-h1 * 0.9)); }
+h2, .h2 { font-size: ceil((@font-size-h2 * 0.9)); }
+h3, .h3 { font-size: ceil((@font-size-h3 * 0.9)); }
+h4, .h4 { font-size: ceil((@font-size-h4 * 0.9)); }
+h5, .h5 { font-size: ceil((@font-size-h5 * 0.9)); }
+h6, .h6 { font-size: ceil((@font-size-h6 * 0.9)); }
+
+//------------------------------------------------------------
+}
+
+/* =Responsive: Extra small devices (XS) Phones
+-------------------------------------------------------------- */
+@media only screen and (max-width: @screen-xs-max) {
+//------------------------------------------------------------
+
+h1, .h1 { font-size: ceil((@font-size-h1 * 0.8)); }
+h2, .h2 { font-size: ceil((@font-size-h2 * 0.8)); }
+h3, .h3 { font-size: ceil((@font-size-h3 * 0.8)); }
+h4, .h4 { font-size: ceil((@font-size-h4 * 0.8)); }
+h5, .h5 { font-size: ceil((@font-size-h5 * 0.8)); }
+h6, .h6 { font-size: ceil((@font-size-h6 * 0.8)); }
+
+//------------------------------------------------------------
+}
+
+blockquote.left{margin-right:20px; text-align:right; margin-left:0; width:33%; float:left}
+blockquote.right{margin-left:20px; text-align:left; margin-right:0; width:33%; float:right}
+blockquote {
+  border-left: 3px solid;
+  border-color:inherit;
+  padding: 16px 24px;
+  margin: 10px 0 20px 0;
+  p {
+      font-size: @font-size-base * 1.25;
+      font-weight: 300;
+      line-height: 1.43;
+  }
+}
+
+.page_title_in_content {
+  + section {
+    padding-top: 0px !important;
+  }
+  margin-bottom: @section-vertical-padding / 4 + 10px;
+  .section_header {
+    margin: (@section-vertical-padding / 4) 0 !important;
+  }
+}
+
+.sidebar_on {
+  .padding_top_half;
+}
+
+.sidebar_off {
+  .padding_top_half;
+}
+
+.head_panel.diagonal-bgcolor-trans + .main > section:first-child {
+  padding-top: @section-vertical-padding !important;
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: @line-height-computed;
+  // Cells
+  > thead,
+  > tbody,
+  > tfoot {
+    > tr {
+      > th,
+      > td {
+        padding: @table-cell-padding;
+        line-height: @line-height-base;
+        vertical-align: top;
+        border-top: 1px solid @table-border-color;
+      }
+    }
+  }
+  // Bottom align for column headings
+  > thead > tr > th {
+    vertical-align: bottom;
+    border-bottom: 2px solid @table-border-color;
+  }
+  // Remove top border from thead by default
+  > caption + thead,
+  > colgroup + thead,
+  > thead:first-child {
+    > tr:first-child {
+      > th,
+      > td {
+        border-top: 0;
+      }
+    }
+  }
+  // Account for multiple tbody instances
+  > tbody + tbody {
+    border-top: 2px solid @table-border-color;
+  }
+
+  // Nesting
+  .table {
+    background-color: @body-bg;
+  }
+}

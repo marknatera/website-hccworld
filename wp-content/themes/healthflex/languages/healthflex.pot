@@ -1,0 +1,3426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Health-X\n"
+"POT-Creation-Date: 2016-04-01 19:51+0200\n"
+"PO-Revision-Date: 2016-04-01 19:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: Plethora Themes <plethorathemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../_RAW\n"
+"X-Poedit-SearchPathExcluded-1: ../documentation\n"
+"X-Poedit-SearchPathExcluded-2: ../includes/core/libs\n"
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:64
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:65
+msgid "Heading Title"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:70
+msgid "Heading Align"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:79
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:80
+msgid "Content Align"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:84
+msgid "Inherit"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:92
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:93
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:89
+#: ../includes/options.php:1623 ../includes/options.php:2068
+msgid "Color Set"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:98
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:99
+msgid ""
+"Color setup affects text, link & background color. Those colors can be "
+"configured on theme options panel"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:104
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:105
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:244
+msgid "Background Type"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:106
+msgid "Color Set Background"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:107
+#: ../includes/options.php:348
+msgid "Image"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:108
+msgid "Transparent"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:119
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:120
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:280
+msgid "Background Image"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:121
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:122
+msgid "Upload/select a background image for this column"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:132
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:133
+msgid "Bacground Image Vertical Align"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:148
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:149
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:229
+msgid "Transparent Overlay"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:153
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:216
+#: ../includes/options.php:1193 ../includes/options.php:1482
+#: ../includes/options.php:1846 ../includes/options.php:1976
+msgid "None"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:155
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:156
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:235
+msgid "The transparency percentage can be configured on theme options panel"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:162
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:163
+#: ../includes/core/features/module/style/module-style.php:240
+msgid "Boxed Design"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:167
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:190
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:201
+msgid "No"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:169
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:170
+msgid ""
+"Boxed designs will add an inner padding and some additional styling features"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:175
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:176
+msgid "Responsive Margin (SM)"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:177
+msgid "No Margin"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:178
+msgid "Top Margin"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:179
+msgid "Bottom Margin"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:180
+msgid "Top & Bottom Margin"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:182
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:183
+msgid "Will put a margin on the column at the small responsive state"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:188
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:189
+msgid "Elevate Column"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:191
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:202
+msgid "Yes"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:193
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:194
+msgid "Will elevate this column axis higher than the rest of this row"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:199
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:200
+msgid "Equal Height Column"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:204
+msgid ""
+"Will make the height of this column equal with all the rest row columns that "
+"have the same setting"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:210
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:211
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:340
+#: ../includes/options.php:380
+msgid "Animation"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:222
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:223
+msgid "Extra class(es)"
+msgstr ""
+
+#: ../features/shortcode/vccolumn/shortcode-vccolumn.php:223
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:224
+msgid "Separate classes ONLY with space"
+msgstr ""
+
+#: ../features/shortcode/vccolumninner/shortcode-vccolumninner.php:205
+msgid ""
+"Will make equalize the height of this column with all the rest row columns "
+"that have the same setting"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:95
+msgid ""
+"Choose a color setup for this section. Remember: all colors in above options "
+"can be configured via the theme options panel"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:103
+msgid "Text Align"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:117
+msgid "Full Width"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:122
+msgid "Expand row content to capture the entire screen width."
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:129
+msgid "Full Height"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:134
+msgid "Full height will set the minimum row height same to the screen viewport"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:140
+msgid "Full Height Content Vertical Align"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:155
+msgid "Row Padding"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:162
+msgid "Affects the row's vertical spacings"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:168
+msgid "Columns Vertical Align"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:179
+msgid "Columns Padding"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:184
+msgid "Can disable horizontal padding for the columns of this row"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:191
+msgid "Elevate Row"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:196
+msgid "Will elevate this row higher"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:202
+#: ../includes/options.php:1479 ../includes/options.php:1974
+msgid "Top Separator"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:208
+msgid "Will put an angled separator on top of the section"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:214
+#: ../includes/options.php:1190 ../includes/options.php:1844
+msgid "Bottom Separator"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:220
+msgid "Will put an angled separator on the bottom of the section"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:252
+msgid ""
+"For image backgrounds, please PREFER THIS option rather the one available on "
+"'Design' tab"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:262
+msgid "Particles Effect"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:282
+msgid "Upload/select a background image for this section"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:293
+msgid "Image Parallax"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:308
+msgid "Background Image Vertical Align"
+msgstr ""
+
+#: ../features/shortcode/vcrow/shortcode-vcrow.php:328
+msgid "YouTube link"
+msgstr ""
+
+#: ../functions.php:91 ../functions.php:110
+msgid "Your installation is running under PHP "
+msgstr ""
+
+#: ../functions.php:93
+msgid ""
+"To continue working on your project, you have to upgrade your PHP to 5.4 or "
+"newer version."
+msgstr ""
+
+#: ../functions.php:94 ../functions.php:114
+msgid ""
+"Unfortunately we cannot ignore the fact that this PHP version is considered "
+"obsolete, non secure and with poor overall performance."
+msgstr ""
+
+#: ../functions.php:95 ../functions.php:115
+msgid ""
+"Please help us to deliver high quality and secure products...contact your "
+"host and ask for a switch to PHP 5.4 or newer."
+msgstr ""
+
+#: ../functions.php:96
+msgid ""
+"This is a simple procedure that any decent hosting company should provide "
+"hassles-free. This restriction will disappear after switching to PHP 5.4 or "
+"newer."
+msgstr ""
+
+#: ../functions.php:98 ../functions.php:118
+msgid "Read more on our blog"
+msgstr ""
+
+#: ../functions.php:99 ../functions.php:119
+msgid "Read more on WordPress recommended host configuration"
+msgstr ""
+
+#: ../functions.php:112
+msgid "You may continue working on your project, but keep in mind that"
+msgstr ""
+
+#: ../functions.php:113
+msgid "Plethora Themes will not provide support for 5.3.x related issues."
+msgstr ""
+
+#: ../functions.php:116
+msgid ""
+"This is a simple procedure that any decent hosting company should provide "
+"hassles-free. This message will disappear after switching to PHP 5.4 or "
+"newer."
+msgstr ""
+
+#: ../functions.php:133
+#, php-format
+msgid ""
+"%sNOTICE%s: on occassion, we experienced failure updating automatically "
+"Visual Composer. If this is the case here, please do the following:"
+msgstr ""
+
+#: ../functions.php:135
+msgid ""
+"1. Deactivate and delete existing Visual Composer plugin files. Note that at "
+"this point, this message will disappear."
+msgstr ""
+
+#: ../functions.php:136
+#, php-format
+msgid ""
+"2. A %sThis theme requires the following plugin%s notice for WPBakery Visual "
+"Composer will appear. Click on the %sBegin installing plugin%s link to "
+"initiate the plugin installation/activation procedure"
+msgstr ""
+
+#: ../functions.php:137
+msgid "3. That's it...you are done!"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:103
+msgid "It seems that your uploads directory is not writable."
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:104
+msgid "We suggest solving this issue before start working on your website."
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:105
+msgid ""
+"After setting up the correct file permissions for your uploads directory, "
+"you should go to Theme Options page and click on the 'Reset All' button. "
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:106
+msgid "This will recover icon libraries and all related functionality."
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:111
+msgid ""
+"It seems that remote file calls on this server are not working properly "
+"( Err: "
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:112
+msgid ""
+"Apparently your server is configured in a way that it does not allow "
+"anonymous or authenticated remote file calls. You should check your server "
+"configuration. If this is not the case here, you should create a support "
+"ticket on Plethora Themes customer support desk. "
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:118
+msgid "Icon Libraries feature is not working."
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:120
+#: ../includes/tgm.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:550
+msgid ""
+"You may enable/disable any of those libraries. Nevertheless, you should know "
+"that Font Awesome icons are broadly used on this theme and you should not "
+"disactivate them."
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:551
+msgid "Preview installed libraries:"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:557
+msgid "Preset Icon Libraries"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:570
+#: ../includes/core/features/module/icons/module-icons.php:607
+msgid "Activate Library"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:576
+#: ../includes/core/features/module/icons/module-icons.php:613
+msgid ""
+"Library slug ( latin characters only, dashes instead of spaces, not use the "
+"same slug on other libraries )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:577
+#: ../includes/core/features/module/icons/module-icons.php:614
+msgid "Something like library-slug OR library_slug"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:584
+#: ../includes/core/features/module/icons/module-icons.php:620
+msgid "Reference Title"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:595
+msgid "Your Icon Libraries"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:596
+msgid "Add as many icon libraries as you need"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:626
+msgid "Font Family Name (i.e. 'FontAwesome' )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:627
+msgid ""
+"You may easily locate the font family name on the main stylesheet "
+"<strong>@font-face</strong> rule"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:633
+msgid "Icon Parsing Prefix / Suffix"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:634
+msgid "Prefix"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:642
+msgid "Suffix"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:648
+msgid "Icons CSS stylesheet"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:652
+msgid "IMPORTANT! YOU MUST ADD A STYLESHEET"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:657
+msgid "Font File ( .eot extension )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:661
+msgid "No .eot font file is selected"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:667
+msgid "Font File ( .svg extension )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:671
+msgid "No .svg font file is selected"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:677
+msgid "Font File ( .ttf extension )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:681
+msgid "No .ttf font file is selected"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:687
+msgid "Font File ( .woff extension )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:691
+msgid "No .woff font file is selected"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:697
+msgid "Font File ( .woff2 extension )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:701
+msgid "No .woff2 font file is selected"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:706
+msgid "Font File ( .otf extension )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:710
+msgid "No .otf font file is selected"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:716
+msgid "Font Style ( usualy is set to normal )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:728
+msgid "Font Weight ( usualy is set to normal )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:748
+msgid "Font Stretch ( usualy is set to normal )"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:766
+msgid ""
+"Manage all your font icon resources. All parsed icons will be available on "
+"every icon picker field you will meet on various features ( theme options, "
+"shortcodes, etc. ). "
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:768
+msgid "Please read this before start working with icon libraries"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:774
+msgid "Icon Libraries"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:775
+msgid "FONT ICON LIBRARIES"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:817
+msgid "Font Awesome"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:818
+msgid "Webfont Medical Icons"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:819
+msgid "Weather Icons"
+msgstr ""
+
+#: ../includes/core/features/module/icons/module-icons.php:951
+msgid "Unidentified Icons Library"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:77
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:78
+msgid "Single Landing Page Navigation"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:90
+msgid "Navigation locations"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:91
+msgid "Add as many navigation locations as you need"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:99
+msgid "Nav Location Description"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:104
+msgid ""
+"Nav Location Slug ( latin characters only, dashes instead of spaces, not use "
+"the same slug on other locations(s) )"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:105
+msgid "navigation-location"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:113
+msgid "Nav Locations"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:114
+msgid "CUSTOM NAVIGATION LOCATIONS"
+msgstr ""
+
+#: ../includes/core/features/module/navlocations/module-navlocations.php:115
+msgid ""
+"This tool allows you to create navigation locations dynamically. In "
+"combination with this theme's flexible menu location options, you have the "
+"possibility to create pages with totally different navigation"
+msgstr ""
+
+#: ../includes/core/features/module/navwalker/module-navwalker.php:154
+#: ../includes/core/features/module/navwalker/module-navwalker.php:233
+msgid "Please Create a Menu"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:91
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:92
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:93
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:94
+msgid "Footer Widgets Area #1"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:95
+msgid "Footer Widgets Area #2"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:96
+msgid "Footer Widgets Area #3"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:97
+msgid "Footer Widgets Area #4"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:100
+msgid "Default sidebar to add widgets for blog archives & posts"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:101
+msgid "Default sidebar to add widgets for single pages"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:102
+msgid "Default sidebar to add widgets for shop pages"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:103
+msgid "Footer widgets area #1"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:104
+msgid "Footer widgets area #2"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:105
+msgid "Footer widgets area #3"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:106
+msgid "Footer widgets area #4"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:128
+#: ../includes/core/features/module/sidebars/module-sidebars.php:167
+msgid "Sidebars"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:129
+msgid "Add as many sidebars as you need"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:140
+#: ../includes/core/features/module/social/module-social.php:69
+#: ../includes/options.php:355 ../includes/options.php:1676
+msgid "Title"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:141
+msgid "Sidebar title"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:146
+msgid "Description ( not necessary )"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:147
+msgid "Sidebar description"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:153
+msgid ""
+"Sidebar slug ( latin characters only, dashes instead of spaces, not use the "
+"same slug on other sidebar(s) )"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:154
+msgid "your-sidebar-slug"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:159
+msgid "CSS class ( not necessary )"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:168
+msgid "CUSTOM SIDEBARS"
+msgstr ""
+
+#: ../includes/core/features/module/sidebars/module-sidebars.php:169
+msgid ""
+"This tool allows you to create sidebars dynamically. In combination with "
+"this theme's flexible sidebar options, you have the possibility to create "
+"pages with totally different widgetized areas"
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:57
+#: ../includes/core/features/module/social/module-social.php:101
+msgid "Social Icons"
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:58
+msgid "Add social icons for general use on your website"
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:70
+msgid "Icon title"
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:75
+msgid "Icon"
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:81
+msgid "URL"
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:82
+msgid "Icon url"
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:94
+msgid ""
+"IMPORTANT NOTICE: Icon libraries are not working as expected. This affects "
+"the functionality of this feature as well. "
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:95
+msgid ""
+"After resolving the icon libraries feature, return to this tab and click on "
+"\"Reset Section\" button to recover social icons too."
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:243
+msgid ""
+"It seems that you have not set your social icons yet! Visit the 'General > "
+"Social Icons' to edit your global social icons information and come back "
+"here to set the display status for each icon."
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:247
+msgid ""
+"Visit the 'General > Social Icons' tab to edit your global social icons "
+"information."
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:252
+msgid "Icons Display Status"
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:253
+msgid "Check icons to display on social bar"
+msgstr ""
+
+#: ../includes/core/features/module/social/module-social.php:254
+msgid "You may edit this list under 'General > Social Icons' tab."
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:48
+msgid "Default"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:130
+msgid "Primary"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:131
+#: ../includes/options.php:642
+msgid "Primary Color Set"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:135
+msgid "Secondary"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:136
+#: ../includes/options.php:678
+msgid "Secondary Color Set"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:140
+msgid "Dark"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:141
+#: ../includes/options.php:759
+msgid "Dark Color Set"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:145
+msgid "Light"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:146
+#: ../includes/options.php:714
+msgid "Light Color Set"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:150
+msgid "Black"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:151
+#: ../includes/options.php:849
+msgid "Black Color Set"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:155
+msgid "White"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:156
+#: ../includes/options.php:804
+msgid "White Color Set"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:166
+msgid "16:9"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:167
+msgid "16:9 Display Ratio"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:171
+msgid "4:3"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:172
+msgid "4:3 Display Ratio"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:176
+msgid "15:9"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:177
+msgid "15:9 Display Ratio"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:181
+msgid "2:1"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:182
+msgid "2:1 Display Ratio"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:186
+msgid "1:1"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:187
+msgid "1:1 Display Ratio"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:197
+msgid "Middle"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:198
+msgid "Middle Align"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:202
+msgid "Top"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:203
+msgid "Top Align"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:207
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:208
+msgid "Bottom Align"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:218
+msgid "Full"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:219
+msgid "Transparent Overlay: Full"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:223
+msgid "Gradient To Top"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:224
+msgid "Transparent Overlay: Gradient To Top"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:228
+msgid "Gradient To Bottom"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:229
+msgid "Transparent Overlay: Gradient To Bottom"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:239
+msgid "Boxed"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:244
+msgid "Boxed Plus"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:245
+msgid "Boxed Plus Design"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:249
+msgid "Boxed Special"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:250
+msgid "Boxed Special Design"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:260
+#: ../includes/core/features/module/topbar/module-topbar.php:219
+#: ../includes/core/features/module/topbar/module-topbar.php:309
+#: ../includes/core/features/module/topbar/module-topbar.php:467
+#: ../includes/core/features/module/topbar/module-topbar.php:546
+msgid "Left"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:261
+msgid "Align Left"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:265
+#: ../includes/core/features/module/topbar/module-topbar.php:220
+#: ../includes/core/features/module/topbar/module-topbar.php:310
+#: ../includes/core/features/module/topbar/module-topbar.php:468
+#: ../includes/core/features/module/topbar/module-topbar.php:547
+msgid "Center"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:266
+msgid "Align Center"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:270
+#: ../includes/core/features/module/topbar/module-topbar.php:221
+#: ../includes/core/features/module/topbar/module-topbar.php:311
+#: ../includes/core/features/module/topbar/module-topbar.php:469
+#: ../includes/core/features/module/topbar/module-topbar.php:548
+msgid "Right"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:271
+msgid "Align Right"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:275
+msgid "Justify"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:276
+msgid "Justify Align"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:285
+msgid "bounce"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:285
+msgid "bounce animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:286
+msgid "bounceIn"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:286
+msgid "bounceIn animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:287
+msgid "bounceInDown"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:287
+msgid "bounceInDown animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:288
+msgid "bounceInLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:288
+msgid "bounceInLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:289
+msgid "bounceInRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:289
+msgid "bounceInRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:290
+msgid "bounceInUp"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:290
+msgid "bounceInUp animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:291
+msgid "bounceOut"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:291
+msgid "bounceOut animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:292
+msgid "bounceOutDown"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:292
+msgid "bounceOutDown animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:293
+msgid "bounceOutLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:293
+msgid "bounceOutLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:294
+msgid "bounceOutRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:294
+msgid "bounceOutRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:295
+msgid "bounceOutUp"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:295
+msgid "bounceOutUp animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:296
+msgid "fadeIn"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:296
+msgid "fadeIn animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:297
+msgid "fadeInDown"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:297
+msgid "fadeInDown animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:298
+msgid "fadeInDownBig"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:298
+msgid "fadeInDownBig animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:299
+msgid "fadeInLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:299
+msgid "fadeInLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:300
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:300
+msgid "fadeInLeftBig animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:301
+msgid "fadeInRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:301
+msgid "fadeInRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:302
+msgid "fadeInRightBig"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:302
+msgid "fadeInRightBig animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:303
+msgid "fadeInUp"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:303
+msgid "fadeInUp animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:304
+msgid "fadeInUpBig"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:304
+msgid "fadeInUpBig animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:305
+msgid "fadeOut"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:305
+msgid "fadeOut animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:306
+msgid "fadeOutDown"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:306
+msgid "fadeOutDown animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:307
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:307
+msgid "fadeOutDownBig animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:308
+msgid "fadeOutLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:308
+msgid "fadeOutLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:309
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:309
+msgid "fadeOutLeftBig animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:310
+msgid "fadeOutRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:310
+msgid "fadeOutRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:311
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:311
+msgid "fadeOutRightBig animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:312
+msgid "fadeOutUp"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:312
+msgid "fadeOutUp animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:313
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:313
+msgid "fadeOutUpBig animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:314
+msgid "flash"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:314
+msgid "flash animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:315
+msgid "flip"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:315
+msgid "flip animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:316
+msgid "flipInX"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:316
+msgid "flipInX animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:317
+msgid "flipInY"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:317
+msgid "flipInY animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:318
+msgid "flipOutX"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:318
+msgid "flipOutX animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:319
+msgid "flipOutY"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:319
+msgid "flipOutY animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:320
+msgid "hinge"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:320
+msgid "hinge animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:321
+msgid "jello"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:321
+msgid "jello animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:322
+msgid "lightSpeedIn"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:322
+msgid "lightSpeedIn animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:323
+msgid "lightSpeedOut"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:323
+msgid "lightSpeedOut animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:324
+msgid "pulse"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:324
+msgid "pulse animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:325
+msgid "rollIn"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:325
+msgid "rollIn animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:326
+msgid "rollOut"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:326
+msgid "rollOut animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:327
+msgid "rotateIn"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:327
+msgid "rotateIn animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:328
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:328
+msgid "rotateInDownLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:329
+msgid "rotateInDownRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:329
+msgid "rotateInDownRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:330
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:330
+msgid "rotateInUpLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:331
+msgid "rotateInUpRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:331
+msgid "rotateInUpRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:332
+msgid "rotateOut"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:332
+msgid "rotateOut animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:333
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:333
+msgid "rotateOutDownLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:334
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:334
+msgid "rotateOutDownRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:335
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:335
+msgid "rotateOutUpLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:336
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:336
+msgid "rotateOutUpRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:337
+msgid "rubberBand"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:337
+msgid "rubberBand animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:338
+msgid "shake"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:338
+msgid "shake animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:339
+msgid "slideInDown"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:339
+msgid "slideInDown animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:340
+msgid "slideInLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:340
+msgid "slideInLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:341
+msgid "slideInRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:341
+msgid "slideInRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:342
+msgid "slideInUp"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:342
+msgid "slideInUp animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:343
+msgid "slideOutDown"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:343
+msgid "slideOutDown animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:344
+msgid "slideOutLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:344
+msgid "slideOutLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:345
+msgid "slideOutRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:345
+msgid "slideOutRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:346
+msgid "slideOutUp"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:346
+msgid "slideOutUp animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:347
+msgid "swing"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:347
+msgid "swing animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:348
+msgid "tada"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:348
+msgid "tada animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:349
+msgid "wobble"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:349
+msgid "wobble animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:350
+msgid "zoomIn"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:350
+msgid "zoomIn animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:351
+msgid "zoomInDown"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:351
+msgid "zoomInDown animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:352
+msgid "zoomInLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:352
+msgid "zoomInLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:353
+msgid "zoomInRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:353
+msgid "zoomInRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:354
+msgid "zoomInUp"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:354
+msgid "zoomInUp animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:355
+msgid "zoomOut"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:355
+msgid "zoomOut animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:356
+msgid "zoomOutDown"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:356
+msgid "zoomOutDown animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:357
+msgid "zoomOutLeft"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:357
+msgid "zoomOutLeft animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:358
+msgid "zoomOutRight"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:358
+msgid "zoomOutRight animation"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:359
+msgid "zoomOutUp"
+msgstr ""
+
+#: ../includes/core/features/module/style/module-style.php:359
+msgid "zoomOutUp animation"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:51
+msgid "Top Bar Navigation ( column 1 )"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:52
+msgid "Top Bar Navigation ( column 2 )"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:102
+#: ../includes/core/features/module/topbar/module-topbar.php:103
+#: ../includes/core/features/module/topbar/module-topbar.php:282
+msgid "Emergency Line"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:132
+#: ../includes/core/features/module/topbar/module-topbar.php:139
+#: ../includes/core/features/module/topbar/module-topbar.php:402
+msgid "Top Bar"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:133
+msgid "TOP BAR OPTIONS"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:140
+#: ../includes/core/features/module/topbar/module-topbar.php:183
+#: ../includes/core/features/module/topbar/module-topbar.php:196
+#: ../includes/core/features/module/topbar/module-topbar.php:205
+#: ../includes/core/features/module/topbar/module-topbar.php:216
+#: ../includes/core/features/module/topbar/module-topbar.php:258
+#: ../includes/core/features/module/topbar/module-topbar.php:271
+#: ../includes/core/features/module/topbar/module-topbar.php:280
+#: ../includes/core/features/module/topbar/module-topbar.php:306
+#: ../includes/core/features/module/topbar/module-topbar.php:544
+msgid "Can be overriden on page/post settings"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:142
+#: ../includes/core/features/module/topbar/module-topbar.php:403
+#: ../includes/core/features/module/topbar/module-topbar.php:457
+#: ../includes/core/features/module/topbar/module-topbar.php:520
+#: ../includes/options.php:328 ../includes/options.php:1301
+#: ../includes/options.php:1449 ../includes/options.php:1471
+#: ../includes/options.php:1615 ../includes/options.php:1881
+#: ../includes/options.php:1899 ../includes/options.php:1927
+#: ../includes/options.php:1966 ../includes/options.php:2060
+msgid "Display"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:143
+#: ../includes/core/features/module/topbar/module-topbar.php:404
+#: ../includes/core/features/module/topbar/module-topbar.php:458
+#: ../includes/core/features/module/topbar/module-topbar.php:521
+#: ../includes/options.php:329 ../includes/options.php:1302
+#: ../includes/options.php:1450 ../includes/options.php:1472
+#: ../includes/options.php:1616 ../includes/options.php:1882
+#: ../includes/options.php:1900 ../includes/options.php:1928
+#: ../includes/options.php:1967 ../includes/options.php:2061
+msgid "Hide"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:150
+#: ../includes/core/features/module/topbar/module-topbar.php:411
+#: ../includes/options.php:1206 ../includes/options.php:1858
+msgid "Transparency"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:158
+#: ../includes/core/features/module/topbar/module-topbar.php:417
+msgid "Top Bar Layout"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:159
+#: ../includes/core/features/module/topbar/module-topbar.php:418
+msgid "Click to the icon according to the desired top bar layout. "
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:174
+msgid "1st Top Bar Column"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:182
+#: ../includes/core/features/module/topbar/module-topbar.php:257
+msgid "Content Display"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:186
+#: ../includes/core/features/module/topbar/module-topbar.php:261
+#: ../includes/core/features/module/topbar/module-topbar.php:432
+#: ../includes/core/features/module/topbar/module-topbar.php:494
+msgid "Menu"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:187
+#: ../includes/core/features/module/topbar/module-topbar.php:204
+#: ../includes/core/features/module/topbar/module-topbar.php:262
+#: ../includes/core/features/module/topbar/module-topbar.php:279
+#: ../includes/core/features/module/topbar/module-topbar.php:433
+#: ../includes/core/features/module/topbar/module-topbar.php:495
+msgid "Default Text"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:195
+#: ../includes/core/features/module/topbar/module-topbar.php:270
+msgid "Menu Location"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:206
+#: ../includes/core/features/module/topbar/module-topbar.php:281
+#: ../includes/core/features/module/topbar/module-topbar.php:449
+#: ../includes/core/features/module/topbar/module-topbar.php:512
+#: ../includes/options.php:1640 ../includes/options.php:1649
+msgid "HTML tags allowed"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:215
+#: ../includes/core/features/module/topbar/module-topbar.php:305
+msgid "Content Alignment"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:228
+#: ../includes/core/features/module/topbar/module-topbar.php:290
+msgid "Visibility Behaviour"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:229
+#: ../includes/core/features/module/topbar/module-topbar.php:291
+#: ../includes/core/features/module/topbar/module-topbar.php:477
+#: ../includes/core/features/module/topbar/module-topbar.php:529
+msgid ""
+"Select which is the MINIMUM screen for this column to be visible. Leave this "
+"empty to display on all screens"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:250
+msgid "2nd Top Bar Column"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:326
+msgid "Top Bar Color Set"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:327
+msgid "Color options for top bar section."
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:334
+#: ../includes/options.php:1246
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:335
+#: ../includes/options.php:1247
+msgid "default: #efefef"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:336
+msgid "The default top bar background"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:345
+#: ../includes/options.php:594 ../includes/options.php:1256
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:346
+msgid "default: #555555."
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:347
+#: ../includes/options.php:1258
+msgid "Text color for non linked texts ( i.e. logo title/subtitle )"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:356
+#: ../includes/options.php:603
+msgid "Link Text Color"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:357
+msgid "Text color for navigation items and other link anchor texts"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:358
+msgid "default: #555555/#4EABF9"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:396
+msgid "Top Bar Options"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:430
+msgid "Col 1: Content Display"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:434
+#: ../includes/core/features/module/topbar/module-topbar.php:496
+msgid "Custom Text"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:441
+msgid "Col 1: Menu Location"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:448
+msgid "Col 1: Custom Text"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:455
+msgid "Col 1: WPML Language Switcher"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:456
+msgid ""
+"Displayed on the left side, before content display ( WPML must be installed "
+"& activated )."
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:465
+msgid "Col 1: Content Alignment"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:476
+msgid "Col 1: Visibility Behaviour"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:492
+msgid "Col 2: Content Display"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:504
+msgid "Col 2: Menu Location"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:511
+msgid "Col 2: Custom Text"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:518
+msgid "Col 2: WPML Language Switcher"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:519
+msgid ""
+"Displayed on the right side, after content display ( WPML must be installed "
+"& activated )."
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:528
+msgid "Col 2: Visibility Behaviour"
+msgstr ""
+
+#: ../includes/core/features/module/topbar/module-topbar.php:543
+msgid "Col 2: Content Alignment"
+msgstr ""
+
+#: ../includes/core/features/posttype/post/posttype-post.php:87
+msgid "Post Type"
+msgstr ""
+
+#: ../includes/core/features/posttype/post/posttype-post.php:88
+msgid "Third Party Feature / Plugin"
+msgstr ""
+
+#: ../includes/core/features/posttype/post/posttype-post.php:89
+#, php-format
+msgid ""
+"This is a third party plugin custom post type. This option will activate/"
+"deactivate %1$s frontend options support for this CPT. Deactivating support "
+"does NOT mean that the post type will not be still active."
+msgstr ""
+
+#: ../includes/core/features/posttype/post/posttype-post.php:90
+#: ../includes/core/helpers/plethora-index.php:232
+msgid "Activated"
+msgstr ""
+
+#: ../includes/core/features/posttype/post/posttype-post.php:91
+#: ../includes/core/helpers/plethora-index.php:233
+msgid "Deactivated"
+msgstr ""
+
+#: ../includes/core/helpers/plethora-index.php:145
+#: ../includes/core/helpers/plethora-index.php:264
+msgid "No title found"
+msgstr ""
+
+#: ../includes/core/helpers/plethora-index.php:146
+#: ../includes/core/helpers/plethora-index.php:265
+msgid "No description found"
+msgstr ""
+
+#: ../includes/core/helpers/plethora-index.php:206
+msgid "Custom Feature / "
+msgstr ""
+
+#: ../includes/core/helpers/plethora-index.php:206
+msgid "Plethora Library Feature / "
+msgstr ""
+
+#: ../includes/core/helpers/plethora-index.php:207
+msgid "Parent Theme"
+msgstr ""
+
+#: ../includes/core/helpers/plethora-index.php:207
+msgid "Child Theme"
+msgstr ""
+
+#: ../includes/core/helpers/plethora-index.php:211
+msgid "Requires activation of: "
+msgstr ""
+
+#: ../includes/core/helpers/plethora-index.php:466
+msgid "Location not found"
+msgstr ""
+
+#: ../includes/core/plethora.php:49
+msgid " Theme Options Panel"
+msgstr ""
+
+#: ../includes/core/plethora.php:50
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/core/plethora.php:931
+msgid "The Blog"
+msgstr ""
+
+#: ../includes/core/plethora.php:1100 ../templates/single/single.php:192
+#: ../templates/single_page/single.php:32
+#: ../templates/single_post/single.php:180
+msgid "Pages:"
+msgstr ""
+
+#: ../includes/core/plethora.php:1106
+msgid "Next page"
+msgstr ""
+
+#: ../includes/core/plethora.php:1107
+msgid "Previous page"
+msgstr ""
+
+#: ../includes/core/plethora.php:1288 ../templates/archive_post/meta.php:29
+#: ../templates/single/meta.php:26 ../templates/single_post/single.php:136
+#, php-format
+msgid "View all posts in category: %s"
+msgstr ""
+
+#: ../includes/core/plethora.php:1312 ../includes/core/plethora.php:1360
+#: ../templates/archive/meta.php:33 ../templates/archive/meta.php:43
+#: ../templates/single/single.php:148 ../templates/single/single.php:158
+#, php-format
+msgid "View all in category: %s"
+msgstr ""
+
+#: ../includes/core/plethora.php:1335 ../templates/single/tags.php:18
+#, php-format
+msgid "View all posts tagged with: %s"
+msgstr ""
+
+#: ../includes/core/plethora.php:1434 ../templates/archive/readmore.php:14
+#: ../templates/archive_post/readmore.php:13
+msgid "Read More"
+msgstr ""
+
+#: ../includes/core/plethora.php:1483 ../templates/archive/pagination.php:35
+#: ../templates/archive_post/pagination.php:35
+msgid "Prev"
+msgstr ""
+
+#: ../includes/core/plethora.php:1514 ../templates/archive/pagination.php:66
+#: ../templates/archive_post/pagination.php:66
+msgid "Next"
+msgstr ""
+
+#: ../includes/options.php:83
+msgid "Online demo pages"
+msgstr ""
+
+#: ../includes/options.php:84
+msgid "Online documentation"
+msgstr ""
+
+#: ../includes/options.php:85
+msgid "Create Support Ticket"
+msgstr ""
+
+#: ../includes/options.php:91
+msgid "Plethora Theme Options panel. Based on Redux Framework"
+msgstr ""
+
+#: ../includes/options.php:106
+msgid "Follow Plethora on Twitter"
+msgstr ""
+
+#: ../includes/options.php:107
+msgid "Find Plethora on Facebook"
+msgstr ""
+
+#: ../includes/options.php:108
+msgid "Watch Plethora channel on YouTube"
+msgstr ""
+
+#: ../includes/options.php:239
+msgid "General"
+msgstr ""
+
+#: ../includes/options.php:240 ../includes/options.php:251
+#: ../includes/options.php:262
+msgid "Style & typography options applied globally"
+msgstr ""
+
+#: ../includes/options.php:250
+msgid "Header"
+msgstr ""
+
+#: ../includes/options.php:261
+msgid "Footer"
+msgstr ""
+
+#: ../includes/options.php:272 ../includes/options.php:1697
+msgid "Content"
+msgstr ""
+
+#: ../includes/options.php:282
+msgid "Add-ons & Modules"
+msgstr ""
+
+#: ../includes/options.php:292
+msgid "Advanced"
+msgstr ""
+
+#: ../includes/options.php:303
+msgid "Help"
+msgstr ""
+
+#: ../includes/options.php:318
+msgid "Main Section // Logo"
+msgstr ""
+
+#: ../includes/options.php:319
+msgid "MAIN HEADER SECTION // LOGO OPTIONS"
+msgstr ""
+
+#: ../includes/options.php:326 ../includes/options.php:1880
+msgid "Display Logo"
+msgstr ""
+
+#: ../includes/options.php:335
+msgid "Logo layout"
+msgstr ""
+
+#: ../includes/options.php:337
+msgid "Image only"
+msgstr ""
+
+#: ../includes/options.php:338
+msgid "Image + Subtitle"
+msgstr ""
+
+#: ../includes/options.php:339
+msgid "Title + Subtitle"
+msgstr ""
+
+#: ../includes/options.php:340
+msgid "Title only"
+msgstr ""
+
+#: ../includes/options.php:356 ../templates/global/logo.php:15
+msgid "HealthFlex"
+msgstr ""
+
+#: ../includes/options.php:363 ../includes/options.php:1683
+#: ../includes/options.php:1775
+msgid "Subtitle"
+msgstr ""
+
+#: ../includes/options.php:364 ../templates/global/logo.php:16
+msgid "Call us Toll free +30 1234-567-890"
+msgstr ""
+
+#: ../includes/options.php:371
+msgid "Subtitle Animation"
+msgstr ""
+
+#: ../includes/options.php:372
+msgid "Enable title text left to right animation"
+msgstr ""
+
+#: ../includes/options.php:389
+msgid "Logo Position"
+msgstr ""
+
+#: ../includes/options.php:395
+msgid "Vertical Margin (large devices)"
+msgstr ""
+
+#: ../includes/options.php:396
+msgid "default: 20px"
+msgstr ""
+
+#: ../includes/options.php:404
+msgid "Vertical Margin (small devices)"
+msgstr ""
+
+#: ../includes/options.php:405
+msgid "default: 14px"
+msgstr ""
+
+#: ../includes/options.php:413
+msgid "Vertical Margin (extra small devices)"
+msgstr ""
+
+#: ../includes/options.php:414 ../includes/options.php:1353
+#: ../includes/options.php:1363 ../includes/options.php:1393
+msgid "default: 10px"
+msgstr ""
+
+#: ../includes/options.php:424
+msgid "Logo Image Max Height (large devices)"
+msgstr ""
+
+#: ../includes/options.php:425
+msgid "default: 38px"
+msgstr ""
+
+#: ../includes/options.php:435
+msgid "Logo Image Max Height (small devices)"
+msgstr ""
+
+#: ../includes/options.php:436
+msgid "default: 34px"
+msgstr ""
+
+#: ../includes/options.php:446
+msgid "Logo Image Max Height (extra small devices)"
+msgstr ""
+
+#: ../includes/options.php:447
+msgid "default: 30px"
+msgstr ""
+
+#: ../includes/options.php:455
+msgid "Title Font Size (large devices)"
+msgstr ""
+
+#: ../includes/options.php:475
+msgid "Title Font Size (small devices)"
+msgstr ""
+
+#: ../includes/options.php:495
+msgid "Title Font Size (extra small devices)"
+msgstr ""
+
+#: ../includes/options.php:528
+msgid "Favicons"
+msgstr ""
+
+#: ../includes/options.php:529
+msgid "FAVICON OPTIONS"
+msgstr ""
+
+#: ../includes/options.php:530
+msgid "Since 4.3 version, WordPress introduced a"
+msgstr ""
+
+#: ../includes/options.php:530
+msgid "site identity feature"
+msgstr ""
+
+#: ../includes/options.php:530
+msgid ""
+" where you can place a single 512x512 image and just let WP handle all your "
+"application icon displays. We suggest going along with this native WP "
+"feature, however we keep those options here for older WP versions"
+msgstr ""
+
+#: ../includes/options.php:537
+msgid "Classic Favicon 16"
+msgstr ""
+
+#: ../includes/options.php:539
+msgid ""
+"Upload a 16px X 16px PNG/GIF/ICO image. This is the classic favicon used by "
+"all desktop browsers"
+msgstr ""
+
+#: ../includes/options.php:546
+msgid "Classic Favicon 32"
+msgstr ""
+
+#: ../includes/options.php:548
+msgid "Upload a 32px X 32px PNG/GIF image."
+msgstr ""
+
+#: ../includes/options.php:555
+msgid "Classic Favicon 96"
+msgstr ""
+
+#: ../includes/options.php:557
+msgid "Upload a 96px X 96px PNG/GIF image."
+msgstr ""
+
+#: ../includes/options.php:569
+msgid "Basic Colors & Sets"
+msgstr ""
+
+#: ../includes/options.php:570
+msgid "BASIC COLORS & COLOR SET OPTIONS"
+msgstr ""
+
+#: ../includes/options.php:577
+msgid "Basic Colors"
+msgstr ""
+
+#: ../includes/options.php:578
+msgid "Basic color choices that affect several elements within the theme."
+msgstr ""
+
+#: ../includes/options.php:585
+msgid "Body Background Color"
+msgstr ""
+
+#: ../includes/options.php:586
+msgid "default: #EFEFEF."
+msgstr ""
+
+#: ../includes/options.php:595 ../includes/options.php:731
+#: ../includes/options.php:821 ../includes/options.php:857
+msgid "default: #323232."
+msgstr ""
+
+#: ../includes/options.php:604
+msgid "defaults: #45aaff / #304770"
+msgstr ""
+
+#: ../includes/options.php:616
+msgid "Primary Brand Color"
+msgstr ""
+
+#: ../includes/options.php:617
+msgid "default: #45aaff."
+msgstr ""
+
+#: ../includes/options.php:625
+msgid "Secondary Brand Color"
+msgstr ""
+
+#: ../includes/options.php:626
+msgid "default: #304770."
+msgstr ""
+
+#: ../includes/options.php:643
+msgid ""
+"Options for primary colored elements. Background & other design elements are "
+"colored according to chosen <strong>primary color</strong> ( check above )."
+msgstr ""
+
+#: ../includes/options.php:649 ../includes/options.php:685
+#: ../includes/options.php:730 ../includes/options.php:775
+#: ../includes/options.php:820 ../includes/options.php:865
+msgid "Text"
+msgstr ""
+
+#: ../includes/options.php:650 ../includes/options.php:686
+#: ../includes/options.php:776 ../includes/options.php:812
+#: ../includes/options.php:866 ../includes/options.php:1574
+msgid "default: #ffffff."
+msgstr ""
+
+#: ../includes/options.php:658 ../includes/options.php:694
+#: ../includes/options.php:739 ../includes/options.php:784
+msgid "Link Text"
+msgstr ""
+
+#: ../includes/options.php:659
+msgid "default: #304770/#fbc02d"
+msgstr ""
+
+#: ../includes/options.php:679
+msgid ""
+"Color options for secondary colored elements. Background & other design "
+"elements are colored according to chosen secondary color ( check above )."
+msgstr ""
+
+#: ../includes/options.php:695 ../includes/options.php:785
+#: ../includes/options.php:875
+msgid "default: #45aaff/#fbc02d"
+msgstr ""
+
+#: ../includes/options.php:715
+msgid "Color options for light colored elements."
+msgstr ""
+
+#: ../includes/options.php:721 ../includes/options.php:766
+#: ../includes/options.php:811 ../includes/options.php:856
+msgid "Background"
+msgstr ""
+
+#: ../includes/options.php:722
+msgid "default: #e5e5e5."
+msgstr ""
+
+#: ../includes/options.php:740
+msgid "default: #45aaff/#304770"
+msgstr ""
+
+#: ../includes/options.php:760
+msgid "Color options for dark colored elements."
+msgstr ""
+
+#: ../includes/options.php:767
+msgid "default: #222D3F."
+msgstr ""
+
+#: ../includes/options.php:805
+msgid "Color options for white colored elements."
+msgstr ""
+
+#: ../includes/options.php:829 ../includes/options.php:874
+msgid "Link"
+msgstr ""
+
+#: ../includes/options.php:830
+msgid "default: #4eabf9/#304770"
+msgstr ""
+
+#: ../includes/options.php:850
+msgid "Color options for black colored elements."
+msgstr ""
+
+#: ../includes/options.php:898
+msgid "Typography"
+msgstr ""
+
+#: ../includes/options.php:899
+msgid "TYPOGRAPHY OPTIONS"
+msgstr ""
+
+#: ../includes/options.php:906
+msgid "Primary Font"
+msgstr ""
+
+#: ../includes/options.php:907
+msgid "Primary font is used in content texts"
+msgstr ""
+
+#: ../includes/options.php:926
+msgid "Secondary Font"
+msgstr ""
+
+#: ../includes/options.php:927
+msgid "Secondary font is used in headings, menu items and buttons"
+msgstr ""
+
+#: ../includes/options.php:947
+msgid "Primary Font Size Base"
+msgstr ""
+
+#: ../includes/options.php:948
+msgid ""
+"All text sizes for body & paragraph elements will be adjusted according to "
+"this base."
+msgstr ""
+
+#: ../includes/options.php:969
+msgid "Secondary Font Size Base"
+msgstr ""
+
+#: ../includes/options.php:970
+msgid ""
+"All text sizes for logo, menu, heading & buttons elements will be adjusted "
+"according to this base."
+msgstr ""
+
+#: ../includes/options.php:990
+msgid "H1 Font Size Multiplier"
+msgstr ""
+
+#: ../includes/options.php:991
+msgid "Default: 2.6, min: 0.5, max: 4.0"
+msgstr ""
+
+#: ../includes/options.php:992 ../includes/options.php:1005
+#: ../includes/options.php:1018 ../includes/options.php:1031
+#: ../includes/options.php:1044 ../includes/options.php:1057
+msgid ""
+"This value, multiplied with 'Secondary Font Size Base', will produce the "
+"font-size of the heading"
+msgstr ""
+
+#: ../includes/options.php:1003
+msgid "H2 Font Size Multiplier"
+msgstr ""
+
+#: ../includes/options.php:1004
+msgid "Default: 1.8, min: 0.5, max: 4.0"
+msgstr ""
+
+#: ../includes/options.php:1016
+msgid "H3 Font Size Multiplier"
+msgstr ""
+
+#: ../includes/options.php:1017
+msgid "Default: 1.6, min: 0.5, max: 4.0"
+msgstr ""
+
+#: ../includes/options.php:1029
+msgid "H4 Font Size Multiplier"
+msgstr ""
+
+#: ../includes/options.php:1030
+msgid "Default: 1.2, min: 0.5, max: 4.0"
+msgstr ""
+
+#: ../includes/options.php:1042
+msgid "H5 Font Size Multiplier"
+msgstr ""
+
+#: ../includes/options.php:1043
+msgid "Default: 1.0, min: 0.5, max: 4.0"
+msgstr ""
+
+#: ../includes/options.php:1055
+msgid "H6 Font Size Multiplier"
+msgstr ""
+
+#: ../includes/options.php:1056
+msgid "Default: 0.85, min: 0.5, max: 4.0"
+msgstr ""
+
+#: ../includes/options.php:1068
+msgid "Heading Text Transform"
+msgstr ""
+
+#: ../includes/options.php:1089
+msgid "Headings Font Weight"
+msgstr ""
+
+#: ../includes/options.php:1110
+msgid "Buttons Text Transform"
+msgstr ""
+
+#: ../includes/options.php:1145
+msgid "Misc"
+msgstr ""
+
+#: ../includes/options.php:1146
+msgid "MISCELLANEOUS ELEMENTS"
+msgstr ""
+
+#: ../includes/options.php:1153
+msgid "Diagonal Design Angle (degrees)"
+msgstr ""
+
+#: ../includes/options.php:1154
+msgid "Max: 360 degrees"
+msgstr ""
+
+#: ../includes/options.php:1163
+msgid "Global Transparency Level"
+msgstr ""
+
+#: ../includes/options.php:1164
+msgid ""
+"This is the transparency level for each transparency applied on color set "
+"backgrounds"
+msgstr ""
+
+#: ../includes/options.php:1181 ../includes/options.php:1461
+msgid "Main Section"
+msgstr ""
+
+#: ../includes/options.php:1182
+msgid "MAIN HEADER SECTION"
+msgstr ""
+
+#: ../includes/options.php:1191
+msgid "Add or not an angled separator on bottom"
+msgstr ""
+
+#: ../includes/options.php:1194 ../includes/options.php:1847
+msgid "Angle Positive Bottom"
+msgstr ""
+
+#: ../includes/options.php:1217
+msgid "Opacity Level"
+msgstr ""
+
+#: ../includes/options.php:1218
+msgid "Set the opacity level for the overlay film."
+msgstr ""
+
+#: ../includes/options.php:1219
+msgid "default: 80"
+msgstr ""
+
+#: ../includes/options.php:1230 ../includes/options.php:1864
+msgid "Sticky Header On Scroll"
+msgstr ""
+
+#: ../includes/options.php:1231
+msgid ""
+"Set it to ON if you want your header to remain always on top when you scroll "
+"down a page"
+msgstr ""
+
+#: ../includes/options.php:1239
+msgid "Header Color Set"
+msgstr ""
+
+#: ../includes/options.php:1240
+msgid "Color options for main header section."
+msgstr ""
+
+#: ../includes/options.php:1248
+msgid "The default background color"
+msgstr ""
+
+#: ../includes/options.php:1257
+msgid "default: #555555"
+msgstr ""
+
+#: ../includes/options.php:1266
+msgid "Link Color"
+msgstr ""
+
+#: ../includes/options.php:1267
+msgid "Color for navigation items and other link anchor texts"
+msgstr ""
+
+#: ../includes/options.php:1268
+msgid "default: #444444 / #4eabf9"
+msgstr ""
+
+#: ../includes/options.php:1291
+msgid "Main Section // Menu"
+msgstr ""
+
+#: ../includes/options.php:1292
+msgid "MAIN HEADER SECTION // NAVIGATION MENU OPTIONS"
+msgstr ""
+
+#: ../includes/options.php:1299 ../includes/options.php:1898
+msgid "Display Main Menu"
+msgstr ""
+
+#: ../includes/options.php:1308 ../includes/options.php:1907
+msgid "Main Menu Location"
+msgstr ""
+
+#: ../includes/options.php:1309 ../includes/options.php:1908
+msgid ""
+"Select the default location to be displayed as your main menu. You have the "
+"possibility to change the main navigation location for every page. "
+msgstr ""
+
+#: ../includes/options.php:1317
+msgid "Multi Level Menu Behavior"
+msgstr ""
+
+#: ../includes/options.php:1318
+msgid "Choose action to trigger child menu items display"
+msgstr ""
+
+#: ../includes/options.php:1321
+msgid "Mouse Hover"
+msgstr ""
+
+#: ../includes/options.php:1322
+msgid "Click"
+msgstr ""
+
+#: ../includes/options.php:1330
+msgid "Menu Item Font Size"
+msgstr ""
+
+#: ../includes/options.php:1352
+msgid "Menu Item Vertical Padding (large devices)"
+msgstr ""
+
+#: ../includes/options.php:1362
+msgid "Menu Item Vertical Padding (medium devices)"
+msgstr ""
+
+#: ../includes/options.php:1372
+msgid "Menu Item Vertical Padding (small devices)"
+msgstr ""
+
+#: ../includes/options.php:1373 ../includes/options.php:1383
+#: ../includes/options.php:1403
+msgid "default: 15px"
+msgstr ""
+
+#: ../includes/options.php:1382
+msgid "Menu Item Horizontal Padding (large devices)"
+msgstr ""
+
+#: ../includes/options.php:1392
+msgid "Menu Item Horizontal Padding (medium devices)"
+msgstr ""
+
+#: ../includes/options.php:1402
+msgid "Menu Item Horizontal Padding (small devices)"
+msgstr ""
+
+#: ../includes/options.php:1432
+msgid ""
+"IMPORTANT NOTICE: Icon libraries are not working as expected. This might "
+"affect the functionality of this feature as well. "
+msgstr ""
+
+#: ../includes/options.php:1433
+msgid ""
+"After resolving the icon libraries feature, visit THEME OPTIONS > GENERAL > "
+"SOCIAL ICONS and click on \"Reset Section\" button. This will recover the "
+"social icons list on this tab too!"
+msgstr ""
+
+#: ../includes/options.php:1438
+msgid "Main Section // Social Bar"
+msgstr ""
+
+#: ../includes/options.php:1439
+msgid "MAIN HEADER SECTION // SOCIAL BAR OPTIONS"
+msgstr ""
+
+#: ../includes/options.php:1446 ../includes/options.php:1926
+msgid "Floating Social Bar"
+msgstr ""
+
+#: ../includes/options.php:1447
+msgid "Display floating social icons bar."
+msgstr ""
+
+#: ../includes/options.php:1462
+msgid "MAIN SECTION"
+msgstr ""
+
+#: ../includes/options.php:1468 ../includes/options.php:1964
+msgid "Main Footer Section"
+msgstr ""
+
+#: ../includes/options.php:1469 ../includes/options.php:1965
+msgid "Display/hide main footer section"
+msgstr ""
+
+#: ../includes/options.php:1480
+msgid "Add or not an angled separator on top."
+msgstr ""
+
+#: ../includes/options.php:1483 ../includes/options.php:1977
+msgid "Angle Positive Top"
+msgstr ""
+
+#: ../includes/options.php:1484 ../includes/options.php:1978
+msgid "Angle Negative Top"
+msgstr ""
+
+#: ../includes/options.php:1493 ../includes/options.php:1986
+msgid "Widget Columns layout"
+msgstr ""
+
+#: ../includes/options.php:1494 ../includes/options.php:1987
+msgid "Click to the icon according to the desired footer layout. "
+msgstr ""
+
+#: ../includes/options.php:1495
+msgid ""
+"Edit content on <strong>Appearence > Widgets</strong> section as <i>Footer "
+"column #1</i>, <i>Footer column #2</i>, etc."
+msgstr ""
+
+#: ../includes/options.php:1515 ../includes/options.php:2008
+msgid "Column 1 Widgets Area"
+msgstr ""
+
+#: ../includes/options.php:1526 ../includes/options.php:2019
+msgid "Column 2 Widgets Area"
+msgstr ""
+
+#: ../includes/options.php:1537 ../includes/options.php:2029
+msgid "Column 3 Widgets Area"
+msgstr ""
+
+#: ../includes/options.php:1548 ../includes/options.php:2039
+msgid "Column 4 Widgets Area"
+msgstr ""
+
+#: ../includes/options.php:1557
+msgid "Footer Color Set"
+msgstr ""
+
+#: ../includes/options.php:1558
+msgid "Color options for footer section."
+msgstr ""
+
+#: ../includes/options.php:1564
+msgid "Footer Background"
+msgstr ""
+
+#: ../includes/options.php:1565
+msgid "default: #2c4167."
+msgstr ""
+
+#: ../includes/options.php:1573
+msgid "Footer Text"
+msgstr ""
+
+#: ../includes/options.php:1582
+msgid "Footer Link Text"
+msgstr ""
+
+#: ../includes/options.php:1583
+msgid "default: #03a9f4/#fbc02d"
+msgstr ""
+
+#: ../includes/options.php:1605
+msgid "Info Bar"
+msgstr ""
+
+#: ../includes/options.php:1606
+msgid "INFO BAR"
+msgstr ""
+
+#: ../includes/options.php:1612 ../includes/options.php:2058
+msgid "Footer info bar"
+msgstr ""
+
+#: ../includes/options.php:1613 ../includes/options.php:2059
+msgid "Display/hide bottom info bar"
+msgstr ""
+
+#: ../includes/options.php:1632 ../includes/options.php:2076
+msgid "Transparency Film"
+msgstr ""
+
+#: ../includes/options.php:1639
+msgid "Copyright text"
+msgstr ""
+
+#: ../includes/options.php:1641 ../includes/template.php:409
+msgid "Copyright &copy;2016 all rights reserved"
+msgstr ""
+
+#: ../includes/options.php:1648
+msgid "Credits text"
+msgstr ""
+
+#: ../includes/options.php:1650 ../includes/template.php:410
+msgid "Designed by"
+msgstr ""
+
+#: ../includes/options.php:1661
+msgid "404 Page"
+msgstr ""
+
+#: ../includes/options.php:1662
+msgid "404 PAGE OPTIONS"
+msgstr ""
+
+#: ../includes/options.php:1669
+msgid "Featured Image"
+msgstr ""
+
+#: ../includes/options.php:1677
+msgid "OMG! ERROR 404"
+msgstr ""
+
+#: ../includes/options.php:1684
+msgid "The requested page cannot be found!"
+msgstr ""
+
+#: ../includes/options.php:1690
+msgid "Additional Title On Content"
+msgstr ""
+
+#: ../includes/options.php:1691
+msgid "ERROR 404 IS NOTHING TO REALLY WORRY ABOUT..."
+msgstr ""
+
+#: ../includes/options.php:1698
+msgid ""
+"You may have mis-typed the URL, please check your spelling and try again."
+msgstr ""
+
+#: ../includes/options.php:1704
+msgid "Display search field"
+msgstr ""
+
+#: ../includes/options.php:1713
+msgid "Search Button Text"
+msgstr ""
+
+#: ../includes/options.php:1714 ../searchform.php:24 ../searchform.php:36
+msgid "Search"
+msgstr ""
+
+#: ../includes/options.php:1725
+msgid "Search Page"
+msgstr ""
+
+#: ../includes/options.php:1726
+msgid "SEARCH PAGE OPTIONS"
+msgstr ""
+
+#: ../includes/options.php:1732
+msgid "Page Layout"
+msgstr ""
+
+#: ../includes/options.php:1746
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/options.php:1751
+msgid "Display Title On Content"
+msgstr ""
+
+#: ../includes/options.php:1759
+msgid "Title Prefix"
+msgstr ""
+
+#: ../includes/options.php:1760
+msgid "Will be displayed before search keyword"
+msgstr ""
+
+#: ../includes/options.php:1761
+msgid "Search For:"
+msgstr ""
+
+#: ../includes/options.php:1767
+msgid "Display Subtitle On Content"
+msgstr ""
+
+#: ../includes/options.php:1776
+msgid "This is the default search subtitle"
+msgstr ""
+
+#: ../includes/options.php:1829
+msgid "Header Elements"
+msgstr ""
+
+#: ../includes/options.php:1830
+msgid "HEADER SECTION ELEMENTS"
+msgstr ""
+
+#: ../includes/options.php:1838
+msgid "Layout Options"
+msgstr ""
+
+#: ../includes/options.php:1874
+msgid "Logo Options"
+msgstr ""
+
+#: ../includes/options.php:1892
+msgid "Main Menu Options"
+msgstr ""
+
+#: ../includes/options.php:1919
+msgid "Social Bar Options"
+msgstr ""
+
+#: ../includes/options.php:1949
+msgid "Footer Elements"
+msgstr ""
+
+#: ../includes/options.php:1950
+msgid "FOOTER SECTION ELEMENTS"
+msgstr ""
+
+#: ../includes/options.php:1958
+msgid "Main Section Options"
+msgstr ""
+
+#: ../includes/options.php:1988
+msgid "Edit content on 'Appearence > Widgets' section as"
+msgstr ""
+
+#: ../includes/options.php:1988
+msgid "Footer column #1"
+msgstr ""
+
+#: ../includes/options.php:1988
+msgid "Footer column #2"
+msgstr ""
+
+#: ../includes/options.php:1988
+msgid "etc."
+msgstr ""
+
+#: ../includes/options.php:2051
+msgid "Info Bar Options"
+msgstr ""
+
+#: ../includes/template.php:465 ../includes/template.php:523
+msgid "Comments"
+msgstr ""
+
+#: ../includes/template.php:497
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../includes/template.php:498
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../includes/template.php:520
+msgid "Your name"
+msgstr ""
+
+#: ../includes/template.php:521
+msgid "Your email"
+msgstr ""
+
+#: ../includes/template.php:527 ../includes/template.php:530
+msgid "Add Comment"
+msgstr ""
+
+#: ../includes/template.php:528
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: ../includes/template.php:529
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/template.php:557
+msgid "Reply"
+msgstr ""
+
+#: ../includes/tgm.php:333 ../includes/tgm.php:3686
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/tgm.php:334 ../includes/tgm.php:3687
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/tgm.php:335 ../includes/tgm.php:3688
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/tgm.php:336 ../includes/tgm.php:3689
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/tgm.php:338 ../includes/tgm.php:3690
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../includes/tgm.php:343 ../includes/tgm.php:3691
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../includes/tgm.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgstr ""
+
+#: ../includes/tgm.php:353 ../includes/tgm.php:3696
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../includes/tgm.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: ../includes/tgm.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr ""
+
+#: ../includes/tgm.php:368 ../includes/tgm.php:3693
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../includes/tgm.php:373 ../includes/tgm.php:3694
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../includes/tgm.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgstr ""
+
+#: ../includes/tgm.php:383 ../includes/tgm.php:3698
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../includes/tgm.php:388
+msgid "Begin updating plugin"
+msgstr ""
+
+#: ../includes/tgm.php:393
+msgid "Begin activating plugin"
+msgstr ""
+
+#: ../includes/tgm.php:397 ../includes/tgm.php:3700
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/tgm.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/tgm.php:399 ../includes/tgm.php:3037 ../includes/tgm.php:3701
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/tgm.php:400 ../includes/tgm.php:2840
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/tgm.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/tgm.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/tgm.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/tgm.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/tgm.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../includes/tgm.php:525
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/tgm.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../includes/tgm.php:833 ../includes/tgm.php:2429 ../includes/tgm.php:3446
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/tgm.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/tgm.php:940 ../includes/tgm.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/tgm.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/tgm.php:1121 ../includes/tgm.php:2836
+msgid "and"
+msgstr ""
+
+#: ../includes/tgm.php:1886
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/tgm.php:2172
+msgid "Required"
+msgstr ""
+
+#: ../includes/tgm.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/tgm.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/tgm.php:2194
+msgid "External Source"
+msgstr ""
+
+#: ../includes/tgm.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/tgm.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/tgm.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/tgm.php:2220
+msgid "Active"
+msgstr ""
+
+#: ../includes/tgm.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/tgm.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/tgm.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/tgm.php:2240
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../includes/tgm.php:2285
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../includes/tgm.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../includes/tgm.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../includes/tgm.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../includes/tgm.php:2376
+msgid "unknown"
+msgstr ""
+
+#: ../includes/tgm.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/tgm.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/tgm.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/tgm.php:2427
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/tgm.php:2444
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/tgm.php:2445
+msgid "Source"
+msgstr ""
+
+#: ../includes/tgm.php:2446
+msgid "Type"
+msgstr ""
+
+#: ../includes/tgm.php:2450
+msgid "Version"
+msgstr ""
+
+#: ../includes/tgm.php:2451
+msgid "Status"
+msgstr ""
+
+#: ../includes/tgm.php:2499
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../includes/tgm.php:2503
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../includes/tgm.php:2508
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/tgm.php:2578
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/tgm.php:2611
+msgid "Install"
+msgstr ""
+
+#: ../includes/tgm.php:2617
+msgid "Update"
+msgstr ""
+
+#: ../includes/tgm.php:2620
+msgid "Activate"
+msgstr ""
+
+#: ../includes/tgm.php:2651
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/tgm.php:2653
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/tgm.php:2689
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/tgm.php:2691
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/tgm.php:2796
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/tgm.php:2822
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/tgm.php:3036
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/tgm.php:3370
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/tgm.php:3372
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/tgm.php:3373
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/tgm.php:3377
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/tgm.php:3378
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/tgm.php:3378 ../includes/tgm.php:3384
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/tgm.php:3378 ../includes/tgm.php:3384
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/tgm.php:3379
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/tgm.php:3380
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/tgm.php:3383
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/tgm.php:3384
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/tgm.php:3385
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/tgm.php:3386
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/tgm.php:3692
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: ../includes/tgm.php:3695
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: ../includes/tgm.php:3697
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: ../includes/tgm.php:3699
+msgid "Activate installed plugin"
+msgstr ""
+
+#: ../includes/tgm.php:3702
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/theme.php:219
+msgid "1. Home Page"
+msgstr ""
+
+#: ../includes/theme.php:228
+msgid "2. About Us Page"
+msgstr ""
+
+#: ../includes/theme.php:237
+msgid "3. Services Page"
+msgstr ""
+
+#: ../includes/theme.php:246
+msgid "4. Departments Page"
+msgstr ""
+
+#: ../includes/theme.php:255
+msgid "5. Our Staff Page"
+msgstr ""
+
+#: ../includes/theme.php:264
+msgid "6. The Patient's & Visitor's Guide"
+msgstr ""
+
+#: ../includes/theme.php:273
+msgid "7. Contact Page"
+msgstr ""
+
+#: ../includes/theme.php:365
+msgid ""
+"Custom functionality ( post type, taxonomies, shortcodes, widgets ) and "
+"styling related theme options ( color sets, typography, etc. ) WILL NOT be "
+"enabled until you activate the"
+msgstr ""
+
+#: ../searchform.php:38
+msgid "Go!"
+msgstr ""
+
+#: ../templates/archive_post/meta.php:39 ../templates/single/meta.php:36
+#: ../templates/single_post/single.php:146
+#, php-format
+msgid "View all posts in tag: %s"
+msgstr ""
+
+#: ../templates/global/navigation.php:30
+msgid "MENU"
+msgstr ""

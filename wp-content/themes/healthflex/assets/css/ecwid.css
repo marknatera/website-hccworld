@@ -1,0 +1,346 @@
+/*!
+Theme Name: HEALTHFLEX
+
+ECWID Shopping Cart Plugin Specific styles
+This file is loaded only if the plugin is active.
+Color styles can be found on ecwid.less
+*/
+
+/******************************************************************************/
+/******************** GENERAL STYLES ******************************************/
+/******************************************************************************/
+
+html#ecwid_html body#ecwid_body input {
+    border: 1px solid #cccccc !important;
+    border-radius: 0 !important;
+    font-size: 14px !important;
+    height: inherit !important;
+    line-height: 1.5 !important;
+    padding: 7px 22px 7px !important;
+    box-sizing: border-box !important;
+}
+input.gwt-TextBox, input.gwt-PasswordTextBox, select.gwt-ListBox, textarea.gwt-TextArea, input.gwt-DateBox {
+  font-size: inherit !important;
+  font-weight: normal !important;
+  border: solid 1px #cccccc;
+}
+input.gwt-TextBox, input.gwt-PasswordTextBox, textarea.gwt-TextArea, input.gwt-DateBox {
+  border-color: #cccccc !important;
+  border-style: solid !important;
+  border-width: 1px !important;
+}
+select.gwt-ListBox {
+  border-color: #cccccc !important;
+}
+div.gwt-SuggestBoxPopup {
+  color: #333333 !important;
+  border: 1px solid gray;
+}
+div.ecwid-Terms-content {
+  border: 1px solid #cccccc !important;
+}
+html#ecwid_html body#ecwid_body div.ecwid-login-popup.ecwid-responsive-popup input.gwt-TextBox, html#ecwid_html body#ecwid_body div.ecwid-login-popup.ecwid-responsive-popup input.gwt-PasswordTextBox, html#ecwid_html body#ecwid_body div.ecwid-register-popup.ecwid-responsive-popup input.gwt-TextBox, html#ecwid_html body#ecwid_body div.ecwid-register-popup.ecwid-responsive-popup input.gwt-PasswordTextBox {
+  width: 100% !important;
+}
+html#ecwid_html body#ecwid_body div.ecwid-popup table.ecwid-popup-linkBlock {
+  margin: 0 auto !important;
+}
+
+/* ========================= Ecwid buttons =================================== */
+
+.ecwid .ecwid-btn:active:focus, .ecwid .ecwid-btn:focus {
+  transition: none !important
+}
+.ecwid .ecwid-btn--primary:focus, .ecwid .ecwid-btn--primary:focus:hover {
+  border: 0px solid !important;
+  padding: 8px 24px !important;
+}
+.ecwid .ecwid-btn--secondary:focus, .ecwid .ecwid-btn--secondary:focus:hover {
+  border: 0px solid !important;
+  padding: 8px 24px !important;
+}
+
+/******************************************************************************/
+/******************** STORE CATALOG PAGE **************************************/
+/******************************************************************************/
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsGrid-productTopFragment-inTheBag div.ecwid-productBrowser-productsGrid-inTheBagTick {
+  background: transparent url("data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'26\' height=\'26\' viewBox=\'0 0 26 26\'%3E%3Cpath fill=\'%235cb85c\' d=\'M5 12l5.02 4.9L21.15 4c.65-.66 1.71-.66 2.36 0 .65.67.65 1.74 0 2.4l-12.3 14.1c-.33.33-.76.5-1.18.5-.43 0-.86-.17-1.18-.5l-6.21-6.1c-.65-.66-.65-1.74 0-2.41.65-.65 1.71-.65 2.36.01z\'/%3E%3C/svg%3E") no-repeat scroll right center / 21px auto !important;
+}
+
+/* Horizontal Menu */
+
+#horizontal-menu.horizontal-mobile {
+    border: 1px solid #cccccc !important;
+    border-radius: 0px !important;
+    padding: 10px !important;
+}
+#horizontal-menu.horizontal-desktop .horizontal-menu {
+    border: 0px solid #e7e7e7 !important;
+    border-bottom: 1px solid #cccccc  !important;
+    border-radius: 0px !important;
+}
+#horizontal-menu.horizontal-desktop .horizontal-menu-item:last-child > a {
+  border-right: solid 0px #cccccc !important;
+}
+#horizontal-menu.horizontal-desktop .horizontal-menu-subParent {
+    border: 1px solid #cccccc !important;
+    border-radius: 0px !important;
+}
+
+/* Sign In Link */
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-auth {
+  margin: 0 !important;
+}
+.ecwid-productBrowser-auth-signInLink:before {
+  font-family: FontAwesome;
+  content: "\f090";
+  margin-right: 5px;
+  color: gray !important;
+}
+
+/* MINI MINI Cart Link (also a widget) */
+
+.ecwid-minicart-mini-link:before {
+  font-family: FontAwesome;
+  content: "\f07a";
+  margin-right: 5px;
+  color: gray !important;
+}
+div.ecwid-minicart-mini {
+  width: auto !important;
+}
+html#ecwid_html body#ecwid_body div.ecwid-minicart-mini {
+    white-space: nowrap;
+}
+
+/* Breadcrumbs in catalog */
+
+div.ecwid-productBrowser-categoryPath {
+  color: inherit !important;
+}
+
+/* Products Grid Catalog */
+
+select.gwt-ListBox {
+  padding: 6px 30px 6px 10px !important;
+}
+html#ecwid_html body#ecwid_body .ecwid-productBrowser-productsGrid-v2 div.ecwid-productBrowser-productsGrid-productCostFragment {
+  padding: 0 !important;
+}
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsGrid-productMiddleFragment {
+  margin: 0 !important; 
+} 
+html#ecwid_html body#ecwid_body div.ecwid-ProductBrowser-auth-anonim, html#ecwid_html body#ecwid_body div.ecwid-ProductBrowser-auth-logged {
+  margin-right: 0px !important;
+}
+div.ecwid-productBrowser-productsGrid-productTopFragment {
+  background-color: #fff !important;
+}
+div.ecwid-productBrowser-productsGrid-productTopFragment-mouseover {
+  background-color: #fff !important;
+}
+
+/* Products List View */
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsList-inTheBagTick {
+  background: transparent url("data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'26\' height=\'26\' viewBox=\'0 0 26 26\'%3E%3Cpath fill=\'%235cb85c\' d=\'M5 12l5.02 4.9L21.15 4c.65-.66 1.71-.66 2.36 0 .65.67.65 1.74 0 2.4l-12.3 14.1c-.33.33-.76.5-1.18.5-.43 0-.86-.17-1.18-.5l-6.21-6.1c-.65-.66-.65-1.74 0-2.41.65-.65 1.71-.65 2.36.01z\'/%3E%3C/svg%3E") no-repeat scroll right center / 21px auto !important;
+}
+
+html#ecwid_html body#ecwid_body .ecwid-productBrowser-productsList-productRow td {
+  padding-bottom: 36px !important;
+}
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsList-descr {
+  padding-bottom: 10px !important;
+}
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsList-details div.ecwid-BuyNow {
+  text-align: center;
+  padding-top: 6px !important;
+}
+
+/* Products Table View */
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsTable div.ecwid-productBrowser-price {
+  background-color: transparent !important;
+}
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsTable-inTheBagTick {
+  background: transparent url("data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'26\' height=\'26\' viewBox=\'0 0 26 26\'%3E%3Cpath fill=\'%235cb85c\' d=\'M5 12l5.02 4.9L21.15 4c.65-.66 1.71-.66 2.36 0 .65.67.65 1.74 0 2.4l-12.3 14.1c-.33.33-.76.5-1.18.5-.43 0-.86-.17-1.18-.5l-6.21-6.1c-.65-.66-.65-1.74 0-2.41.65-.65 1.71-.65 2.36.01z\'/%3E%3C/svg%3E") no-repeat scroll center center / 21px auto !important;
+}
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsTable div.ecwid-productBrowser-price::before,
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsTable div.ecwid-productBrowser-price::after {
+  display: none !important;
+}
+
+/******************************************************************************/
+/******************** SINGLE PRODUCT PAGE *************************************/
+/******************************************************************************/
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-details-inTheBag {
+  background: rgba(0, 0, 0, 0) url("data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'23\' height=\'27\' viewBox=\'0 0 40 49\'%3E%3Cpath fill=\'%23000000\' d=\'M37 13v27c0 3.31-2.69 6-6 6H9c-3.31 0-6-2.69-6-6V13h34m2-2H1v29c0 4.418 3.582 8 8 8h22c4.418 0 8-3.582 8-8V11z\'/%3E%3Ccircle fill=\'%23000000\' cx=\'12\' cy=\'17\' r=\'2\'/%3E%3Ccircle fill=\'%23000000\' cx=\'28\' cy=\'17\' r=\'2\'/%3E%3Cpath fill=\'%23000000\' d=\'M29 17h-2v-7c0-3.86-3.14-7-7-7s-7 3.14-7 7v7h-2v-7c0-4.962 4.037-9 9-9s9 4.038 9 9v7zM13 30c0 3.86 3.14 7 7 7s7-3.14 7-7h2c0 4.962-4.037 9-9 9s-9-4.038-9-9h2z\'/%3E%3C/svg%3E") no-repeat scroll 0 13px / 22px auto !important;
+}
+
+html#ecwid_html body#ecwid_body .ecwid .ecwid-productBrowser-ask-advice-panel .ecwid-productBrowser-ask-advice-panel-icon {
+  background: rgba(0, 0, 0, 0) url("data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'11\' height=\'18\' viewBox=\'0 792 550.9 792\' enable-background=\'new 0 792 550.9 792\'%3E%3Cpath fill=\'%23000000\' d=\'M157 1431.5v38.1c0 46.6 25.4 67.8 59.3 72 8.5 25.4 29.6 42.4 55.1 42.4s50.8-21.2 55.1-42.4c38.1-8.5 59.3-29.6 59.3-72v-38.1H157zm122.8-597.1c127.1 0 228.7 105.9 228.7 232.9 0 76.2-33.9 144-93.2 186.4-25.4 21.2-42.4 50.8-50.8 84.7H203.6c-8.5-33.9-29.6-63.5-59.3-84.7-59.3-42.4-97.4-118.6-93.2-194.8C55.3 940.2 157 838.6 279.8 838.6v-4.2m0-42.4h-8.5C127.3 796.2 4.5 914.8.2 1054.6c-4.2 93.2 38.1 182.1 110.1 232.9 29.6 25.4 46.6 59.3 46.6 93.2h237.2c0-33.9 16.9-72 42.4-93.2 72-46.6 114.4-131.3 114.4-220.2 0-148.2-122.8-275.3-271.1-275.3zm-152.5 317.6c-12.7 0-21.2-8.5-21.2-21.2 0-105.9 84.7-190.6 190.6-190.6 12.7 0 21.2 8.5 21.2 21.2s-8.5 21.2-21.2 21.2c-80.5 0-148.2 67.8-148.2 148.2 0 12.8-8.4 21.2-21.2 21.2z\'/%3E%3C/svg%3E") no-repeat scroll left center !important;
+}
+
+html#ecwid_html body#ecwid_body .ecwid-productBrowser-details-rightPanel .ecwid-productBrowser-sharePanel-icon {
+  background: rgba(0, 0, 0, 0) url("data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'15\' height=\'15\' viewBox=\'0 0 15 15\'%3E%3Cpath fill=\'%23000000\' d=\'M13.486 6.16c-.283 0-.513.23-.513.512v6.272H2.027V6.672c0-.283-.23-.513-.514-.513-.284 0-.513.23-.513.512v6.785c0 .282.23.514.513.514h11.973c.283 0 .514-.23.514-.513V6.672c0-.283-.23-.513-.514-.513zM7.743 2.61c0-.002 0-.002.003-.004l.014-.013-.017.017zM5.167 4.734l1.85-1.85v6.263c0 .267.217.483.484.483s.483-.216.483-.483V2.893l1.85 1.85c.19.19.495.19.684 0 .188-.187.188-.493 0-.682L7.862 1.41s-.082-.095-.177-.135c-.118-.05-.25-.05-.37 0-.067.028-.142.092-.17.117l-2.66 2.66c-.19.19-.19.496 0 .685.188.187.494.187.682 0z\'/%3E%3C/svg%3E") no-repeat scroll left center / 13px auto !important;
+}
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-details-rightPanel div.ecwid-productBrowser-backgroundedPanel {
+  max-width: 340px !important;
+}
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-details-like {
+  padding: 10px 0 !important;
+}
+
+html#ecwid_html body#ecwid_body input.ecwid-productBrowser-details-qtyTextField {
+  padding: 6px !important;
+}
+
+html#ecwid_html body#ecwid_body .ecwid .ecwid-productBrowser-ask-advice-panel {
+  padding: 10px 16px !important;
+  height: auto !important;
+}
+
+html#ecwid_html body#ecwid_body .ecwid .ecwid-productBrowser-sharePanel-header {
+  padding: 0px 16px 10px 16px !important;
+  height: auto !important;
+}
+
+/******************************************************************************/
+/******************** WIDGETS *************************************************/
+/******************************************************************************/
+
+div.ecwid-minicart-clickArea {
+  background: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='49' viewBox='0 0 40 49'%3E%3Cpath fill='%23000000' d='M37 13v27c0 3.31-2.69 6-6 6H9c-3.31 0-6-2.69-6-6V13h34m2-2H1v29c0 4.418 3.582 8 8 8h22c4.418 0 8-3.582 8-8V11z'/%3E%3Ccircle fill='%23666666' cx='12' cy='17' r='2'/%3E%3Ccircle fill='%23666666' cx='28' cy='17' r='2'/%3E%3Cpath fill='%23666666' d='M29 17h-2v-7c0-3.86-3.14-7-7-7s-7 3.14-7 7v7h-2v-7c0-4.962 4.037-9 9-9s9 4.038 9 9v7z'/%3E%3C/svg%3E") no-repeat !important;
+}
+
+/*============ Categories Vertical Widget classes ===============*/
+
+div.ecwid-categories {
+  background-color: transparent !important;
+}
+.ecwid-categories-vertical-table {
+    width: 100% !important;
+}
+.ecwid-categories-vertical-table-cell-categoryLink {
+  margin: 0 !important;
+  width: 100% !important;
+}
+.ecwid-categories-vertical-table-cell-categoryLink a {
+    display: inline-block !important;
+    width: 100% !important;
+}
+.ecwid-categories-vertical-table-cell-categoryLink a span {
+  display: inline-block !important;
+  margin: 10px 20px !important;
+}
+div.ecwid-categories-MenuBarPopup div.ecwid-categoriesMenuBar span.ecwid-categories-loading::after {
+  -webkit-animation: none !important;
+  animation: none !important;
+}
+
+/* Second level vertical categories */
+
+div.ecwid-categories-vertical div.ecwid-categoriesMenuBar {
+  margin: 10px 12px 7px 0 !important;
+}
+div.ecwid-categories-vertical div.ecwid-categoriesMenuBar > table {
+  width: auto !important;
+}
+div.ecwid-categories-vertical td.gwt-MenuItem {
+  width: auto !important;
+}
+div.ecwid-categoriesMenuBar td.gwt-MenuItem a:hover,
+div.ecwid-categoriesMenuBar td.gwt-MenuItem a:focus,
+div.ecwid-categoriesMenuBar td.gwt-MenuItem a:active {
+  background-color: transparent !important;
+}
+div.ecwid-categoriesMenuBar td.gwt-MenuItem.gwt-MenuItem-current a {
+  background-color: transparent !important;
+}
+
+/* Bag Widget classes */
+
+div.ecwid-minicart-caption {
+  width: 100%  !important;
+  font-weight: bold !important;
+  color: inherit !important;
+}
+div.ecwid-minicart-label {
+  width: 100%  !important;
+}
+div.ecwid-minicart-link {
+  width: 100%  !important;
+}
+
+/* Recently Viewed Products */
+
+.ecwid-productsList ul li a, #widgets .ecwid-productsList ul li a {
+  border-radius: 0px !important;
+}
+html#ecwid_html body#ecwid_body .ecwid-productsList ul li .ecwid-productsList-price::before,
+html#ecwid_html body#ecwid_body .ecwid-productsList ul li .ecwid-productsList-price::after {
+  display: none !important;
+}
+html#ecwid_html body#ecwid_body .ecwid-productsList ul li .ecwid-productsList-price {
+  padding: 5px 0 !important;
+  position: absolute !important;
+  text-align: left !important;
+}
+
+/* Floating Cart */
+
+div.ecwid-minicart.ecwid-minicart-floating {
+  border: 1px solid #cccccc !important;
+  width: 200px !important;
+}
+
+/******************************************************************************/
+/***************************** SHOPPING BAG PAGE *****************************/
+/******************************************************************************/
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-cart input.ecwid-productBrowser-cart-qtyTextField {
+  box-sizing: content-box !important;
+  padding: 4px !important;
+  width: 40px;
+}
+
+.ecwid-productBrowser-cart-itemsTable-cell div.ecwid-productBrowser-price::before,
+.ecwid-productBrowser-cart-itemsTable-cell div.ecwid-productBrowser-price::after,
+.ecwid-Invoice-itemsTable-cell div.ecwid-productBrowser-price::before,
+.ecwid-Invoice-itemsTable-cell div.ecwid-productBrowser-price::after {
+  display: none !important;
+}
+
+html#ecwid_html body#ecwid_body table.ecwid-productBrowser-cart-qtyEnvelope div.ecwid-fieldEnvelope-around,
+.ecwid-Invoice-qtyLabel {
+  padding: 8px 0 !important;
+}
+
+/******************************************************************************/
+/***************************** SHIPPING DETAILS PAGE **************************/
+/******************************************************************************/
+
+html#ecwid_html body#ecwid_body table.ecwid-AddressForm-state select, html#ecwid_html body#ecwid_body table.ecwid-AddressForm-country select {
+  font-size: 14px !important;
+  padding-left: 17px !important;
+  width: 256px !important;
+}
+
+html#ecwid_html body#ecwid_body div.ecwid-Checkout-PasswordBlock-tip {
+  font-size: 12px !important;
+}
+
+/******************************************************************************/
+/***************************** PLACE ORDERS PAGE ******************************/
+/******************************************************************************/
+
+html#ecwid_html body#ecwid_body div.ecwid-Invoice-cell-title {
+  background-color: @brand-primary;
+}

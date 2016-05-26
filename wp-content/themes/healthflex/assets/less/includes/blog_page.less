@@ -1,0 +1,158 @@
+/*
+--------------------------------------------------------------  
+ 
+BLOG PAGE ELEMENTS
+
+-------------------------------------------------------------- 
+*/
+
+article.post {
+  padding-bottom: 34px;
+  margin-bottom: 40px;
+  .post_headings { margin: 0 0 15px 0;}
+  .post_title {  
+    font-weight: 900;
+    margin: -3px 0 13px 0;  
+    font-size: @font-size-h1 - 6;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    a {
+      &:link, &:visited {color:inherit;}
+    }
+  }
+  p.post_subtitle {
+    font-size   : @font-size-base + 2;
+    font-weight : 500;
+    //margin: 0 0 15px 0;
+  }
+  .post_figure_and_info {
+    position: relative;
+    margin: 0 0 15px 0;
+    //min-height: 40px;
+    .post_sub {
+      //position: absolute;
+      //top: 0;
+      //left: 0;
+      //z-index: 1;
+      //display: inline-block;
+      //padding: 0;
+      a {color: inherit;}
+      .post_info {
+        display: inline-block;
+        padding: 10px 10px;
+        color: #fff;
+        i { margin-right: 5px; }
+        &.post_date { background-color: @brand-secondary; }
+        &.post_author { 
+          background-color: fade(@brand-secondary, 75%);
+          border-left:solid 1px;
+        }
+        &.post_categories { background-color: @brand-primary; border-left:solid 1px; }
+        &.post_tags { background-color: @brand-success; border-left:solid 1px; }
+        &.post_comment { background-color: fade(@brand-primary, 50%); }
+      }
+    }
+  }
+  &.split_33 {
+    overflow: hidden;
+    .post_figure_and_info {
+      margin: 0 20px 0 0;
+      width: 33%;
+      float: left;
+    }
+  }
+  figure {
+    a {
+      .background_cover;
+    }
+  }
+  .stretchy_wrapper img {z-index:-1;}
+  &.sticky {
+    .boxed;
+    .light_section;
+    border-bottom: none !important;
+  }
+}
+
+.single_post .post_title {}
+
+// .post-grid.masonry article.post:last-child {
+//   margin: 0 0 40px 0;
+// }
+
+.post-grid.classic,
+.post-grid.compact {
+  article.post {
+    border-bottom: dashed 1px lighten(@text-color, 50%);
+    &.boxed {
+      border-bottom: inherit;
+    }
+  }
+  div[class *="col-"]:last-child article.post {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: inherit;
+  }
+}
+
+.post-grid.compact {
+  article.post {
+    overflow: hidden;
+    .post_figure_and_info {
+      .post_sub {
+        position: relative;
+      }
+    }
+  }
+}
+
+.post-grid.boxed_children {
+  article.post {
+    .boxed;
+    &.dark_section, &.black_section, &.skincolored_section, &.white_section, &.light_section {
+      border: none !important;
+    }
+    h2.post_title {  
+      .h3;
+      font-weight: 900;
+      margin: 0;   
+    }
+    p.post_subtitle {
+      font-size: @font-size-base;
+    }
+    .post_figure_and_info {
+      margin-top: 10px;
+      display: block;
+      background-color: @brand-secondary;
+      .post_sub {
+        position: relative;
+      }  
+    }  
+  }
+}
+   
+#post_comments {
+    padding: 0 0 30px 0;
+    margin: 20px 0 40px 0;
+    border-bottom: dashed 1px #cccccc;
+    .comment {
+        padding: 10px 0;
+        .comment_name {
+            font-weight : 600;
+            padding-top : 10px;
+            a.reply {
+                font-size : 12px;
+                padding   : 0 6px;
+                }
+            }
+        .comment_date {  font-size: 12px;  }
+        }
+    }
+    
+.comment div[class^="col-"] {
+  margin-bottom : 10px;
+  margin-top    : 10px;
+}
+
+.comment-respond .comment-form p.form-submit {margin-top: 22px;}
+

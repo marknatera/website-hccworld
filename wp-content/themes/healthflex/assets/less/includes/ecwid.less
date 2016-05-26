@@ -1,0 +1,488 @@
+/******************************************************************************/
+/******************** GENERAL STYLES ******************************************/
+/******************************************************************************/
+
+.ecwid,
+.ecwid-minicart,
+.ecwid-SearchPanel,
+.dateBoxPopup,
+.gwt-PopupPanel {
+  font-family: @font-family-sans-serif !important;
+}
+.ecwid {
+  font-size: @font-size-base !important;
+  font-weight: normal !important;
+  color: @text-color !important;
+}
+.ecwid a, .ecwid a:visited, .ecwid a:hover, .ecwid a:active {
+  color: @link-color !important;
+}
+.ecwid input[type=text], .ecwid input[type=password], .ecwid input[type=button],
+.ecwid input[type=checkbox], .ecwid input[type=image], .ecwid input[type=submit],
+.ecwid textarea, .ecwid input[type=email] {
+  border: 1px solid #cbcbcb !important;
+  border-radius: 0 !important;
+  color: @text-color !important;
+  padding: 7px 22px 7px !important;
+  box-sizing: border-box !important;
+}
+.ecwid-EcwidHintingLink {
+  color: @link-color !important;
+  font-size: inherit !important;
+  font-weight: normal !important;
+}
+div.ecwid-Terms-link-title {
+  color: @link-color !important;
+}
+.ecwid-incart {
+  color: inherit !important;
+  fill: @brand-success !important;
+}
+
+
+/* ========================= Ecwid buttons =================================== */
+
+.ecwid button {
+  text-transform: uppercase !important;
+  font-weight: bold !important;
+  font-family: @font-family-alternative !important;
+}
+.ecwid .ecwid-btn {
+  font: normal normal 13px/1.5em @font-family-alternative !important;
+  padding: 8px 24px !important;
+  text-transform: uppercase !important;
+  transition: none !important;
+  font-weight: bold !important;
+}
+.ecwid .ecwid-btn--primary {
+  background: @brand-primary !important;
+  border-radius: 0px !important;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0) !important;
+  color: @skin-section-txtcolor !important;
+  padding: 8px 24px !important;
+}
+.ecwid .ecwid-btn--primary:hover,
+.ecwid .ecwid-btn--primary-hover {
+  background: darken(@brand-primary, 10%) !important;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0) !important;
+  color: @skin-section-txtcolor !important;
+  transition: none !important;
+}
+.ecwid .ecwid-btn--primary:active, .ecwid .ecwid-btn--primary:focus:active {
+  padding: 8px 24px !important;
+  background: darken(@brand-primary, 10%) !important;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0) !important;
+}
+.ecwid .ecwid-btn--secondary {
+  background: @brand-secondary !important;
+  border: 0px solid #cccccc !important;
+  border-radius: 0px !important;
+  color: @secondary-section-txtcolor !important;
+}
+.ecwid .ecwid-btn--secondary:hover,
+.ecwid .ecwid-btn--secondary-hover {
+  background: darken(@brand-secondary, 10%) !important;
+  color: @secondary-section-txtcolor !important;
+}
+.ecwid .ecwid-btn--secondary:active, .ecwid .ecwid-btn--secondary:focus:active {
+  padding: 8px 24px !important;
+  background: darken(@brand-secondary, 10%) !important;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0) !important;
+}
+
+
+/******************************************************************************/
+/***************************** STORE CATALOG PAGE *****************************/
+/******************************************************************************/
+
+/* Search Button */
+
+button.ecwid-SearchPanel-button {
+  .btn !important;
+  .btn-primary !important;
+  position: relative;
+  top: -1px;
+}
+
+/* Horizontal Menu */
+
+.horizontal-menu {
+  font-family: @font-family-alternative;
+}
+.horizontal-menu svg, .horizontal-menu-button svg {
+    fill: @brand-primary !important;
+}
+#horizontal-menu.horizontal-mobile .horizontal-menu-button {
+    color: @link-color !important;
+}
+.horizontal-menu.horizontal-menu--mobile .horizontal-menu-item > a {
+    color: @link-color !important;
+}
+#horizontal-menu.horizontal-desktop .horizontal-menu-item > a {
+    border-radius: 0px !important;
+    color: @text-color !important;
+    border-right: solid 1px #cccccc !important;
+}
+#horizontal-menu.horizontal-desktop .horizontal-menu-item > a span {
+    font-size: @menu-font-size !important;
+    font-weight: bold !important;
+    text-transform: uppercase;
+}
+#horizontal-menu.horizontal-desktop .horizontal-menu-item.horizontal-menu-item--hover > a {
+    background: none !important;
+    color: @link-color !important;
+}
+#horizontal-menu.horizontal-desktop .horizontal-menu-subParent > li > a {
+  padding: 5px 15px !important;
+  border-right: solid 0px #cccccc !important;
+  span {
+    font-size: @menu-font-size - 1 !important;
+  }
+}
+#horizontal-menu .horizontal-menu-item.horizontal-menu-item--active > a {
+    color: @text-color !important;
+    span { color: @link-color !important; }
+}
+
+
+/* Sign In Link */
+
+.ecwid-minicart-mini-link,
+.ecwid-productBrowser-auth-signInLink,
+.ecwid-favorite-menu-item {
+  font-family: @font-family-alternative !important;
+  text-transform: uppercase !important;
+  font-weight: bold !important;
+}
+
+/* MINI MINI Cart Link (also a widget) */
+
+div.ecwid-minicart-mini-rollover {
+  border: solid 1px @brand-primary !important;
+  border-radius: 0px !important;
+}
+.ecwid-minicart-mini-count {
+  color: @link-color !important;
+}
+
+
+/* Categories Grid Catalog */
+
+.ecwid-productBrowser-subcategories-categoryName {
+    position: relative !important;
+    text-align: center !important;
+    padding: 10px !important;
+    .light_section !important;
+    font-size: 15px !important;
+    overflow: inherit !important;
+    &:before,
+    &:after {
+      content: '' !important;
+      width: 0 !important;
+      height: 0 !important;
+      border-style: solid !important;
+      border-color: inherit !important;
+      border-width: 10px 0 0 90px !important;
+      position: absolute !important;
+      z-index: 9 !important;    
+      top: -10px !important;
+      bottom: inherit !important;
+        display: none\9 !important;
+    }
+    &:before {
+      border-top-color: transparent !important;
+      border-bottom-color: transparent !important;
+      left: 50% !important;
+      right: inherit !important;      
+    }
+    &:after {
+      border-top-color: transparent !important;
+      border-bottom-color: transparent !important;
+      right: 50% !important;
+      left: inherit !important;
+      -webkit-transform: rotateY(180deg) !important;
+      transform: rotateY(180deg) !important;
+    }
+  }
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-subcategories-categoryName {
+  margin-top: 0px !important;
+  font-family: @font-family-alternative !important;
+  font-sixe: 15px !important;
+  font-weight: bold !important;
+  text-transform: uppercase !important;
+}
+
+/* Products Grid Catalog */ 
+
+div.ecwid-productBrowser-head {
+  font-family: @font-family-alternative !important;
+  font-size: @font-size-h2 !important;
+  font-weight: bold !important;
+  color: inherit !important;
+  text-transform: uppercase !important;
+}
+
+.ecwid-results-topPanel-controlsPanel {
+  padding: 5px 10px !important;
+  .light_section !important;
+}
+
+.ecwid-productBrowser-productsGrid-productMiddleFragment {
+  position: relative !important;
+  text-align: center !important;
+  padding: 10px !important;
+  .light_section !important;
+  font-size: 15px !important;
+  overflow: inherit !important;
+  &:before,
+  &:after {
+    content: '' !important;
+    width: 0 !important;
+    height: 0 !important;
+    border-style: solid !important;
+    border-color: inherit !important;
+    border-width: 10px 0 0 90px !important;
+    position: absolute !important;
+    z-index: 9 !important;    
+    top: -10px !important;
+    bottom: inherit !important;
+      display: none\9 !important;
+  }
+  &:before {
+    border-top-color: transparent !important;
+    border-bottom-color: transparent !important;
+    left: 50% !important;
+    right: inherit !important;      
+  }
+  &:after {
+    border-top-color: transparent !important;
+    border-bottom-color: transparent !important;
+    right: 50% !important;
+    left: inherit !important;
+    -webkit-transform: rotateY(180deg) !important;
+    transform: rotateY(180deg) !important;
+  }
+}
+
+div.ecwid-productBrowser-productNameLink a,
+div.ecwid-productBrowser-productNameLink a:link,
+div.ecwid-productBrowser-productNameLink a:active,
+div.ecwid-productBrowser-productNameLink a:visited {
+  font-family: @font-family-alternative !important;
+  text-transform: uppercase !important;
+  font-size: 15px !important;
+  font-weight: bold !important;
+  color: @light-section-txtcolor !important;
+}
+
+div.ecwid-productBrowser-price {
+  position: relative !important;
+  text-align: center !important;
+  padding: 10px !important;
+  .white_section !important;
+  font-size: 14px !important;
+  overflow: inherit !important;
+  &:before,
+  &:after {
+    content: '' !important;
+    width: 0 !important;
+    height: 0 !important;
+    border-style: solid !important;
+    border-color: inherit !important;
+    border-width: 10px 0 0 90px !important;
+    position: absolute !important;
+    z-index: 9 !important;    
+    bottom: -10px !important;
+    top: inherit !important;
+      display: none\9 !important;
+  }
+  &:before {
+    border-left-color: transparent !important;
+    border-right-color: transparent !important;
+    right: 50% !important;
+    left: inherit !important;      
+  }
+  &:after {
+    border-left-color: transparent !important;
+    border-right-color: transparent !important;
+    left: 50% !important;
+    right: inherit !important;
+    -webkit-transform: rotateY(180deg) !important;
+    transform: rotateY(180deg) !important;
+  }
+} 
+
+/* Products Table View */
+
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-productsTable-addToBagLink {
+  color: @link-color !important;
+}
+
+/******************************************************************************/
+/******************** SINGLE PRODUCT PAGE *************************************/
+/******************************************************************************/
+
+div.ecwid-productBrowser-backgroundedPanel {
+  background-color: @light-section-bgcolor !important;
+}
+
+div.ecwid-form {
+  background-color: @light-section-bgcolor !important;
+}
+
+/******************************************************************************/
+/***************************** WIDGETS ****************************************/
+/******************************************************************************/
+
+html#ecwid_html .widget {
+  h4 {
+    position: relative;
+    text-align: center;
+    padding: 10px;
+    .light_section;
+    font-size: 15px;
+    overflow: inherit;
+    &:before,
+    &:after {
+      content: '';
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-color: inherit;
+      border-width: 10px 0 0 90px; 
+      position: absolute;
+      z-index: 9;    
+      bottom: -10px;
+      top: inherit;
+        display: none\9;
+    }
+    &:before {
+      border-left-color: transparent;
+      border-right-color: transparent;
+      right: 50%;
+      left: inherit;      
+    }
+    &:after {
+      border-left-color: transparent;
+      border-right-color: transparent;
+      left: 50%;
+      right: inherit;
+      -webkit-transform: rotateY(180deg);
+      transform: rotateY(180deg);
+    }
+  }
+}
+
+/*============ Categories Vertical Widget classes ===============*/
+
+.ecwid-categories-vertical-table-cell {
+    background-color: #fff !important;
+    border-bottom: solid 3px @body-bg !important;
+    width: 100% !important;
+}
+.ecwid-categories-vertical-table-cell-categoryLink a:hover {
+    background-color: @brand-primary !important;
+    span {
+      color: @skin-section-txtcolor !important;
+    }
+}
+/* First level category links */
+span.ecwid-categories-category {
+  font-size: @font-size-h5 !important;
+  font-weight: bold !important;
+  color: @text-color !important;
+}
+/* Second level category links */
+div.ecwid-categoriesMenuBar span.ecwid-categories-category {
+  font-size: @font-size-h5 !important;
+}
+/* 3rd, 4th, etc level category links */
+div.ecwid-categories-MenuBarPopup div.ecwid-categoriesMenuBar span.ecwid-categories-category {
+  font-size: @font-size-h6 !important;
+}
+/* Current category links */
+div.ecwid-categoriesMenuBar td.gwt-MenuItem-selected a,
+div.ecwid-categoriesMenuBar td.gwt-MenuItem-current a,
+td.ecwid-categories-vertical-table-cell-selected a,
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected a {
+  background-color: @brand-primary !important;
+}
+div.ecwid-categoriesMenuBar td.gwt-MenuItem-selected span.ecwid-categories-category,
+div.ecwid-categoriesMenuBar td.gwt-MenuItem-current span.ecwid-categories-category,
+td.ecwid-categories-vertical-table-cell-selected span.ecwid-categories-category,
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected span.ecwid-categories-category {
+  color: @skin-section-txtcolor !important;
+}
+
+/* Second level vertical categories */
+
+div.ecwid-categoriesMenuBar td.gwt-MenuItem a:hover span,
+div.ecwid-categoriesMenuBar td.gwt-MenuItem a:focus span,
+div.ecwid-categoriesMenuBar td.gwt-MenuItem a:active span {
+  background-color: transparent !important;
+  color: @brand-primary !important;
+}
+div.ecwid-categoriesMenuBar td.gwt-MenuItem.gwt-MenuItem-current a span {
+  color: @brand-primary !important;
+}
+
+/* Bag Widget classes */
+
+/* Main container of the Bag widget */
+div.ecwid-minicart {
+  font-family: @font-family-alternative !important;
+  text-transform: uppercase !important;
+  width: 100% !important;
+  border: 0px solid #bfbfbf !important;
+  border-radius: 0px !important;
+}
+div.ecwid-minicart-link * {
+  color: @link-color !important;
+}
+/* Items counter */
+div.ecwid-minicart-counter {
+  left: 50% !important;
+  color: @brand-primary !important;
+  .translate(-50%, 0);
+}
+/* Click area over the bag icon */
+div.ecwid-minicart-clickArea {
+  left: 50% !important;
+  .translate(-50%, 0);
+}
+
+/* Recently Viewed Products */
+
+html#ecwid_html body#ecwid_body .ecwid-productsList ul li .ecwid-productsList-name {
+  font-family: @font-family-alternative !important;
+  text-transform: uppercase !important;
+  font-size: 13px !important;
+  font-weight: bold  !important;
+  color: @text-color !important;
+}
+
+
+/******************************************************************************/
+/***************************** SHOPPING BAG PAGE *****************************/
+/******************************************************************************/
+
+
+
+/******************************************************************************/
+/***************************** SHIPPING DETAILS PAGE **************************/
+/******************************************************************************/
+
+html#ecwid_html body#ecwid_body div.ecwid-Checkout-blockTitle, html#ecwid_html body#ecwid_body table.ecwid-Checkout-blockTitle div.gwt-Label, html#ecwid_html body#ecwid_body table.ecwid-Checkout-blockTitle div.gwt-HTML {
+  color: @text-color !important;
+  padding: 8px 0 0 0 !important;
+}
+
+
+/******************************************************************************/
+/***************************** PLACE ORDERS PAGE ******************************/
+/******************************************************************************/
+
+html#ecwid_html body#ecwid_body td.ecwid-Invoice-cell {
+  background-color: #ffffff !important;
+}

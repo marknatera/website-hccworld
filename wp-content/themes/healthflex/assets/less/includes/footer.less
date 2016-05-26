@@ -1,0 +1,33 @@
+footer {
+    background-color : @footer-bgcolor;
+    border-color: @footer-bgcolor;
+    color            : @footer-txtcolor;
+    a:link, a:visited { color: @footer-linkcolor; }
+    a:hover, a:active { color: @footer-linkcolor-hover; }
+    .theme_transition;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+    z-index: 9;
+    .widget {
+        margin: 15px 0;
+    }    
+}   
+
+@media (min-width: @screen-sm-min) {
+
+    footer .widget.boxed {
+        position: relative;
+        top: -30px;
+    }
+
+}
+
+.copyright {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: relative;
+    height: auto !important;
+    font-size: @font-size-base - 1;
+}
+

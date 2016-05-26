@@ -1,0 +1,148 @@
+/* 
+ =WP General Styles
+ -------------------------------------------------------------- 
+*/
+
+.aligncenter{ display:block;  margin:0 auto;}
+.alignright{ float:right;  margin:10px 0 10px 10px;}
+.alignleft{ float:left;  margin:10px 10px 10px 0;}
+.floatleft{ float:left;}
+.floatright{ float:right;}
+.textcenter{ text-align:center;}
+.textright{ text-align:right;}
+.textleft{ text-align:left;}
+.wp-caption,
+.gallery-caption {
+  font-size:13px;
+  //border: 1px solid #ccc;
+  //padding: 10px;
+  //background-color: #fff;
+  border-radius: 0;
+  margin-bottom: 5px;
+  max-width: 100%;
+  img{ margin:0;  padding:0;  border:0 none; max-width: 100%;height: auto!important;}
+  p.wp-caption-text{ //background-color: #fff; 
+    line-height:17px;  padding:5px;  margin:0; text-align: center; }
+}
+.wp-smiley{margin:0 !important; max-height:1em}
+
+
+/* 
+ =Admin-bar Fix
+ -------------------------------------------------------------- 
+*/
+
+body.admin-bar.sticky_header .overflow_wrapper,
+body.admin-bar.sticky_header .header {
+    margin-top: 30px;
+}
+
+
+
+/* 
+ =Visual Composer Adjustments
+ -------------------------------------------------------------- 
+*/
+
+@media (max-width: @screen-sm-max) {
+  .vc_row .row  {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
+.main_col .vc_row {
+  margin: 0;
+}
+
+.wpb_row {
+  margin-bottom: 0px;
+}
+
+.wpb_content_element {
+  margin-bottom: (@section-vertical-padding / 4);
+}
+
+.wpb_content_element + .vc_separator  {
+  position: relative;
+  margin-top: -5px;
+}
+
+.vc_separator + .wpb_content_element  {
+  position: relative;
+  margin-top: -7px;
+}
+
+.vc_separator + .wpb_text_column  {
+  position: relative;
+  margin-top: -12px;
+}
+
+.wpb_text_column + .wpb_content_element {
+  position: relative;
+  margin-top: -7px;
+}
+
+.wpb_text_column + .vc_separator {
+  position: relative;
+  margin-top: -11px;
+}
+
+.vc_separator h4 {
+  font-size: @font-size-h4;
+  line-height: 1.3em;
+}
+
+.vc_separator .vc_sep_line {
+  border-color: inherit !important;
+}
+
+.wpb_text_column .wpb_wrapper h1,
+.wpb_text_column .wpb_wrapper h2,
+.wpb_text_column .wpb_wrapper h3,
+.wpb_text_column .wpb_wrapper h4,
+.wpb_text_column .wpb_wrapper h5,
+.wpb_text_column .wpb_wrapper h6 {
+  margin-top: 0px;
+}
+
+.wpb_text_column .wpb_wrapper p + h1,
+.wpb_text_column .wpb_wrapper p + h2,
+.wpb_text_column .wpb_wrapper p + h3,
+.wpb_text_column .wpb_wrapper p + h4,
+.wpb_text_column .wpb_wrapper p + h5,
+.wpb_text_column .wpb_wrapper p + h6 {
+  margin-top: @line-height-computed;
+}
+
+
+//.wpb_single_image {  margin-bottom: 0 !important;  }
+
+.transparent_film.video > .vc_video-bg {
+  position: absolute;
+  z-index: -1;
+}
+
+.wpb_gmaps_widget .wpb_wrapper {
+  background-color: none;
+  padding: 0px;
+}
+
+@media (min-width: @screen-sm-min) {
+  .vc_grid-item {
+    float: left !important;
+  }
+}
+
+.vc-gitem-zone-height-mode-auto::before {
+  padding-top: 56.25%;
+}
+
+.vc_round-chart {max-width: 320px;}
+
+.vc_message_box-icon > .fa {
+  top: 16px;
+}
+
+
+

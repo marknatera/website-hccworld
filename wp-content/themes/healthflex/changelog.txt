@@ -1,0 +1,74 @@
+Changelog
+---------
+
+ver. 1.4.3  [28/04/2016]
+
+ - UPDATE: Icons Library functionality that allowed uploading your own icons font was dropped, due to lots of support tickets containing unexpected issues with several non WP-friendly hosts. Please make sure that you reset the 'Theme Options > Icons Library' section after update. The feature will continue to work, serving our preset libraries but any custom libraries that may added will not work . Existing customers that find this functionality crucial for their projects, may address to our support to provide them a theme-child patch that will recover the feature as it worked until now. Thank you very much for your understanding.
+ - UPDATE: Visual Composer to 4.11.2.1 version
+
+ver. 1.4.2  [15/04/2016]
+
+ - UPDATE: Compatibility tasks for WP 4.5
+ - UPDATE: Visual Composer to 4.11.2 version
+ - FIX: New comments name field issue fixed ( thanks to Jean Leal, #2313 )
+ - FIX: Slider dropdown field is working as expected on WPML translations ( thanks to studiocreation, #2323 )
+ - FIX: Social icons switch for Profiles Grid shortcode is working
+ - FIX: Align issue Heading Group shortcode
+ - FIX: Other microfixes
+
+
+ver. 1.4.1  [03/04/2016]
+
+ - UPDATE: Dropped support for PHP 5.3. <a href="http://plethorathemes.com/blog/dropping-support-for-php-5-3-x/" target="_blank">Read more here </a>. PHP 5.3 installations will continue to function, but will not be technically supported.
+ - UPDATE: Rebuilt for Terms Index shortcode class to support multilingual terms
+ - UPDATE: Added 'Design Options' tab and improved VC options panel layout for shortcodes: Classic Post, Button, Newsletter form, Heading Group and Terms Index...all the rest shortcodes will follow on next update
+ - UPDATE: Visual Composer to 4.11.1 version
+ - FIX: Blog search works fine
+ - FIX: Profiles Grid shortcode fix for profiles display order ( thanks to dpicot68, #2252 )
+ - FIX: Text tranform for buttons works fine
+
+ver. 1.4 [15/03/2016]
+ 
+ - NEW: Health Coach Demo content added 
+ - NEW: Demo importer tool added. Demo import is easy now!
+ - UPDATE: Visual Composer to 4.11 version
+ - UPDATE: Plethora Features Library to 1.4 version
+ - UPDATE: Added slider configuration for Testimonial Slider shortcode
+ - UPDATE: Added RTL option for Media panel slider / Testimonial shortcode slider
+ - UPDATE: Eliminated a single PHP 7.0 deprecate notice
+ - FIX: Webfont Medical Icons, all icons working fine ( thanks to davekjazz, #2146 )
+ - FIX: Animate CSS fixes for Safari ( thanks to davekjazz, #2144 )
+ - FIX: Media Panel Slider text fields display HTML properly ( thanks to comfortcommunication, #2134 )
+ - FIX: Teaser box button switch works fine on Firefox
+
+ver. 1.3.1 [23/02/2016]
+
+ - UPDATE: Some improvements for top bar default and custom text functionality. Thank you PeterHoppe!
+ - UPDATE: Various minor design and admin UI improvements
+ - FIX: Some more improvements for Icons Library module that will eliminate some issues with self-signed SSL installations.
+ - FIX: Testimonial slider issue when displayed a single testimonial post
+
+ver. 1.3 [18/02/2016]
+
+ - UPDATE: Added authentication support for remote calls used on Icons Library. Will fix several tickets arrived with fatal errors on password protected staging installations.
+ - FIX: Minor improvements & fixes.
+ - NOTE: Visual Composer plugin should not produce notices for manual updates, we are responsinble for keeping up with this. Nevertheless, those notices are produced, an issue that we have have already forwarded to the plugin author who informed us that is working for a fix. Since the latest VC 4.10 does not include a fix for this issue and the plugin's main functionality is not affected, we decided to wait for the next update that will resolve this. Thanks for your patience!
+
+ver. 1.2  [06/02/2016]
+
+ - NEW: Added support for Ecwid Shopping Cart plugin.
+ - NEW: Added advanced support for user created custom post types ( i.e. CPTs created programmatically or using a plugin such as Custom Post Type UI ). A dedicated options tab will be added on Theme Options for each CPT you create.
+ - UPDATE: Updated PFL plugin to 1.2
+ - UPDATE: .POT files updated.
+ - FIX: Minor fixes for profile page layout and profiles grid shortcode.Popup window functionality works fine.
+ - NOTE: Visual Composer plugin should not produce notices for manual updates, we are responsinble for keeping up with this. Nevertheless, those notices are produced, an issue that we have have already forwarded to the plugin author who informed us that is working for a fix. Since the latest VC 4.9.2 does not include a fix for this issue and the plugin's main functionality is not affected, we decided to wait for the next update that will resolve this. Thanks for your patience!
+
+ver. 1.1  [25/01/2016]
+
+ - UPDATE: added admin notice for PHP 5.2 hosting packages ( thanks to Mr Gonzalez, ticket #1974 )
+ - FIX: array call fix causing fatal error on PHP 5.3 hosting packages ( PFL )
+
+ver. 1.0  [15/01/2016]
+
+ - Initial launch
+

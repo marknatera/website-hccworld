@@ -1,0 +1,209 @@
+.button-variant(@color; @background; @border) {
+  color: @color !important;
+  background-color: @background !important;
+  border-color: @border !important;
+  &:hover,
+  &:focus,
+  &.focus,
+  &:active,
+  &.active,
+  .open > .dropdown-toggle& {
+    color: @color !important;
+    background-color: darken(@background, 10%) !important;;
+    border-color: darken(@border, 10%) !important;;
+  }
+  &:active,
+  &.active,
+  .open > .dropdown-toggle& {
+    background-image: none;
+  }
+  &.disabled,
+  &[disabled],
+  fieldset[disabled] & {
+    &,
+    &:hover,
+    &:focus,
+    &.focus,
+    &:active,
+    &.active {
+      background-color: @background;
+          border-color: @border;
+    }
+  }
+  .badge {
+    color: @background;
+    background-color: @color;
+  }
+}
+
+// Button sizes
+.button-size(@padding-vertical; @padding-horizontal; @font-size; @line-height; @border-radius) {
+  padding: @padding-vertical @padding-horizontal;
+  font-size: @font-size !important;
+  line-height: @line-height !important;
+  border-radius: @border-radius;
+}
+
+.btn {
+  font-family: @font-family-alternative;
+  display: inline-block;
+  background-image : none;
+  border           : 0px solid transparent;
+  font-weight      : @btn-font-weight;
+  text-align       : center;
+  text-transform   : @btn-text-transform;
+  .button-size(@padding-base-vertical; @padding-base-horizontal; (@font-size-base - 2); @line-height-base; @border-radius-base);  
+  &,
+  &:active,
+  &.active {
+    &:focus {  .tab-focus();  }
+  }
+  &:hover,
+  &:focus {
+    color           : @btn-default-color;
+    text-decoration : none;
+  }
+  &:active,
+  &.active {
+    outline: 0;
+    background-image: none;
+  }
+  &.disabled,
+  &[disabled],
+  fieldset[disabled] & {
+    cursor: not-allowed;
+    pointer-events: none; // Future-proof disabling of clicks
+    .opacity(.65);
+  }
+}
+
+.btn-default {  .button-variant(@btn-default-color; @btn-default-bg; transparent);  }
+
+.btn-primary  {  .button-variant(@btn-primary-color; @btn-primary-bg; transparent);  }
+
+.btn-secondary {  .button-variant(@btn-secondary-color; @btn-secondary-bg; transparent);  }
+
+.btn-white {  .button-variant(@btn-white-color; #ffffff; transparent);  }
+
+.btn-success {  .button-variant(@btn-success-color; @btn-success-bg; transparent);  } 
+.btn-info {  .button-variant(@btn-info-color; @btn-info-bg; transparent);  }            
+.btn-warning {  .button-variant(@btn-warning-color; @btn-warning-bg; transparent);  } 
+.btn-danger {  .button-variant(@btn-danger-color; @btn-danger-bg; transparent);  }
+
+// Link buttons
+// -------------------------
+
+// Make a button look and behave like a link
+.btn-link {
+  color: @link-color;
+  font-weight: normal;
+  border-radius: 0;
+  .button-size(@padding-base-vertical; 0; @font-size-small; @line-height-base; @border-radius-base) !important; 
+  &,
+  &:active,
+  &.active,
+  &[disabled],
+  fieldset[disabled] & {
+    background-color: transparent;
+    .box-shadow(none);
+  }
+  &,
+  &:hover,
+  &:focus,
+  &:active {
+    border-color: transparent;
+  }
+  &:hover,
+  &:focus {
+    color: @link-hover-color;
+    text-decoration: @link-hover-decoration;
+    background-color: transparent;
+  }
+  &[disabled],
+  fieldset[disabled] & {
+    &:hover,
+    &:focus {
+      color: @btn-link-disabled-color;
+      text-decoration: none;
+    }
+  }
+}
+
+// Button Sizes
+// --------------------------------------------------
+
+.btn-lg {
+  .button-size(@padding-large-vertical; @padding-large-horizontal; @font-size-base; @line-height-large; @border-radius-large);
+}
+.btn-sm {
+  .button-size(@padding-small-vertical; @padding-small-horizontal; (@font-size-base - 3); @line-height-small; @border-radius-small);
+}
+.btn-xs {
+  .button-size((@padding-small-vertical - 1); @padding-small-horizontal; (@font-size-base - 5); @line-height-small; @border-radius-small);
+}
+
+
+// Block button
+// --------------------------------------------------
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+// Vertically space out multiple block buttons
+.btn-block + .btn-block {
+  margin-top: 5px;
+}
+
+// Specificity overrides
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  &.btn-block {
+    width: 100%;
+  }
+}
+
+// Button with icon
+// --------------------------------------------------
+
+.btn.with-icon {
+  position: relative;
+  padding-right: 57px;
+  i {
+    display: block;
+    border: solid 1px transparent;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 37px;
+    //height: 37px;
+    height: 100%;
+    line-height: 36px;
+    font-size: 19px;
+    color: inherit !important;
+  }
+  &.btn-sm i {
+    line-height: 29px;
+  }
+  &.icon-left {
+    padding-right: 24px;
+    padding-left: 57px;
+    i {
+      right: inherit;
+      left: -2px;
+    }
+  }
+}
+
+.btn.with-icon {
+  &.btn-default i { background-color: darken(@btn-default-bg , 20%); }
+  &.btn-primary i { background-color: darken(@brand-primary , 20%);  }
+  &.btn-secondary i { background-color: darken(@brand-secondary , 20%); }
+  &.btn-white i { background-color: darken(#ffffff , 20%); }
+  &.btn-danger i { background-color: darken(@brand-danger , 20%); }
+  &.btn-warning i { background-color: darken(@brand-warning , 20%); }
+  &.btn-info i { background-color: darken(@brand-info , 20%); }
+  &.btn-success i { background-color: darken(@brand-success , 20%); }
+}

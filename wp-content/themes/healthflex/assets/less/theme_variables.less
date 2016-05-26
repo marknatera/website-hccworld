@@ -1,0 +1,186 @@
+/*!
+ ______ _____   _______ _______ _______ _______ ______ _______ 
+|   __ \     |_|    ___|_     _|   |   |       |   __ \   _   |
+|    __/       |    ___| |   | |       |   -   |      <       |
+|___|  |_______|_______| |___| |___|___|_______|___|__|___|___|
+
+P L E T H O R A T H E M E S . C O M               (c) 2015-2016
+                        
+Theme Name: HEALTHFLEX
+=============================================================== 
+*/
+
+//== General Colors
+
+@brand-primary: @wp-brand-primary;
+@brand-secondary: @wp-brand-secondary;
+
+@brand-success: #5cb85c;
+@brand-info: #67B8FC;
+@brand-warning: #f0ad4e;
+@brand-danger: #d9534f;
+
+@body-bg: @wp-body-bg; 
+@text-color: @wp-text-color;
+
+@link-color: @wp-link-color;
+@link-hover-color: @wp-link-hover-color;
+
+//== Sections Colors
+
+@topbar-bgcolor         : @wp-topbar-bgcolor;
+@topbar-linkcolor       : @wp-topbar-linkcolor;
+@topbar-linkcolor-hover : @wp-topbar-linkcolor-hover;
+@topbar-txtcolor        : @wp-topbar-txtcolor;
+
+@header-bgcolor         : @wp-header-bgcolor;
+@header-linkcolor       : @wp-header-linkcolor;
+@header-linkcolor-hover : @wp-header-linkcolor-hover;
+@header-txtcolor        : @wp-header-txtcolor;
+@header-diagonal-gradient-left-area-color: @wp-header-diagonal-gradient-left-area-color;
+@header-diagonal-gradient-right-area-color: @wp-header-diagonal-gradient-right-area-color;
+
+@skin-section-bgcolor         : @brand-primary;
+@skin-section-linkcolor       : @wp-skin-section-linkcolor;
+@skin-section-linkcolor-hover : @wp-skin-section-linkcolor-hover;
+@skin-section-txtcolor        : @wp-skin-section-txtcolor;
+
+@secondary-section-bgcolor         : @brand-secondary;
+@secondary-section-linkcolor       : @wp-secondary-section-linkcolor;
+@secondary-section-linkcolor-hover : @wp-secondary-section-linkcolor-hover;
+@secondary-section-txtcolor        : @wp-secondary-section-txtcolor;
+
+@light-section-bgcolor         : @wp-light-section-bgcolor;
+@light-section-linkcolor       : @wp-light-section-linkcolor;
+@light-section-linkcolor-hover : @wp-light-section-linkcolor-hover;
+@light-section-txtcolor        : @wp-light-section-txtcolor;
+
+@dark-section-bgcolor         : @wp-dark-section-bgcolor;
+@dark-section-linkcolor       : @wp-dark-section-linkcolor;
+@dark-section-linkcolor-hover : @wp-dark-section-linkcolor-hover;
+@dark-section-txtcolor        : @wp-dark-section-txtcolor;
+
+@white-section-bgcolor         : @wp-white-section-bgcolor;
+@white-section-linkcolor       : @wp-white-section-linkcolor;
+@white-section-linkcolor-hover : @wp-white-section-linkcolor-hover;
+@white-section-txtcolor        : @wp-white-section-txtcolor;
+
+@black-section-bgcolor         : @wp-black-section-bgcolor;
+@black-section-linkcolor       : @wp-black-section-linkcolor;
+@black-section-linkcolor-hover : @wp-black-section-linkcolor-hover;
+@black-section-txtcolor        : @wp-black-section-txtcolor;
+
+@footer-bgcolor         : @wp-footer-bgcolor;
+@footer-linkcolor       : @wp-footer-linkcolor;
+@footer-linkcolor-hover : @wp-footer-linkcolor-hover;
+@footer-txtcolor        : @wp-footer-txtcolor;
+
+//== Buttons Colors
+
+@btn-default-color:              @body-bg;
+@btn-default-bg:                 @text-color;
+
+@btn-primary-color:              @skin-section-txtcolor;
+@btn-primary-bg:                 @brand-primary;
+
+@btn-secondary-color:              @secondary-section-txtcolor;
+@btn-secondary-bg:                 @brand-secondary;
+
+@btn-white-color: @white-section-linkcolor;
+
+//== Transparencies
+
+@section-background-transparency: @wp-section-background-transparency;
+@header-background-transparency: @wp-header-background-transparency;
+
+//== Typography
+
+@font-family-sans-serif:  @wp-font-family-sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif;
+@font-family-alternative: @wp-font-family-alternative, "Helvetica Neue", Helvetica, Arial, sans-serif; //wp
+
+@font-size-base:          			  @wp-font-size-base;
+@font-size-alternative-base:          @wp-font-size-alternative-base;
+@font-size-large:         ceil((@font-size-base * 1.1));
+@font-size-small:         ceil((@font-size-base * 0.8));
+
+@font-size-h1:            floor((@font-size-alternative-base * @wp-h1-multiplier));
+@font-size-h2:            floor((@font-size-alternative-base * @wp-h2-multiplier));
+@font-size-h3:            floor((@font-size-alternative-base * @wp-h3-multiplier));
+@font-size-h4:            floor((@font-size-alternative-base * @wp-h4-multiplier));
+@font-size-h5:            floor((@font-size-alternative-base * @wp-h5-multiplier));
+@font-size-h6:            ceil((@font-size-alternative-base * @wp-h6-multiplier));
+
+@line-height-base:        1.5; 
+@line-height-large:       1.33;
+@line-height-small:       1.6;
+@line-height-computed:    floor((@font-size-base * @line-height-base)); 
+
+@headings-font-family:    @font-family-alternative;
+@headings-text-transform: @wp-headings-text-transform;  
+@headings-font-weight:    @wp-headings-font-weight;  
+@headings-line-height:    1.1;
+@headings-color:          inherit;
+
+@btn-font-family:         @font-family-alternative;
+@btn-font-weight:         bold;
+@btn-text-transform:      @wp-btn-text-transform;  
+
+@header-font-family:      @font-family-alternative;
+
+//== Layout
+
+@full-width-photo-min-panel-height: @wp-full-width-photo-min-panel-height; 
+@full-width-photo-min-panel-height-sm: @wp-full-width-photo-min-panel-height-sm; 
+@full-width-photo-min-panel-height-xs: @wp-full-width-photo-min-panel-height-xs; 
+
+@map-panel-height: @wp-map-panel-height; 
+@map-panel-height-sm: @wp-map-panel-height-sm; 
+@map-panel-height-xs: @wp-map-panel-height-xs; 
+
+@logo-vertical-margin: @wp-logo-vertical-margin; 
+@logo-vertical-margin-sm: @wp-logo-vertical-margin-sm; 
+@logo-vertical-margin-xs: @wp-logo-vertical-margin-xs; 
+
+@logo-font-size: @wp-logo-font-size; 
+@logo-font-size-sm: @wp-logo-font-size-sm; 
+@logo-font-size-xs: @wp-logo-font-size-xs; 
+
+@logo-img-max-height: @wp-logo-img-max-height; 
+@logo-img-max-height-sm: @wp-logo-img-max-height-sm; 
+@logo-img-max-height-xs: @wp-logo-img-max-height-xs; 
+
+@menu-item-vertical-padding: @wp-menu-item-vertical-padding; 
+@menu-item-vertical-padding-md: @wp-menu-item-vertical-padding-md; 
+@menu-item-vertical-padding-sm: @wp-menu-item-vertical-padding-sm; 
+
+@menu-item-horizontal-padding: @wp-menu-item-horizontal-padding; 
+@menu-item-horizontal-padding-md: @wp-menu-item-horizontal-padding-md; 
+@menu-item-horizontal-padding-sm: @wp-menu-item-horizontal-padding-sm; 
+
+@menu-font-size: @wp-menu-font-size; 
+
+@diagonal-gradient-angle: @wp-diagonal-gradient-angle; 
+
+@header-diagonal-gradient-left-area-percentage: @wp-header-diagonal-gradient-left-area-percentage; 
+@header-diagonal-gradient-left-area-percentage-md: @wp-header-diagonal-gradient-left-area-percentage-md; 
+@header-diagonal-gradient-left-area-percentage-sm: @wp-header-diagonal-gradient-left-area-percentage-sm; 
+@header-diagonal-gradient-left-area-percentage-xs: @wp-header-diagonal-gradient-left-area-percentage-xs; 
+
+@section-vertical-padding: 128px;
+
+//== Core variables overrides
+
+@border-radius-base: 0;
+@border-radius-small: 0;
+@border-radius-large: 0;
+@padding-base-vertical: 8px; 
+@padding-base-horizontal: 24px;
+
+// Navbar collapse
+//** Point at which the navbar becomes uncollapsed.
+@grid-float-breakpoint:     @screen-sm-max;
+//** Point at which the navbar begins collapsing.
+@grid-float-breakpoint-max: (@grid-float-breakpoint - 1);
+
+@screen-xxs: 480px;
+@screen-xxxs: 320px;
